@@ -1,0 +1,5 @@
+- [Outline Notes]()
+- [My Takeaways]()
+- [My Thoughts]()
+- -----------------------
+- [Notes Archive]() for Returning Visitors
