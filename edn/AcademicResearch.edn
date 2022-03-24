@@ -67,8 +67,8 @@
   [1 :user/email "tharansakthi@gmail.com" 536870913]
   [1
    :user/photo-url
-   "https://lh3.googleusercontent.com/a-/AOh14GhKu8VRnsrRVo0IqweYRk4cVW85HCUg9bT6utXo9UU"
-   536873335]
+   "https://lh3.googleusercontent.com/a-/AOh14GhKu8VRnsrRVo0IqweYRk4cVW85HCUg9bT6utXo9UU=s96-c"
+   536873336]
   [1 :user/uid "MTay0rrOEqgIPYVaQvzXsrXrD9h2" 536870913]
   [21 :block/uid "srMYnyTE4" 536873249]
   [21 :window/filters {:includes (), :removes ()} 536871023]
@@ -165,8 +165,8 @@
   [415 :version/id "0.9.4" 536873257]
   [415
    :version/nonce
-   "uuideb5c6b67-f1ca-4f47-86d2-8361feda8b41"
-   536873335]
+   "uuid4a6eafee-f79a-4bcb-823e-c5e97d3f33b8"
+   536873341]
   [419 :block/uid "bxZMk6kQL" 536873263]
   [420 :block/uid "sX9F7IRd9" 536873263]
   [421 :block/uid "Omj4ph71V" 536873263]
@@ -410,4 +410,22 @@
   [459 :create/user 1 536873333]
   [459 :edit/time 1648121354673 536873333]
   [459 :edit/user 1 536873333]
-  [459 :node/title "My Thoughts" 536873333]]}
+  [459 :node/title "My Thoughts" 536873333]
+  [460 :block/children 461 536873338]
+  [460 :block/uid "HFEPwANOV" 536873337]
+  [460 :create/time 1648128869739 536873337]
+  [460 :create/user 1 536873337]
+  [460 :edit/time 1648128869739 536873337]
+  [460 :edit/user 1 536873337]
+  [460 :node/title "Public" 536873337]
+  [461 :block/open true 536873338]
+  [461 :block/order 0 536873338]
+  [461 :block/page 460 536873339]
+  [461 :block/parents 460 536873339]
+  [461 :block/refs 443 536873341]
+  [461 :block/string "[[index]]" 536873340]
+  [461 :block/uid "54QMt9kSh" 536873338]
+  [461 :create/time 1648128871402 536873338]
+  [461 :create/user 1 536873338]
+  [461 :edit/time 1648128877762 536873340]
+  [461 :edit/user 1 536873338]]}

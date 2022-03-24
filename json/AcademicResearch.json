@@ -255,5 +255,41 @@
     ":edit/user": {
       ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
     }
+  },
+  {
+    "create-time": 1648128869739,
+    "title": "Public",
+    ":create/user": {
+      ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+    },
+    "children": [
+      {
+        "string": "[[index]]",
+        "create-time": 1648128871402,
+        ":block/refs": [
+          {
+            ":block/uid": "v4t9LZG1Q"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "v4t9LZG1Q"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        "uid": "54QMt9kSh",
+        "edit-time": 1648128877762,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      }
+    ],
+    "uid": "HFEPwANOV",
+    "edit-time": 1648128869739,
+    ":edit/user": {
+      ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+    }
   }
 ]
