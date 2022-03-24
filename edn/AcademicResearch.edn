@@ -1,0 +1,473 @@
+#datascript/DB {:schema
+ {:create/user
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :plugin/id {:db/unique :db.unique/identity},
+  :node/subpages
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :vc/blocks
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :edit/seen-by
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :window/id {:db/unique :db.unique/identity},
+  :attrs/lookup
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :node/windows
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :d/v
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :block/clone
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :node/sections
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :harc/v
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :node/title {:db/unique :db.unique/identity},
+  :block/refs
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :harc/a
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :edit/user
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :block/subpage
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :block/children
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :block/focused-user
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :create/seen-by
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :block/uid {:db/unique :db.unique/identity},
+  :d/e
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :d/a
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :user/uid {:db/unique :db.unique/identity},
+  :node/links
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :link/to
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :user/email {:db/unique :db.unique/identity},
+  :query/results
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :harc/e
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :user/display-page
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :block/parents
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :graph/name {:db/unique :db.unique/identity},
+  :block/page
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :version/id {:db/unique :db.unique/identity}},
+ :datoms
+ [[1 :block/uid "VfD9nL4W3" 536873174]
+  [1 :user/color "rgb(126,206,254)" 536870913]
+  [1 :user/display-name "Sakthitharan Subramanian" 536870913]
+  [1 :user/display-page 412 536873253]
+  [1 :user/email "tharansakthi@gmail.com" 536870913]
+  [1
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14GhKu8VRnsrRVo0IqweYRk4cVW85HCUg9bT6utXo9UU=s96-c"
+   536873336]
+  [1 :user/uid "MTay0rrOEqgIPYVaQvzXsrXrD9h2" 536870913]
+  [21 :block/uid "srMYnyTE4" 536873249]
+  [21 :window/filters {:includes (), :removes ()} 536871023]
+  [21
+   :window/id
+   "tharansakthi@gmail.com-mentions-page-XCA3vAD1l"
+   536871022]
+  [45 :block/uid "AUoJ4G5Jm" 536873104]
+  [45 :window/filters {:includes ("Dtks75Lgl"), :removes ()} 536873233]
+  [45
+   :window/id
+   "tharansakthi@gmail.com-mentions-page-OKHTgVprX"
+   536871141]
+  [72 :block/uid "nhDR6bIL6" 536873249]
+  [72 :window/filters {:includes (), :removes ()} 536871539]
+  [72
+   :window/id
+   "tharansakthi@gmail.com-mentions-page-WCNDregGN"
+   536871337]
+  [165 :block/uid "kHWn9Z7um" 536873119]
+  [165 :window/filters {:includes (), :removes ()} 536873122]
+  [165
+   :window/id
+   "tharansakthi@gmail.com-mentions-page-sX9F7IRd9"
+   536872162]
+  [185 :block/uid "as73RIrGS" 536873249]
+  [185 :window/filters {:includes (), :removes ()} 536872748]
+  [185
+   :window/id
+   "tharansakthi@gmail.com-mentions-page-ufk5WRl9u"
+   536872292]
+  [186 :block/uid "dJto_o8qu" 536873249]
+  [186 :window/filters {:includes (), :removes ()} 536872306]
+  [186
+   :window/id
+   "tharansakthi@gmail.com-mentions-page--zqhYhkV9"
+   536872305]
+  [359
+   :block/string
+   "Year: #2020 Author: #Sudharshan Keywords: #Ultrasound"
+   536872911]
+  [359 :block/uid "u_VCFTLIV" 536872911]
+  [359 :edit/time 1595509948568 536872911]
+  [359 :edit/user 1 536873251]
+  [360 :block/string "Meta #Type-permanent-notes" 536872911]
+  [360 :block/uid "098nEPaus" 536872911]
+  [360 :edit/time 1595509948568 536872911]
+  [360 :edit/user 1 536873251]
+  [361 :block/string "Meta #Type-permanent-notes" 536872911]
+  [361 :block/uid "f3zVJl5Gd" 536872911]
+  [361 :edit/time 1595509948568 536872911]
+  [361 :edit/user 1 536873251]
+  [362 :block/uid "41L0nf0fX" 536872926]
+  [362 :window/filters {:includes (), :removes ()} 536872927]
+  [362
+   :window/id
+   "MTay0rrOEqgIPYVaQvzXsrXrD9h2-body-outline-yEGbBn7Sd"
+   536872926]
+  [409 :block/uid "1ZLB7ilks" 536873243]
+  [409
+   :window/filters
+   {:includes ("mwS0F9Ie6"), :removes ()}
+   536873243]
+  [409
+   :window/id
+   "tharansakthi@gmail.com-mentions-page-iTkNpHlOT"
+   536873243]
+  [410 :block/uid "oSC8JPcOe" 536873249]
+  [410 :version/id "0.0.0" 536873247]
+  [410
+   :version/nonce
+   "uuid6c002922-c384-411e-b974-4143d73ea3f4"
+   536873247]
+  [410
+   :version/upgraded-nonce
+   "uuid6c002922-c384-411e-b974-4143d73ea3f4"
+   536873252]
+  [411 :block/uid "p1iYNQDYe" 536873249]
+  [411 :version/id "0.8.7" 536873248]
+  [411
+   :version/nonce
+   "uuid255dc852-ca19-416c-aafc-6b07a5480060"
+   536873256]
+  [411
+   :version/upgraded-nonce
+   "uuid255dc852-ca19-416c-aafc-6b07a5480060"
+   536873257]
+  [412 :block/uid "oSVeQBEo0" 536873253]
+  [412 :create/time 1628439961845 536873254]
+  [412 :create/user 1 536873254]
+  [412 :edit/time 1628439961845 536873254]
+  [412 :edit/user 1 536873254]
+  [412 :node/title "Sakthitharan Subramanian" 536873254]
+  [415 :version/id "0.9.4" 536873257]
+  [415
+   :version/nonce
+   "uuid4ff3a67b-4283-4838-a6f1-4d8e1ab126a2"
+   536873354]
+  [419 :block/uid "bxZMk6kQL" 536873263]
+  [420 :block/uid "sX9F7IRd9" 536873263]
+  [421 :block/uid "Omj4ph71V" 536873263]
+  [422 :block/string "Keywords: Positioning " 536873263]
+  [422 :block/uid "ZkDExLdx0" 536873263]
+  [422 :edit/time 1648120479222 536873263]
+  [422 :edit/user 1 536873263]
+  [423 :attrs/lookup 419 536873263]
+  [423 :attrs/lookup 420 536873263]
+  [423 :attrs/lookup 421 536873263]
+  [423 :attrs/lookup 423 536873263]
+  [423 :attrs/lookup 424 536873263]
+  [423 :attrs/lookup 425 536873263]
+  [423 :attrs/lookup 426 536873263]
+  [423 :block/uid "R1nD1KsLZ" 536873263]
+  [423
+   :entity/attrs
+   #{[{:source [:block/uid "R1nD1KsLZ"],
+       :value [:block/uid "R1nD1KsLZ"]}
+      {:source [:block/uid "q0h1tWMt9"],
+       :value [:block/uid "Ef3QHSiv6"]}
+      {:source [:block/uid "q0h1tWMt9"],
+       :value [:block/uid "sX9F7IRd9"]}]
+     [{:source [:block/uid "R1nD1KsLZ"],
+       :value [:block/uid "R1nD1KsLZ"]}
+      {:source [:block/uid "JpT5_7pV8"],
+       :value [:block/uid "bxZMk6kQL"]}
+      {:source [:block/uid "JpT5_7pV8"],
+       :value [:block/uid "Omj4ph71V"]}]}
+   536873263]
+  [424 :block/uid "q0h1tWMt9" 536873263]
+  [425 :block/uid "Ef3QHSiv6" 536873263]
+  [426 :block/uid "JpT5_7pV8" 536873263]
+  [427
+   :block/string
+   "This is xyz Paper 1 For Reference Example"
+   536873263]
+  [427 :block/uid "bsKriMNpl" 536873263]
+  [427 :edit/time 1648120479222 536873263]
+  [427 :edit/user 1 536873263]
+  [428 :block/string "My Areas" 536873263]
+  [428 :block/uid "8Y9Nh8BN6" 536873263]
+  [428 :edit/time 1648120479222 536873263]
+  [428 :edit/user 1 536873263]
+  [429 :block/string "PSO" 536873263]
+  [429 :block/uid "jwdYaHheT" 536873263]
+  [429 :edit/time 1648120479222 536873263]
+  [429 :edit/user 1 536873263]
+  [430 :block/string "Research & Project Ideas" 536873263]
+  [430 :block/uid "-mSAU5uNf" 536873263]
+  [430 :edit/time 1648120479222 536873263]
+  [430 :edit/user 1 536873263]
+  [431 :block/string "May 20th, 2020" 536873263]
+  [431 :block/uid "iabFfr1qh" 536873263]
+  [431 :edit/time 1648120479222 536873263]
+  [431 :edit/user 1 536873263]
+  [432
+   :block/string
+   "Emergency Network Coverage with Rover Robots or Drones - Emergency-Applications"
+   536873263]
+  [432 :block/uid "D0bS5opff" 536873263]
+  [432 :edit/time 1648120479222 536873263]
+  [432 :edit/user 1 536873263]
+  [433
+   :block/string
+   "For Emergency-Applications and Healthcare-Applications"
+   536873263]
+  [433 :block/uid "6cwznVV4f" 536873263]
+  [433 :edit/time 1648120479222 536873263]
+  [433 :edit/user 1 536873263]
+  [434 :block/string "Using Inertial Sensors" 536873263]
+  [434 :block/uid "4SgalqeSM" 536873263]
+  [434 :edit/time 1648120479222 536873263]
+  [434 :edit/user 1 536873263]
+  [435 :block/string "Inertial Sensors" 536873263]
+  [435 :block/uid "1bzio2_W_" 536873263]
+  [435 :edit/time 1648120479222 536873263]
+  [435 :edit/user 1 536873263]
+  [436 :block/string "Type-Reference-Research-Papers" 536873263]
+  [436 :block/uid "whqEgDJsp" 536873263]
+  [436 :edit/time 1648120479222 536873263]
+  [436 :edit/user 1 536873263]
+  [437 :block/string "June 11th, 2020" 536873263]
+  [437 :block/uid "3Jzajm7GG" 536873263]
+  [437 :edit/time 1648120479222 536873263]
+  [437 :edit/user 1 536873263]
+  [438
+   :block/string
+   "apriori algorithm, k-means clustering algorithm"
+   536873263]
+  [438 :block/uid "BF_4a4w1R" 536873263]
+  [438 :edit/time 1648120479222 536873263]
+  [438 :edit/user 1 536873263]
+  [439 :block/string "k-means clustering algorithm" 536873263]
+  [439 :block/uid "8L-GMic7_" 536873263]
+  [439 :edit/time 1648120479222 536873263]
+  [439 :edit/user 1 536873263]
+  [440 :block/string "Rover Robots" 536873263]
+  [440 :block/uid "5lPBQOlBs" 536873263]
+  [440 :edit/time 1648120479222 536873263]
+  [440 :edit/user 1 536873263]
+  [441 :block/string "Positioning Robotics Rover Robots" 536873263]
+  [441 :block/uid "D-inzN9dw" 536873263]
+  [441 :edit/time 1648120479222 536873263]
+  [441 :edit/user 1 536873263]
+  [442 :block/uid "03-24-2022" 536873264]
+  [442 :create/time 1648120536436 536873264]
+  [442 :create/user 1 536873264]
+  [442 :edit/time 1648120536436 536873264]
+  [442 :edit/user 1 536873264]
+  [442 :log/id 1648120536435 536873264]
+  [442 :node/title "March 24th, 2022" 536873264]
+  [443 :block/children 444 536873267]
+  [443 :block/children 446 536873274]
+  [443 :block/children 452 536873294]
+  [443 :block/children 457 536873311]
+  [443 :block/children 458 536873330]
+  [443 :block/uid "v4t9LZG1Q" 536873265]
+  [443 :create/time 1648120561528 536873265]
+  [443 :create/user 1 536873265]
+  [443 :edit/time 1648120585991 536873266]
+  [443 :edit/user 1 536873265]
+  [443 :node/title "index" 536873266]
+  [443 :page/sidebar 0 536873279]
+  [444 :block/open true 536873267]
+  [444 :block/order 1 536873310]
+  [444 :block/page 443 536873268]
+  [444 :block/parents 443 536873268]
+  [444 :block/refs 445 536873270]
+  [444 :block/string "[[My Takeaways]]" 536873329]
+  [444 :block/uid "AxmMpXrrJ" 536873267]
+  [444 :create/time 1648120591850 536873267]
+  [444 :create/user 1 536873267]
+  [444 :edit/time 1648121342259 536873329]
+  [444 :edit/user 1 536873267]
+  [445 :block/uid "hOKkdaBVW" 536873270]
+  [445 :create/time 1648120629715 536873270]
+  [445 :create/user 1 536873270]
+  [445 :edit/time 1648121342259 536873329]
+  [445 :edit/user 1 536873270]
+  [445 :node/title "My Takeaways" 536873329]
+  [446 :block/open true 536873274]
+  [446 :block/order 0 536873310]
+  [446 :block/page 443 536873275]
+  [446 :block/parents 443 536873275]
+  [446 :block/refs 447 536873277]
+  [446 :block/string "[[Outline Notes]]" 536873327]
+  [446 :block/uid "SP5UKtmF_" 536873274]
+  [446 :create/time 1648120700127 536873274]
+  [446 :create/user 1 536873274]
+  [446 :edit/time 1648121316063 536873327]
+  [446 :edit/user 1 536873274]
+  [447 :block/children 448 536873282]
+  [447 :block/children 450 536873288]
+  [447 :block/uid "ftKOp5sSd" 536873277]
+  [447 :create/time 1648120707731 536873277]
+  [447 :create/user 1 536873277]
+  [447 :edit/time 1648121316063 536873327]
+  [447 :edit/user 1 536873277]
+  [447 :node/title "Outline Notes" 536873327]
+  [448 :block/open true 536873282]
+  [448 :block/order 0 536873282]
+  [448 :block/page 447 536873283]
+  [448 :block/parents 447 536873283]
+  [448 :block/refs 449 536873285]
+  [448 :block/string "[[Outline - Productivity]]" 536873293]
+  [448 :block/uid "5ByPMHJYp" 536873282]
+  [448 :create/time 1648120854896 536873282]
+  [448 :create/user 1 536873282]
+  [448 :edit/time 1648120999860 536873293]
+  [448 :edit/user 1 536873282]
+  [449 :block/uid "oWxS3Uzjl" 536873285]
+  [449 :create/time 1648120881378 536873285]
+  [449 :create/user 1 536873285]
+  [449 :edit/time 1648120999860 536873293]
+  [449 :edit/user 1 536873285]
+  [449 :node/title "Outline - Productivity" 536873293]
+  [450 :block/open true 536873288]
+  [450 :block/order 1 536873288]
+  [450 :block/page 447 536873289]
+  [450 :block/parents 447 536873289]
+  [450 :block/refs 451 536873291]
+  [450
+   :block/string
+   "[[Outline - Personal Knowledge Management]]"
+   536873290]
+  [450 :block/uid "ggcdA_OF_" 536873288]
+  [450 :create/time 1648120966463 536873288]
+  [450 :create/user 1 536873288]
+  [450 :edit/time 1648120986278 536873290]
+  [450 :edit/user 1 536873288]
+  [451 :block/uid "7J9FaPC3B" 536873291]
+  [451 :create/time 1648120986282 536873291]
+  [451 :create/user 1 536873291]
+  [451 :edit/time 1648120986282 536873291]
+  [451 :edit/user 1 536873291]
+  [451 :node/title "Outline - Personal Knowledge Management" 536873291]
+  [452 :block/open true 536873294]
+  [452 :block/order 4 536873330]
+  [452 :block/page 443 536873295]
+  [452 :block/parents 443 536873295]
+  [452 :block/refs 456 536873323]
+  [452
+   :block/string
+   "[[Notes Archive]] for Returning Visitors"
+   536873326]
+  [452 :block/uid "9JUHlR-i4" 536873294]
+  [452 :create/time 1648121022023 536873294]
+  [452 :create/user 1 536873294]
+  [452 :edit/time 1648121302091 536873326]
+  [452 :edit/user 1 536873294]
+  [456 :block/uid "Ti9GiMMTd" 536873307]
+  [456 :create/time 1648121072583 536873307]
+  [456 :create/user 1 536873307]
+  [456 :edit/time 1648121302091 536873326]
+  [456 :edit/user 1 536873307]
+  [456 :node/title "Notes Archive" 536873326]
+  [457 :block/open true 536873311]
+  [457 :block/order 3 536873330]
+  [457 :block/page 443 536873312]
+  [457 :block/parents 443 536873312]
+  [457 :block/string "-----------------------" 536873334]
+  [457 :block/uid "FUW9LMRT3" 536873311]
+  [457 :create/time 1648121085422 536873311]
+  [457 :create/user 1 536873311]
+  [457 :edit/time 1648121371823 536873334]
+  [457 :edit/user 1 536873311]
+  [458 :block/open true 536873330]
+  [458 :block/order 2 536873330]
+  [458 :block/page 443 536873331]
+  [458 :block/parents 443 536873331]
+  [458 :block/refs 459 536873333]
+  [458 :block/string "[[My Thoughts]]" 536873332]
+  [458 :block/uid "RaU_0-rtH" 536873330]
+  [458 :create/time 1648121349663 536873330]
+  [458 :create/user 1 536873330]
+  [458 :edit/time 1648121354672 536873332]
+  [458 :edit/user 1 536873330]
+  [459 :block/uid "WQ7hDp6Kn" 536873333]
+  [459 :create/time 1648121354673 536873333]
+  [459 :create/user 1 536873333]
+  [459 :edit/time 1648121354673 536873333]
+  [459 :edit/user 1 536873333]
+  [459 :node/title "My Thoughts" 536873333]
+  [460 :block/children 461 536873338]
+  [460 :block/children 462 536873342]
+  [460 :block/children 463 536873346]
+  [460 :block/uid "HFEPwANOV" 536873337]
+  [460 :create/time 1648128869739 536873337]
+  [460 :create/user 1 536873337]
+  [460 :edit/time 1648128869739 536873337]
+  [460 :edit/user 1 536873337]
+  [460 :node/title "Public" 536873337]
+  [461 :block/open true 536873338]
+  [461 :block/order 0 536873338]
+  [461 :block/page 460 536873339]
+  [461 :block/parents 460 536873339]
+  [461 :block/refs 443 536873341]
+  [461 :block/string "[[index]]" 536873340]
+  [461 :block/uid "54QMt9kSh" 536873338]
+  [461 :create/time 1648128871402 536873338]
+  [461 :create/user 1 536873338]
+  [461 :edit/time 1648128877762 536873340]
+  [461 :edit/user 1 536873338]
+  [462 :block/open true 536873342]
+  [462 :block/order 1 536873342]
+  [462 :block/page 460 536873343]
+  [462 :block/parents 460 536873343]
+  [462 :block/refs 447 536873345]
+  [462 :block/string "[[Outline Notes]]" 536873344]
+  [462 :block/uid "gVyI61thP" 536873342]
+  [462 :create/time 1648130618998 536873342]
+  [462 :create/user 1 536873342]
+  [462 :edit/time 1648130624051 536873344]
+  [462 :edit/user 1 536873342]
+  [463 :block/open true 536873346]
+  [463 :block/order 2 536873346]
+  [463 :block/page 460 536873347]
+  [463 :block/parents 460 536873347]
+  [463 :block/refs 459 536873349]
+  [463 :block/string "[[My Thoughts]]" 536873348]
+  [463 :block/uid "BWR5gUmvw" 536873346]
+  [463 :create/time 1648131712261 536873346]
+  [463 :create/user 1 536873346]
+  [463 :edit/time 1648131715733 536873348]
+  [463 :edit/user 1 536873346]
+  [464 :block/children 465 536873351]
+  [464 :block/uid "H-uleOrM7" 536873350]
+  [464 :create/time 1648137032735 536873350]
+  [464 :create/user 1 536873350]
+  [464 :edit/time 1648137032735 536873350]
+  [464 :edit/user 1 536873350]
+  [464 :node/title "Test page ref public" 536873350]
+  [465 :block/open true 536873351]
+  [465 :block/order 0 536873351]
+  [465 :block/page 464 536873352]
+  [465 :block/parents 464 536873352]
+  [465 :block/refs 460 536873354]
+  [465 :block/string "[[Public]]" 536873353]
+  [465 :block/uid "Y9VdQXk4c" 536873351]
+  [465 :create/time 1648137034161 536873351]
+  [465 :create/user 1 536873351]
+  [465 :edit/time 1648137047364 536873353]
+  [465 :edit/user 1 536873351]]}
