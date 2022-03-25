@@ -1,10 +1,10 @@
-title:               Sakthitharan S Public Notes
+title:               Sakthitharan's Notes
 include:             ['_pages']
 # --- below is original line --> Sakthi added
 # exclude:             ['_includes/notes_graph.json']
 # ---- below line is from Sakthi addeed from --> https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden
 # exclude: ['_includes/notes_graph.json', 'markdown', 'formatted', 'json', 'LICENSE', 'default.nix'] 
-exclude:              ['_includes/notes_graph.json', 'formatted', 'json', 'LICENSE', 'default.nix'] 
+exclude:              ['_includes/notes_graph.json', 'markdown', 'formatted', 'json', 'LICENSE', 'default.nix'] 
 
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
