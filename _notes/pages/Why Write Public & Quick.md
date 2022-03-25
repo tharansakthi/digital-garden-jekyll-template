@@ -1,0 +1,12 @@
+- Gets you Quick Feedback (from peers)
+- Makes you write originals clearly
+	- You check for truth before publishing each statement
+- The better way to test your ideas
+	- How well it is received?
+	- How badly it is needed for the world? [[ikigai]]
+	- How good it is?
+		- Leave it for a span of time, then check back to find it yourself
+- Not every idea needs a full-page full-fledged writing
+	- Share quickly (publishing timing)
+	- Share concise (reading time)
+	- Share Contextually / Relevancy (understanding time)

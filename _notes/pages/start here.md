@@ -1,1 +1,5 @@
-- [[test]] Starting the project
+- Reason for having this site.
+	- Writing is the best, easiest way to attain mental clarity.
+	- Teacher Learns the most
+	- Learning Public / [[Why Write Public & Quick]]
+	- To get opinions and help from peers (and make some friends)
