@@ -45,6 +45,6 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "markdown/AcademicResearch/*.md"
+      path: "_notes/**/*.md"
     values:
       layout: "note"
