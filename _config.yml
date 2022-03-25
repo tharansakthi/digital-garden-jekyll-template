@@ -48,3 +48,8 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+  - scope:
+      path: "markdown/**/*.md"
+    values:
+      layout: "note"
+    
