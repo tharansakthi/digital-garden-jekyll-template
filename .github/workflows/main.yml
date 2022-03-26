@@ -3,7 +3,7 @@ name: "Roam Research backup"
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
       # Here you can change how often your backup runs. See https://crontab.guru/examples.html
       - cron: "0 */24 * * *"
