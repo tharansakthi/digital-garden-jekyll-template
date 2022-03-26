@@ -1,1 +1,0 @@
-- Focus more on **Effectivity** rather than Productivity alone
