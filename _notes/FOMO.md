@@ -1,2 +1,2 @@
-- Fear of Mission Out
+- Fear of Missing Out
 - #expand

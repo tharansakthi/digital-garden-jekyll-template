@@ -1,3 +1,3 @@
-- [[*Personal Productivity]]
-- [[*Personal Knowledge Management]]
+- [[Personal Productivity]]
+- [[Personal Knowledge Management]]
 - 
