@@ -1,2 +1,6 @@
-- If you're new here then [[start here]]
-- Browse Topics -> [[Outline Notes]]
+- **If you're new here then** [[start here]]
+- ---
+- **If you're returning visitor**
+    - Browse Topics -> [[Outline Notes]]
+    - **Recent Updates & Recently Added long Notes**
+    - 

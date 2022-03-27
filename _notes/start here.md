@@ -1,9 +1,10 @@
-- I'm Sakthitharan. 
+- I'm Sakthitharan. This site is where I share my notes publicly.  
 - **What?**
-    - Sharing my knowledge with the world
+    - Learning and Sharing my notes/knowledge with the world
 - **How?**
-    - I take notes while learning. I connect them for better understanding and to get new ideas from the past (old knowledge/notes) to perpetuate future notes. So to come up with a crux of knowledge and this database of notes become a reference/proof of my series of decision and to my future decisions. 
-- **Why?** this site.
+    - While I share things formally at [alvistor.com](https://alvistor.com). Yet, I needed a quick and informal method to share my knowledge. 
+        - So Sharing my interim Bi-directionally linked notes -> Check connected notes and connections in the graph view.
+- **Why** this site?
     - Writing is the best, easiest way to attain mental clarity.
         - [[write for better understanding and clarity]]
     - To learn quick and to learn the fact -> Teacher Learns the most
@@ -11,4 +12,14 @@
         - no [[FOPO]] (and [[FOMO]])
     - To get opinions and help from peers (and make some friends)
         - and for some coffee too -> [paypal.me/alvistor](paypal.me/alvistor)
-- Check [[Outline Notes]] to explore my notes
+- **Caution & Disclaimer:** The contents are my opinion, my understanding at the time of taking notes, and out of my personal experience. __Do not treat them as a fact. __
+- ### How to read this site
+    - Hover over the links using mouse to have preview of what's inside that note.
+        - It may not work in mobile / touch screen devices
+    - Check the "notes mentioned this note" to visit other notes that referred the current note you're viewing
+    - Graph view below every note is an extra perk. 
+- ### Start reading 
+    - Check [[Outline Notes]] to explore my notes
+    - You can also start by browsing below graph
+- ### want to keep in touch and get updates?
+    - go to [alvistor.com](https://alvistor.com) and subscribe to the newsletter. 
