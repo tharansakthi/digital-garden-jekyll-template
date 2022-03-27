@@ -1,2 +1,3 @@
-- [[Outline - Productivity]]
-- [[Outline - Personal Knowledge Management]]
+- [[*Personal Productivity]]
+- [[*Personal Knowledge Management]]
+- 

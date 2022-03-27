@@ -1,5 +1,2 @@
-- [[Outline Notes]]
-- [[My Takeaways]]
-- [[My Thoughts]]
-- -----------------------
-- [[Notes Archive]] for Returning Visitors
+- If you're new here then [[start here]]
+- Browse Topics -> [[Outline Notes]]

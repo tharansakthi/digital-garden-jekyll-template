@@ -1,0 +1,14 @@
+- I'm Sakthitharan. 
+- **What?**
+    - Sharing my knowledge with the world
+- **How?**
+    - I take notes while learning. I connect them for better understanding and to get new ideas from the past (old knowledge/notes) to perpetuate future notes. So to come up with a crux of knowledge and this database of notes become a reference/proof of my series of decision and to my future decisions. 
+- **Why?** this site.
+    - Writing is the best, easiest way to attain mental clarity.
+        - [[write for better understanding and clarity]]
+    - To learn quick and to learn the fact -> Teacher Learns the most
+    - Learning Public / [[Why Write Public & Quick]]
+        - no [[FOPO]] (and [[FOMO]])
+    - To get opinions and help from peers (and make some friends)
+        - and for some coffee too -> [paypal.me/alvistor](paypal.me/alvistor)
+- Check [[Outline Notes]] to explore my notes
