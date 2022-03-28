@@ -1,2 +1,2 @@
 - Fear of Missing Out
-- #to-be-expanded-later
+- #to-be-expanded

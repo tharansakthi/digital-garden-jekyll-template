@@ -1,0 +1,2 @@
+- [[March 28th, 2022]]
+    - [[write for better understanding and decision clarity]]

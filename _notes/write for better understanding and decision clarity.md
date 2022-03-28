@@ -1,0 +1,16 @@
+- why writing ? 
+    - understanding benefits 
+        - writing shows the gap in your understanding (while when reading you assume things and your brain fills the gap with foggy logics ) [[illusion of knowledge]]
+        - writing may take time. but it is fastest way to understand in right way at once
+        - write in paper to remember it for longer [[memory retention]]
+    - [[journaling]] benefits
+        - reading your own writing tells you many news things about you. 
+        - venting space to let go off your mental clarity. to dump your mind noises. then to think “what’s next” 
+            - makes you to ask the right question
+    - [[decision making]] benefits
+- some advises
+    - write more than you read and talk 
+    - think visually, but comprehend in words (talk in writing)
+        - if you can’t explain a concept to a 5 year old, then you didn’t understood it properly 
+    - [[write for your future stupid self]]
+- #to-be-expanded

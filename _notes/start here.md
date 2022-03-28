@@ -6,7 +6,7 @@
         - So Sharing my interim Bi-directionally linked notes -> Check connected notes and connections in the graph view.
 - **Why** this site?
     - Writing is the best, easiest way to attain mental clarity.
-        - [[write for better understanding and clarity]]
+        - [[write for better understanding and decision clarity]]
     - To learn quick and to learn the fact -> Teacher Learns the most
     - Learning Public / [[Why Write Public & Quick]]
         - no [[FOPO]] (and [[FOMO]])
