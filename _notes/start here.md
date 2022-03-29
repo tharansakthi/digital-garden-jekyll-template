@@ -8,7 +8,7 @@
     - Writing is the best, easiest way to attain mental clarity.
         - [[write - for better understanding and decision clarity]]
     - To learn quick and to learn the fact -> Teacher Learns the most
-    - Learning Public / [[Why Write Public & Quick]]
+    - Learning Public / [[Why Write Public]]
         - no [[FOPO]] (and [[FOMO]])
     - To get opinions and help from peers (and make some friends)
         - and for some coffee too -> [paypal.me/alvistor](paypal.me/alvistor)
@@ -19,8 +19,8 @@
     - Check the "notes mentioned this note" to visit other notes that referred the current note you're viewing
     - Graph view below every note is an extra perk. 
 - ### Start reading 
-    - Check [[Outline Notes]] to explore my notes
-    - to browse from latest, Check [[Recent and Archives]]
+    - Check [[index]] to explore my topics 
+    - to browse from latest, Check [[Recent Notes]]
     - or you can start from middle of best notes [[Best Notes]]
     - You can also start by browsing below graph
 - ### want to keep in touch and get updates?

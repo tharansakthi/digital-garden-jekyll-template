@@ -1,5 +1,0 @@
-- [[Personal Productivity]] 
-    - [[Productivity System]]
-    - [[Productivity Apps]]
-- [[Personal Knowledge Management]]
-- 

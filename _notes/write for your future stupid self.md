@@ -1,1 +1,20 @@
-- #to-be-expanded
+- when you read your note it in future
+    - remember that you don't remember everything, esp. the context of the note.
+    - consider your future mind as a fresh mind that has not exposure to the work (that you made notes on)
+    - Solution: consider your future "YOU" as a stupid person and write for him/her
+- write clearly, 
+    - no ambiguity
+        - if you don't get the right word, then use multiple words to describe it
+        - use no analogy (expect if you're explaining to others)
+    - no misunderstanding 
+        - anything can be misinterpreted if anyone intended to. 
+            - try avoid as much as you can
+                - No language exists that cannot be misused. Every interpretation is hypothetical, for it is a mere attempt to read an unfamiliar text - [[Karl Jung]] 
+    - add contexts (when, where, who, reference sources)
+    - add connections
+    - re-read it again before closing the note
+    - write your question and doubts along with the note
+        - to answer later
+        - to know you're not quite sure when writing it
+    - write in block, so to rearrange it quickly
+    - preserve atomicity of the note to connect it to others [[atomic note]]

@@ -1,1 +1,3 @@
+- [[how to take notes quick, clear and for future]]
 - [[write - for better understanding and decision clarity]]
+- [[first principle thinking]]

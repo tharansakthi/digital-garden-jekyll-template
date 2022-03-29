@@ -1,3 +1,0 @@
-- Recent
-    - [[switching cost]]
-    - [[write - for better understanding and decision clarity]]

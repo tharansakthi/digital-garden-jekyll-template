@@ -1,0 +1,6 @@
+- Recent
+    - March 2022
+        - [[how to take notes quick, clear and for future]]
+        - [[atomic understanding]]
+        - [[switching cost]]
+        - [[write - for better understanding and decision clarity]]
