@@ -8,6 +8,19 @@
         - venting space to let go off your mental clarity. to dump your mind noises. then to think “what’s next” 
             - makes you to ask the right question
     - [[decision making]] benefits
+        - ability to see pros and cons in one view
+            - no derailing of thoughts and stick to the goal - (focused thinking)
+                - back track to the reason for the decision
+            - differentiating between wishes and actual needs & possibilities
+            - avoiding emotionally driven decisions
+    - creation and research benefits
+        - connecting relevance. connecting patterns between irrelevant topics
+            - fuels thinking (as you have many inspirations hidden in your past notes)
+            - this leads to new creativity and paradigm shift 
+                - like inventing airplane (inspired )by seeing birds
+                    - eg: plenty of bio-inspired models, innovations and computer algorithms
+        - resume from where you left (even it is left untouched for years)
+        - ability to start from something instead of starting from scratch or zero
 - some advises
     - write more than you read and talk 
     - think visually, but comprehend in words (talk in writing)

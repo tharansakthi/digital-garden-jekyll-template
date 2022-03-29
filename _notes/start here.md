@@ -6,7 +6,7 @@
         - So Sharing my interim Bi-directionally linked notes -> Check connected notes and connections in the graph view.
 - **Why** this site?
     - Writing is the best, easiest way to attain mental clarity.
-        - [[write for better understanding and decision clarity]]
+        - [[write - for better understanding and decision clarity]]
     - To learn quick and to learn the fact -> Teacher Learns the most
     - Learning Public / [[Why Write Public & Quick]]
         - no [[FOPO]] (and [[FOMO]])
@@ -20,6 +20,8 @@
     - Graph view below every note is an extra perk. 
 - ### Start reading 
     - Check [[Outline Notes]] to explore my notes
+    - to browse from latest, Check [[Recent and Archives]]
+    - or you can start from middle of best notes [[Best Notes]]
     - You can also start by browsing below graph
 - ### want to keep in touch and get updates?
     - go to [alvistor.com](https://alvistor.com) and subscribe to the newsletter. 
