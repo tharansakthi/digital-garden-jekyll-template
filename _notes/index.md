@@ -1,6 +1,5 @@
 - **If you're new here then** [[start here]]
 - **If you're returning visitor**
-- then check [[Recent Notes]] updated or added
 - to browse from latest, Check [[Recent Notes]]
 - or you can start from middle of best notes [[Best Notes]]
 - You can also start by browsing below graph
