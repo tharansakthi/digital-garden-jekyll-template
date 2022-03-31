@@ -12,7 +12,7 @@
                 - we accept our primary understanding as it is by without asking questions.
                 - be strong with your fundamental knowledge, in other words, make sure your [[atomic block]] in your [[atomic note]] is reliable and true
                     - each block is your note for future use and reference
-                        - use tags, contexts which ever applicable to make easy for you to remember after a decade (date, time, people, place and things involved )
+                    - use tags, contexts which ever applicable to make easy for you to remember after a decade (date, time, people, place and things involved )
     - reconstruct it (comprehend it) with your own words
         - this is your summary notes as [[atomic note]] (not to be confused with evergreen notes)
             - that has a different [[atomic block]]s notes
