@@ -11,7 +11,7 @@
     - Learning Public / [[Why Write Public]]
         - no [[FOPO]] (and [[FOMO]])
     - To get opinions and help from peers (and make some friends)
-        - and for some coffee too -> [paypal.me/alvistor](paypal.me/alvistor)
+        - and for some coffee too -> [paypal.me/alvistor](paypal.me/alvistor) or [ko-fi/tharan](https://ko-fi.com/tharan)
 - **Caution & Disclaimer:** The contents are my opinion, my understanding at the time of taking notes, and out of my personal experience. __Do not treat them as a fact. __
 - ### How to read this site
     - Hover over the links using mouse to have preview of what's inside that note.
@@ -20,7 +20,7 @@
     - Graph view below every note is an extra perk. 
 - ### Start reading 
     - Check [[index]] to explore my topics 
-    - to browse from latest, Check [[Recent Notes]]
+    - to browse from latest, Check [[Archive Notes]]
     - or you can start from middle of best notes [[Best Notes]]
     - You can also start by browsing below graph
 - ### want to keep in touch and get updates?

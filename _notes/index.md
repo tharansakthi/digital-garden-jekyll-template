@@ -1,6 +1,6 @@
 - **If you're new here then** [[start here]]
 - **If you're returning visitor**
-- to browse from latest, Check [[Recent Notes]]
+- to browse from latest, Check [[Archive Notes]]
 - or you can start from middle of best notes [[Best Notes]]
 - You can also start by browsing below graph
 - ### Outline Topics
@@ -9,3 +9,8 @@
     - [[Personal Productivity]] 
         - [[Productivity System]]
         - [[Productivity Apps]]
+- ### Recently Added
+    - [[how to take notes quick, clear and for future]] - [[March 29th, 2022]]
+    - [[atomic understanding]] - [[March 29th, 2022]]
+    - [[switching cost]] - [[March 26th, 2022]]
+    - [[write - for better understanding and decision clarity]] - [[March 23rd, 2022]]
