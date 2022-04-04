@@ -20,7 +20,7 @@
     - Graph view below every note is an extra perk. 
 - ### Start reading 
     - Check [[index]] to explore my topics 
-    - to browse from latest, Check [[Archive Notes]]
+    - to browse from latest, Check [[index]] or [[Archive Notes]]
     - or you can start from middle of best notes [[Best Notes]]
     - You can also start by browsing below graph
 - ### want to keep in touch and get updates?
