@@ -17,10 +17,10 @@
     - Hover over the links using mouse to have preview of what's inside that note.
         - It may not work in mobile / touch screen devices
     - Check the "notes mentioned this note" to visit other notes that referred the current note you're viewing
-    - Graph view below every note is an extra perk. 
+    - Graph view below every note is an extra perk to connections between notes and you can find related notes with it. 
 - ### Start reading 
-    - Check [[index]] to explore my topics 
-    - to browse from latest, Check [[index]] or [[Archive Notes]]
+    - Check [[index]] for topics / table of contents. 
+        - to browse from latest, Check [[Archive Notes]]
     - or you can start from middle of best notes [[Best Notes]]
     - You can also start by browsing below graph
 - ### want to keep in touch and get updates?
