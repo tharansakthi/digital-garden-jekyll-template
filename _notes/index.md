@@ -3,9 +3,10 @@
     - [[Personal Knowledge Management]]
         - [[note-taking]]
     - [[Personal Productivity]] 
-        - [[Productivity System]]
+        - [[Productivity Strategies & Myths]]
         - [[Productivity Apps]]
 - ### Recently Added
+    - [[Baader-Meinhoff phenomenon / frequency illusion]] - [[May 11th, 2022]]
     - [[how to take notes quick, clear and for future]] - [[March 29th, 2022]]
     - [[atomic understanding]] - [[March 29th, 2022]]
     - [[switching cost]] - [[March 26th, 2022]]
