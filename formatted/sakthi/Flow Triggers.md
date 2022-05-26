@@ -1,9 +1,0 @@
-- [dopamine]() - enhances brain function and involvement
-    - dopamine produced 
-        - when initial small successes, it enhances pattern recognition and other crucial funcitons
-        - when feelings of novelty / unpredictability / awe hit.
-        - high risk taking
-            - physical 
-            - emotional
-- [concentrating]() concentration - habits. Attention to the ‘now’. 
-- 

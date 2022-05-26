@@ -1,1 +1,0 @@
-- Obsessive behaviours stem from obsessive thoughts, persistent urges, intrusive mental images, or an unwanted emotional pull that causes distress, anxiety, and **disturbance of a person’s daily routine**.

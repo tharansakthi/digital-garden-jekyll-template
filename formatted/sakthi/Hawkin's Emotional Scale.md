@@ -1,7 +1,0 @@
-- [Flow State of Mind]() [Challenge vs Skill balance]() [Emotional Experience Fluctuation Model]() 
-    - [Tao]() for [* Productivity]() [inbox]()
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FikKnL4nrZ8.jpg?alt=media&token=cd7c4329-72e1-4497-be07-167304adbb90)
-    - Also discussed in 
-        - [Think and Grow Rich - [[Napoleon Hill]() [/books]()]] 
-        - [The 5 AM Club - [[Robin Sharma]() [/books]()]]
-- Once you have your vibration level raised to 500+, then take those inspired actions out into the physical world. Make the phone call, send the email, or start the work that emerged from your intuition

@@ -1,3 +1,0 @@
-- [dead hand]()
-    - a system that will activate and run automatically after the death of a person or country. This is a [war strategy]() to face [doom’s day](). 
-        - eg: if Russia launches a nuke on America, then NATO or America will launch all of its Nuclear weapons on Russia. On this occasion Russia can’t take all the damage and everything collapses. After everyone’s death, this system will launch all of Russia’s nuke on America without any man alive. 

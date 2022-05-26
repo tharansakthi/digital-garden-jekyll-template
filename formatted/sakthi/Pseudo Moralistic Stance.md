@@ -1,2 +1,0 @@
-- [Moral exhibiting]() - manifesting an image [Persona]() in the public, a behaviour or action, talking, to make others believe that the person have high or certain moral standards. [Inferior Virtue]()
-- 

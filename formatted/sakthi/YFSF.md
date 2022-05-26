@@ -1,1 +1,0 @@
-- Your Future Stupid Self

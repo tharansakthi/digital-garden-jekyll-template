@@ -1,1 +1,0 @@
-- Carl Marx [Political Philosophy]()

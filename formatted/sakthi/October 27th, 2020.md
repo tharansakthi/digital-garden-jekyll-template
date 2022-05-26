@@ -1,1 +1,0 @@
-- We suffer more often in imagination than in reality- [Seneca]() #/quotes [Stoicism]() [Indifference]() [overthinking]() [fear of unknown]()

@@ -1,1 +1,0 @@
-- [Feminism]() modern feminism should move towards equality in gender, not towards [Positive Discrimination]() or getting special privileges

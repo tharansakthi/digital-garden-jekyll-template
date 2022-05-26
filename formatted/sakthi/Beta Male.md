@@ -1,1 +1,0 @@
-- [Alpha male]() [Sigma male]()

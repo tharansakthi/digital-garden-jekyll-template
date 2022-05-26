@@ -1,2 +1,0 @@
-- break it down to its atomicity - Atomic = forming a single irreducible unit or component in a larger system.
-- A note consists of your understood knowledge about only one atomic topic which can't be reduced further more.

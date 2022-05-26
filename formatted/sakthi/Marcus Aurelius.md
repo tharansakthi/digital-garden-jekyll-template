@@ -1,2 +1,0 @@
-- #/quotes
-    - You don’t have to turn this into something. You don’t have to let this upset you. [my Verities Scroll]()

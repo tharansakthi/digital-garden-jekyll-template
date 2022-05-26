@@ -1,1 +1,0 @@
-- Note down why the project is dropped with proper reasons

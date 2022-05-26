@@ -1,6 +1,0 @@
-- [evergreen]()
-    - **[tags]():** [atomic block]() [evergreen notes]() [outline notes]()
-    - **[relevant outline notes]():** [* Note Taking Methodology]()
-- evergreen note should be about a single concept or unit of knowledge work, which is constantly evolving with the addition of a collection of coherent and most closely relevant and connected notes (concept) with your wild ideas around it.
-    - ^^in my notes system all [evergreen notes]() will start with + as prefix^^
-    - ^^all my [outline notes]() will start with * as prefix^^

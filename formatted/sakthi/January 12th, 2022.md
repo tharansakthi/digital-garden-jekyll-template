@@ -1,2 +1,0 @@
-- Teach to : follow a recipe vs understanding a recipe [Leadership]() #[team building]() [Teaching]()
-    - understanding a recipe makes them change the recipe based on understanding the needs of the situation. [situational awareness]()

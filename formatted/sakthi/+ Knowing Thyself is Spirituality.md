@@ -1,2 +1,0 @@
-- [Amma]()
-- [Seeking Inner Self]() [Spiritual Awakening]()
