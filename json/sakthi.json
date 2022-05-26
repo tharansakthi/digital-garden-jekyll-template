@@ -73332,7 +73332,7 @@
         }
       },
       {
-        "string": "[[Collective Illusion]]",
+        "string": "today’s education system is based on student’s [[Collective Illusion]]",
         "create-time": 1653538988214,
         ":block/refs": [
           {
@@ -73348,7 +73348,7 @@
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
         "uid": "-upit812j",
-        "edit-time": 1653539021453,
+        "edit-time": 1653594890521,
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
@@ -98750,6 +98750,28 @@
     },
     "children": [
       {
+        "string": "[[Public]]",
+        "create-time": 1653594800337,
+        ":block/refs": [
+          {
+            ":block/uid": "I-_a1Ot4f"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "I-_a1Ot4f"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        "uid": "6B-ZLW-Rc",
+        "edit-time": 1653594805898,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      },
+      {
         "string": "most people in the group goes behind one idea that they actually don’t agree with, yet they all incorrectly think that the other person goes with idea is agreeing with it. ",
         "uid": "cgiwSH3WO",
         "create-time": 1653539026996,
@@ -98843,10 +98865,45 @@
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
+      },
+      {
+        "string": "[[Public]]",
+        "create-time": 1653593146161,
+        ":block/refs": [
+          {
+            ":block/uid": "I-_a1Ot4f"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "I-_a1Ot4f"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        "uid": "nxYaHOjmN",
+        "edit-time": 1653593150809,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
       }
     ],
     "uid": "I-_a1Ot4f",
     "edit-time": 1653541173755,
+    ":edit/user": {
+      ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+    }
+  },
+  {
+    "create-time": 1653593097702,
+    "title": "May 27th, 2022",
+    ":create/user": {
+      ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+    },
+    ":log/id": 1653593097701,
+    "uid": "05-27-2022",
+    "edit-time": 1653593097703,
     ":edit/user": {
       ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
     }

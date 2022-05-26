@@ -1,3 +1,3 @@
 - standardised system will produce standardised outputs / outcomes
-- [[Collective Illusion]]
+- today’s education system is based on student’s [[Collective Illusion]]
 - 
