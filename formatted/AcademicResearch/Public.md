@@ -1,3 +1,0 @@
-- [index]()
-- [Outline Notes]()
-- [My Thoughts]()

@@ -1,5 +1,0 @@
-- a note consists of multiple combined [[atomic block]] and mark its connection and close relevancy. 
-    - for simple fundamental ideas atomic block and atomic note are same. 
-        - term "atomic block" or "atomic note" is interchangeable 
-- a note may contain a fact (already there) or an idea (about to create)
-- speaks only once concept in one area / topic

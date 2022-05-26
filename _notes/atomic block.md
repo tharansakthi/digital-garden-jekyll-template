@@ -1,1 +1,0 @@
-- In note taking, a note with single, unit concept is atomic note that contains no other relative concept in it (eg. the this very line / statement)

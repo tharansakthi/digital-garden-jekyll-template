@@ -1,2 +1,0 @@
-- aka false understanding, incomplete understanding, assumptions that are not true, subjective understanding based on emotion, over confidence etc. 
-- The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge - Einstein 
