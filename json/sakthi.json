@@ -98871,6 +98871,28 @@
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
+      },
+      {
+        "string": "[[Flow State of Mind]]",
+        "create-time": 1653581425040,
+        ":block/refs": [
+          {
+            ":block/uid": "wl5dQjTdo"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "wl5dQjTdo"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        "uid": "LYdQcZsJF",
+        "edit-time": 1653581433323,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
       }
     ],
     "uid": "I-_a1Ot4f",
