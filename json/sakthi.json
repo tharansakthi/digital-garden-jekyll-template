@@ -95313,23 +95313,13 @@
         }
       },
       {
-        "string": "learned about [[Baader-Meinhof phenomenon]] ",
+        "string": "",
+        "uid": "WmdKFrlRa",
         "create-time": 1641836751004,
-        ":block/refs": [
-          {
-            ":block/uid": "0YvjHMZE8"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0YvjHMZE8"
-          }
-        ],
+        "edit-time": 1653558792975,
         ":create/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
-        "uid": "WmdKFrlRa",
-        "edit-time": 1653557889648,
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
@@ -98799,45 +98789,85 @@
     },
     "children": [
       {
-        "string": "[[Baader-Meinhof phenomenon]]",
+        "string": "[[Baader-Meinhof phenomenon]] [[April 26th, 2022]]",
         "create-time": 1653556784511,
         ":block/refs": [
           {
             ":block/uid": "0YvjHMZE8"
+          },
+          {
+            ":block/uid": "04-26-2022"
           }
         ],
         "refs": [
           {
             "uid": "0YvjHMZE8"
+          },
+          {
+            "uid": "04-26-2022"
           }
         ],
         ":create/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
         "uid": "hv8RYNG_o",
-        "edit-time": 1653556790010,
+        "edit-time": 1653559097384,
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
       },
       {
-        "string": "[[Golden Rule of Flow]]",
+        "string": "[[Golden Rule of Flow]] - under topic [[Flow State of Mind]] [[May 26th, 2022]]",
         "create-time": 1653556792869,
         ":block/refs": [
           {
+            ":block/uid": "wl5dQjTdo"
+          },
+          {
             ":block/uid": "bxfdbr0ql"
+          },
+          {
+            ":block/uid": "05-26-2022"
           }
         ],
         "refs": [
           {
+            "uid": "wl5dQjTdo"
+          },
+          {
             "uid": "bxfdbr0ql"
+          },
+          {
+            "uid": "05-26-2022"
           }
         ],
         ":create/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
         "uid": "XloY6BGM7",
-        "edit-time": 1653556799067,
+        "edit-time": 1653559087909,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      },
+      {
+        "string": "All [[Public]] Notes List",
+        "create-time": 1653558610331,
+        ":block/refs": [
+          {
+            ":block/uid": "I-_a1Ot4f"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "I-_a1Ot4f"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        "uid": "2448B31MT",
+        "edit-time": 1653559050225,
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }

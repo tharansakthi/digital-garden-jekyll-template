@@ -72708,15 +72708,11 @@
   [10074 :block/order 2 536919529]
   [10074 :block/page 10060 536919530]
   [10074 :block/parents 10060 536919530]
-  [10074 :block/refs 10075 536919532]
-  [10074
-   :block/string
-   "learned about [[Baader-Meinhof phenomenon]] "
-   536921944]
+  [10074 :block/string "" 536921949]
   [10074 :block/uid "WmdKFrlRa" 536919529]
   [10074 :create/time 1641836751004 536919529]
   [10074 :create/user 1 536919529]
-  [10074 :edit/time 1653557889648 536921944]
+  [10074 :edit/time 1653558792975 536921949]
   [10074 :edit/user 1 536919529]
   [10075 :block/children 10076 536919533]
   [10075 :block/uid "0YvjHMZE8" 536919532]
@@ -76257,8 +76253,8 @@
   [10487 :version/id "0.9.5" 536921623]
   [10487
    :version/nonce
-   "uuid5a533286-96ab-4fc6-b1cf-90c4a4d7060b"
-   536921944]
+   "uuide188206a-9d3c-4d37-8337-c521e412b1c3"
+   536921963]
   [10488 :block/open true 536921626]
   [10488 :block/order 0 536921626]
   [10488 :block/page 8852 536921627]
@@ -76711,6 +76707,7 @@
   [10535 :node/title "May 26th, 2022" 536921914]
   [10536 :block/children 10537 536921919]
   [10536 :block/children 10538 536921923]
+  [10536 :block/children 10542 536921945]
   [10536 :block/uid "I-_a1Ot4f" 536921917]
   [10536 :create/time 1653541173755 536921917]
   [10536 :create/user 1 536921917]
@@ -76723,20 +76720,40 @@
   [10537 :block/page 10536 536921920]
   [10537 :block/parents 10536 536921920]
   [10537 :block/refs 10075 536921922]
-  [10537 :block/string "[[Baader-Meinhof phenomenon]]" 536921921]
+  [10537 :block/refs 10382 536921963]
+  [10537
+   :block/string
+   "[[Baader-Meinhof phenomenon]] [[April 26th, 2022]]"
+   536921962]
   [10537 :block/uid "hv8RYNG_o" 536921919]
   [10537 :create/time 1653556784511 536921919]
   [10537 :create/user 1 536921919]
-  [10537 :edit/time 1653556790010 536921921]
+  [10537 :edit/time 1653559097384 536921962]
   [10537 :edit/user 1 536921919]
   [10538 :block/open true 536921923]
   [10538 :block/order 1 536921923]
   [10538 :block/page 10536 536921924]
   [10538 :block/parents 10536 536921924]
+  [10538 :block/refs 435 536921958]
   [10538 :block/refs 10500 536921926]
-  [10538 :block/string "[[Golden Rule of Flow]]" 536921925]
+  [10538 :block/refs 10535 536921960]
+  [10538
+   :block/string
+   "[[Golden Rule of Flow]] - under topic [[Flow State of Mind]] [[May 26th, 2022]]"
+   536921959]
   [10538 :block/uid "XloY6BGM7" 536921923]
   [10538 :create/time 1653556792869 536921923]
   [10538 :create/user 1 536921923]
-  [10538 :edit/time 1653556799067 536921925]
-  [10538 :edit/user 1 536921923]]}
+  [10538 :edit/time 1653559087909 536921959]
+  [10538 :edit/user 1 536921923]
+  [10542 :block/open true 536921945]
+  [10542 :block/order 2 536921945]
+  [10542 :block/page 10536 536921946]
+  [10542 :block/parents 10536 536921946]
+  [10542 :block/refs 10536 536921948]
+  [10542 :block/string "All [[Public]] Notes List" 536921952]
+  [10542 :block/uid "2448B31MT" 536921945]
+  [10542 :create/time 1653558610331 536921945]
+  [10542 :create/user 1 536921945]
+  [10542 :edit/time 1653559050225 536921952]
+  [10542 :edit/user 1 536921945]]}

@@ -1,2 +1,3 @@
-- [[Baader-Meinhof phenomenon]]
-- [[Golden Rule of Flow]]
+- [[Baader-Meinhof phenomenon]] [[April 26th, 2022]]
+- [[Golden Rule of Flow]] - under topic [[Flow State of Mind]] [[May 26th, 2022]]
+- All [[Public]] Notes List
