@@ -1,0 +1,5 @@
+- [[Let Go]] [[Wu Wei]] story
+- Monkeys are fast and agile creatures – it’s near impossible to catch them. The clever hunters in Africa would design monkey traps based on monkeys’ behavior patterns
+- the hunters would use glass jars with an opening slightly bigger than a monkey’s hand. They would put food like banana and peanuts in them. 1000 years ago They used coconut case.
+- When a monkey sees one of the jars, its hand would reach inside and grab the food, and the hand is now turned into a fist. It then withdraws only to realize that the hand is now stuck. No matter how hard it tries, the hand cannot be freed from the jar. The opening of the jar is simply not large enough for the fist to get out.
+- The only way the monkey can free its hand is to let go of the food. Despite possessing the means to escape the trap, the monkey won’t let go as it grips the food ever so tightly. The happy hunters would then throw a net over the monkey and it’s game over!

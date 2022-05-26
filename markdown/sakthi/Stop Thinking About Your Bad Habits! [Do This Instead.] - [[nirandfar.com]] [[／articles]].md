@@ -1,0 +1,21 @@
+- [[/articles]]
+    - Author:: [[nirandfar.com]]
+    - Tags::
+    - Full Title:: Stop Thinking About Your Bad Habits! [Do This Instead.]
+    - Category:: articles
+    - URL:: instapaper https://www.nirandfar.com/thinking-about-bad-habits/
+- #[[?summary]]
+    - How to aviod. [[surfing the urge]] for 10 minutes until the thought wear out eventually when you repeat.
+    - When you try not to do it, the feeling of doing it will become more prominent. So [[+ use imagination (creative faculty), not will power]] because there's [[Limitation of Will Power]]
+    - It is like asking a person "try not to think about a pink elephant ", he will think only about it.
+- ### #[[/highlights]] sync #Readwise [[October 15th, 2021]]
+    - **The more effort you expend trying to avoid a thought, the more that thought will nag at you.**
+    - when you can’t stop thinking about it, you give in, reinforcing the behavior and making it more likely you’ll do it again and again.
+        - **Note**: Repeating to say “I won’t do it” just keeps the thought of “it” running in your mind. So it is dominating your thoughts. you will give in easily. Constant reminder on how not to do it is also imagination of how to do it in an ironic way.
+    - like a rubber band: ^^The harder you pull, the stronger the stress of resistance becomes, until eventually, it snaps.^^ The same thing happens in your brain. When you finally do give in, relieving the tension of telling yourself not to do that thing feels so good. And ironically, it’s that feeling of relief that perpetuates the bad habit.
+        - **Note**: like forbidden fruit
+    - Contrary to the idea that cigarettes addict people simply because of chemical hooks like nicotine, the research I cite in my book reveals that smokers are more likely addicted to the relief they get from no longer having to tell themselves not to smoke. Upon their first inhale, they release the tension of denying themselves the thing they couldn’t stop thinking about.
+    - **One effective tactic is the “10-minute rule.” The idea here is that instead of saying “No,” you tell yourself, “Not yet.” By doing so, you acknowledge, “I’m free to do whatever I want, but not right now. I’ll do it in 10 minutes.”**
+
+For those 10 minutes, you enjoy what’s called “ ^^[[surfing the urge]]^^ .” Let yourself experience the sensation of wanting. As the seconds tick by, don’t beat yourself up for having the urge or try to ignore it; rather, simply sit and notice it for a bit. In the moment, these uncomfortable urges seem like they’re going to last forever, but they never do. They’re like waves–they crest, peak, and subside. If you can learn to recognize the triggers and outlast the emotional peaks, you can overcome them. Remember, the goal isn’t to deny yourself—**it’s to ride the wave of desire**.
+    - Sometimes, you’ll still want to do the behavior after riding the wave, and that’s fine. Go ahead! But most times, you’ll find that the urge goes away on its own. The goal is to practice recognizing the urge, processing it, and increasing your ability to delay gratification. ^^If you learn how to master your internal triggers, you can control them instead of letting them control you.^^

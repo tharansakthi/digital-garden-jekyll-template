@@ -1,0 +1,4 @@
+- people hold the idea and believe it strongly and then behave accordance with those ideas without a willing to fact check or think the alternative sides and paradigms of similar or opposing ideas. they lose their integrity of their [Whole Self]() inorder to preserve the integrity of their ideas (the version of the idea in their mind might be different from what's on the paper.)
+- man does not possess ideas, Ideas possess man #/quotes it is the conceptual quote not in exact words of [Carl Jung]() interpreted by [Jordan Peterson]()
+    - [two psyche]() method will help to get out of the state of being possessed by any ideas or feelings. Emotion are not feelings. 
+    - [Emotions vs Feelings]() - A fundamental difference between **feelings and emotions**is that [feelings]() are experienced consciously, while [emotions]() manifest either consciously or subconsciously. 

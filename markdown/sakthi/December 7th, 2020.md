@@ -1,0 +1,40 @@
+- ^^Let people dislike you^^ [[FOPO]]
+    - #/quotes
+        - "Care about people's approval and you will be their prisoner." - [[Lao Tzu]] 
+        - Never try to please everyone; if you do you will be respected by no one - [[Paulo Coelho]]
+    - Not everyone is going to like you. It's just the way it is, nothing personal. - **You have to accept that**
+        - #[[my Verities Scroll]] Believe Everyone, Never Trust Anyone
+            - Respect the person, not their opinion
+        - Even if you're kindest, nicest, warmest gentlemen, it is not enough to change everyone's opinion on you. **World is cruel to the good**
+    - Solution
+        - You have to accept that not everyone is going to like you
+            - its about whether you like you or like what you do
+        - Powerful Tactic
+            - ^^**Simply allow others to the freedom of**^^ [[Let Go]]
+                - **Not to like you**
+                - **disagree with you**
+                - **to judge you**
+                - **to think less of you**
+            - ^^after all, everyone is just entitled to their own opinion and even if that opinion is entirely baseless^^. [[Handling Criticization]] #[[my-words]]
+                - **by allowing them free to opinion-ate**, ^^**You recognise the fact**^^ that
+                    - they don't need your permission to opinionate, they are going to do it no matter what you do to stop them or how bad you regret it.
+                    - you're letting go of the need to control what others think because you can't control that.
+                    - if you do correct things based on their opinion, they are going to find another point to criticize you. Else there will be someone else to do it.
+                        - **This is going to be the endless loop of a mental and physical ordeal if you try to please others**
+                    - **they have the right to think, whatever they want to think, this is none of your business. you respecting their freedom**
+                        - ^^**By not interfering in their freedom, you will find your own freedom**^^
+                            - to carry out your life, ideas, work, thoughts and feelings to want to feel on your own - ^^Peace^^
+                - by allowing them free to opinionate, ^^**You are not accepting**^^ that
+                    - you agree with them
+                    - you accept their opinion
+                    - you're not going to ignore the valuable suggestions in their opinion
+                    - you're not ignoring them, you just ignoring their opinions
+                - remember their opinions are from
+                    - their experience
+                    - their own personal liking and disliking
+                    - their own [[Shadow Projection]]
+                    - their miserable conditions
+                    - what bothers them, but it doesn't have to bother you
+                        - let them worry about it.
+                    - + very rarely it is the result of their deliberate thought process
+                    - + and hardly from their good intention of giving good feedback [[Constructive Criticism]]

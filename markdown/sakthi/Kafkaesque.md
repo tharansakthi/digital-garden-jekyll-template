@@ -1,0 +1,6 @@
+- Kafka - name, esque - style or resembling
+    - Kafka's style of writing
+        - inescapable trap, series of bad situations revealing one after another without any hope and no understanding of what's happening and why
+- Franz Kafka - the writer who has a miserable life wrote novels that have been published after his death.
+- It is NOT related to [[Stockholm Syndrome]] or [[aggression]] [[Depression]][[Nihilism]] because 
+    - In Kafkaesque, the person don't give up till the last but he endures without knowing a slight idea of why he is enduring or what caused it.

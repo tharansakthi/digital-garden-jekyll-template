@@ -1,0 +1,5 @@
+- மனம் அடக்குதல் 
+    - If [Mind]() becomes silent and calm [Intelligence]() become silent
+        - [Super Intelligence]() will be in reach
+        - you can make [Unconscious]() as [Conscious]() = [Awareness]() and [Self Awareness]() [Enlightenment]()
+            - [Individuation]()

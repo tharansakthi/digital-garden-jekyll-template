@@ -1,0 +1,3 @@
+- Fully aware of my mental being, understanding and identifying as [Whole Self]() (not just identify as 'I' or ego) with the process of [Individuation]()
+    - [Meditation]()
+- [Self Actualisation]() helps in understanding the potential of the true self which can be used to **become 'someone'**  or to **achieve something**

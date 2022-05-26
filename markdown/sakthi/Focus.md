@@ -1,0 +1,2 @@
+- Focus is a process of keeping your [[Awareness]] at one cognitive area
+    - [[Distraction]] is shifting of awareness to different areas of mind. This shift is triggered by some external factors (senses) or also other thoughts (arising from Id)

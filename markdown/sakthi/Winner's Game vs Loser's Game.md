@@ -1,0 +1,9 @@
+- Avoiding Stupidity is easier than seeking brilliance
+    - Winner's Game vs Loser's Game
+        - Winner's Game - Where winner determines the game by playing well (Professional's Game)
+        - Loser's Game - where loser determines by playing bad. (Amateur's Game)
+            - All you have to do is avoid making stupid moves and give plenty of room for the opponent to do more mistakes.
+                - Let the loser defeat himself.
+                - When you are an amateur try to "Loose Less" rather than trying to look/play brilliant.
+                - #/quotes "It's the strong swimmers who drown. " [[Slow and Steady]] [[+ do less (do only most significant things)]] 
+                    - Most successful people just stayed from doing stupid things rather than doing brilliant things (in long-term)

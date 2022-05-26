@@ -1,0 +1,5 @@
+- A **corollary discharge** (CD) is a copy of a motor command that is sent to the muscles to produce a movement. This copy or **corollary** does not produce any movement itself but instead is directed to other regions of the brain to inform them of the impending movement. [proprioception]()
+- explanation: when brain send a command for your body to jump, it will send the signal for your legs to do the action and also sends the copy of that signals to others parts of brain to tell the action is going to happen, so brain will prepare for it. 
+- when you open your mouth to speak, the corollary Discharge will be sent to brain, this triggers the [Listening]() [Understanding]() portion of the brain to stop. Because of Neural Filter that helps you to filter your own voice from other sounds. 
+- Importance of [Meditation]() [Fasting]()
+- likewise in [Wu Wei]() if you focus on action you will fail to listen. 

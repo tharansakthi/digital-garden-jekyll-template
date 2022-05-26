@@ -1,0 +1,3 @@
+- a Particular fact can be made without aid of any proof in some situations
+    - in this case the opposite person has to prove that it is wrong.
+    - also - Presume, i.e. it seems to be likely without any proof.

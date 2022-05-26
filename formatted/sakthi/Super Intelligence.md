@@ -1,0 +1,5 @@
+- [Knowledge]()
+    - [Intelligence]() of mind - ^^சிற்றறிவு - மனதின் அறிவு ^^
+    - [Super Intelligence]() of soul  - ^^பேரரறிவு - ஆன்ம அறிவு ^^ 
+        - aka [Universal Consciousness]()
+- [Illusion of Knowledge]() [imagination]()

@@ -1,0 +1,22 @@
+- Earn as Much as you can
+- 
+- {{[table]()}}
+    - Combo Choice Made
+        - Marks for X's   
+            - Mark for Y's
+    - 0X	4Y 
+        - 0
+            - 1
+    - 1X	3Y
+        - 3
+            - -1
+    - 2X	2Y
+        - 2
+            - -2
+    - 3X	1Y
+        - 1
+            - -3
+    - 4X	0Y
+        - -1
+            - 0
+    - 

@@ -1,0 +1,4 @@
+- [evergreen]()
+    - **[tags]():** [oneness]() [Whole Self]() [Shadow Work]()
+    - **[relevant outline notes]():** [* Guru Disciple's Traits]()
+    - **[relevant evergreen notes]():**  

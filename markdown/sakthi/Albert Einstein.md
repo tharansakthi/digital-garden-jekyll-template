@@ -1,0 +1,4 @@
+- [[Scientist]]
+- #/quotes
+    - A person who never made a mistake never tried anything new
+        - Opinion : and he can't learn anything new. [[Learning]]

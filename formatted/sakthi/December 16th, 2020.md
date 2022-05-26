@@ -1,0 +1,1 @@
+- most best ideation happens at unexpected time [Thinking]() [ToDo-Capture]() 

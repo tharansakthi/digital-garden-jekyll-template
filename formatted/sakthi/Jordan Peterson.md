@@ -1,0 +1,2 @@
+- #/personage Clinical [Psychologist](), [Scientist]()
+- work as hard as you possibly can on at least one thing and see what happens - [Jordan Peterson]() #[/quotes]() [Progress]() 

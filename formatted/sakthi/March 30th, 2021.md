@@ -1,0 +1,5 @@
+- ^^**The instinct of self-preservation is the strongest instinct of your nature,**^^
+    - [self-preservation]() The primary purpose is to preserve yourself and grow to the next level [Spirituality]() where preserving is not going down and [Self Awareness]() & [Self Realisation]() is to take your soul/mind to next maturity level. [Maturity]()
+- There is one important point to remember about being happy. You must sincerely desire to be happy.
+    - You will get it only if you really, badly want it. Most people want it, but there's no required amount of desire or [prompt decision]()s. They wish, they day dream, but no desire to get it. That is, they don't prepare themselves to become deserving.
+    - Action and Prompt Decision

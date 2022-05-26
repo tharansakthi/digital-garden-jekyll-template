@@ -1,0 +1,6 @@
+- characterised by [Character]() - Always want power and want to do a paramount role in any circumstance
+    - [aggression]() but not [Arrogance]().
+        - [Assertive]() is more stronger and powerful subtle attitude than [aggression]()
+    - a little stupidity 
+        - because of the power, the tendency to be brute is more likely
+- [behavioural psychology]()

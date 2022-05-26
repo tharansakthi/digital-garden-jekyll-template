@@ -1,0 +1,8 @@
+- [[/articles]]
+    - Author:: [[tim.blog]]
+    - Tags::
+    - Full Title:: What My Morning Journal Looks Like
+    - Category:: articles
+    - URL:: instapaper https://tim.blog/2015/01/15/morning-pages/
+- ### #[[/highlights]] sync #Readwise [[October 16th, 2021]]
+    - **the process matters more than the product**

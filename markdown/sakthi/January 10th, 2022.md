@@ -1,0 +1,6 @@
+- "If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own." — [[Epictetus]] #/quotes [[self integrity]] [[+ Knowing Thyself is Spirituality]] [[Meditation/witnessing]] [[FOPO]]
+- [[Delboeuf illusion]] [[theory of relative size ]] 
+- [[Baader-Meinhof phenomenon]]
+- [[color psychology]]
+    - Blue is non-appetite (reduces appetite or doesn't trigger hunger) color because almost no food is in blue color. 
+    - pink reduces anger

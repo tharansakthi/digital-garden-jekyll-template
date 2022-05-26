@@ -1,0 +1,3 @@
+- உன் நம்பிக்கை எதுவோ அதுவே நீ , உன் என்னம் எதுவோ அதுவே உன் வாழ்கை
+    - You attract what you are, not what you want
+    - What you seek is also seeking you

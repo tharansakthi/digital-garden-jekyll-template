@@ -1,0 +1,3 @@
+- The purpose that has to keep you in [[Stream of Life]]
+- You can't hold it strong, it might break, you can not leave it, you might be directionless. You should not worry about it, it is there. You can feel it like [[Tao]]
+- an inner feeling that directs you. You can't change the way, but you can go with it [[Wu Wei]] as it is connected to the universe.

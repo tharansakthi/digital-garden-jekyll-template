@@ -1,0 +1,51 @@
+- #[[outline]]
+    - tags:: [[Notes Management]] [[Personal Knowledge Management]] [[Project Management]]
+    - notable evergreen notes::
+    - notes::
+        - ^^The 4(+1) [[Thinking]] [[4 Thinker type]]^^ 
+            - **Clarifier**
+                - Enjoys exploring challenges and opportunities
+                    - likes to examine details
+                    - wants a clear understanding of the issue
+                    - prefers a methodical approach to solving problems
+                - may suffer from [[Analysis Paralysis]]
+            - **Ideator**
+                - Likes to look at big picture
+                - Enjoys toying with ideas and possibilities
+                    - like to stretch [[imagination]]
+                    - thinking in more global and abstract terms
+                    - takes intuitive approach to [[innovation]]
+                - May overlook details
+            - **Developer (thinking)**
+                - Enjoys putting together workable solutions
+                    - examine pluses and minuses of an idea
+                    - compare competing solutions
+                    - enjoy analysing potential solutions
+                    - planning steps to implement an idea
+                - May stuck in developing perfect solution
+            - **Implementer**
+                - Likes to see things happen
+                    - enjoy giving structure to idea
+                        - sees idea to become reality / fruition of ideas
+                    - focus on "workable" ideas and solutions
+                    - Just Do It - approach
+                - May leap to action too quickly
+            - [[Integrators]] - ^^Best type of thinkers^^
+                - Integrators take a very **even approach to breakthrough thinking process**
+                    - There is no peak or valley (among the distribution of preference from above 4 types of thinking, i.e. if you have 30% of Ideator preference in thinking, you will also have 28 to 35% of preference in Clarifier and similar percent in Developer and implementer)
+                - ^^**energies stay steady**^^ [[Slow and Steady]] [[Flow State of Mind]]
+                    -  as they focus on 
+                        - facts,
+                        - identify the challenge to address, 
+                        - entertain a plethora of ideas
+                        - finally put them to practice
+                        - For this reason they are
+                            - **very flexible and easily accommodate** whatever the task requires 
+                        - very good team players, finding it easy to work with people having different profiles.
+                        - [[Critical Thinking]]
+                - ^^**ALERT!** - Given that flexibility^^
+                    - Integrators must be cautious not simply to follow others' leads, particularly when others having strong preferences 
+                        - Be [[Assertive]]
+                        - Must Remember to **diagnose the situation themselves** and pursue most appropriate response. 
+        - [[Progressive Summarisation]]
+        - [[PARA File System]]

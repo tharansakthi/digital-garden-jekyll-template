@@ -1,0 +1,34 @@
+- **Unaware of being but playing** 
+    - **The state without ego**  or [[Self Awareness]]as said in [[Flow State of Mind]] throughout the life's path [[Stream of Life]]
+    - **Dance like you have NO audience; not even for yourself** - ACCORD with [[Tao]] [[Geethasaaram]] [[* the crux]] 
+        - Do my unaware state of me [[Unconscious]] knows that my [[Conscious]] knows that I have Conscious [[Self Awareness]]?
+            - Like an expert driver rides a car; he senses the hill lifts him up and drops him down on the other side. He and the road are all one process. He doesn't feel the car or feels the weight of the car. Likewise; the sense of [[Flow in Life]] [[Flow State of Mind]] will not feel anything or feel light weighted and unaware of your own presence [[Ego]] or [[Self Awareness]]
+        - The [[Self Awareness]] self-conscious, reflecting on own thoughts is an obstacle to the [[Flow in Life]]
+            - **Why would you want to know that you're feeling things? Why you want to be aware of Yourself?**
+                - When you don't do it for yourself (for being virtuous [[Inferior Virtue]]) why you have to do it for others opinion or acceptance or recognition
+    - when you wear something comfortable (eg. belt, shoes) **you won't feel it** or feel like you wearing any. If they less properly fit or not made with the quality you will be aware of it.
+        - Likewise, If I don't know I'm there, or feel myself, I ([[Ego]]) seem to be missing everything. **The simple objection**, that human have (which stops us from Flow)
+            - we want to know that we know (i.e. not losing [[Ego]])
+                - if we are happy and we don't know we are happy, we just not happy. So if you want to feel happy, you have to know that you're happy. But at the same time, the penalty is you have to feel miserable too.
+                - Limerick: (from [[Alan Watts]])
+                    - It seems that I know that I know; 
+But what I would like to see is
+The I that Knows me when 
+I know that I know that I know [[Self Realisation]]
+                        - I know that I know
+                            - The [[Self Awareness]] helps to know the [[Ego]] is there. It is like brain knows about brain's existence.
+                        - I know that I know that I know
+                            - I (the [[Whole Self]]) Know that I (Self [[Self Awareness]]) know that I ([[Ego]]) know 
+- [[Tao]] What is highly virtuous is a virtue, is a virtue it is not conscious of itself as Virtue. The moment it conscious itself as a virtue, it fails. So [[No Virtue]] is a [[Superior Virtue]]
+    - **"Highest virtue is not virtuous and that is why it is virtuous,” **[[Lao Tzu]] #/quotes [[Superior Virtue]]
+    - Once you can attain the [[oneness]] with [[Tao]], you are virtuous without being virtuous.  There is no intention, there is no desire.  Everything comes along naturally with spontaneity [[Flow in Life]].  This is something you cannot achieve simply by following any form of codes of conduct. [[No Virtue]] [[No Technique]]
+- How Flow feels like?
+    - Just feels like ordinary life... BUT; more light weighted like Water on Lotus Leaf
+    - [[Wu Wei]] is not doing nothing. It is doing things in [[Flow in Life]], Accord with [[Tao]] 
+        - Responsibilities - Being incharge; being control of himself. This is [[Self Awareness]] against [[Tao]] and [[Complete Surrender]]
+        - When connection to [[Tao]] is lost, there comes the duty to man.
+            - [[Geethasaaram]] Doing the duty without [[Self Interest]] will take you back to [[Tao]] or [[Flow in Life]]
+- [[Unlearning]] Your attempt to eliminate self is counterproductive or counterintuitive as it is a positive manifestation of [[Selfishness]] [[Self Awareness]]
+    - Talking about Virtues [[Inferior Virtue]] you just bringing confusion in [[Flow in Life]] and keeps you away from [[Tao]]
+        - It is like fighting for peace, shouting to silence, fucking for virginity
+    - The talk about [[Superior Virtue]] [[Self Realisation]] [[Self Actualisation]] attest the fact that it has not happened.

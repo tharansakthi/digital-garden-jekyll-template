@@ -1,0 +1,16 @@
+- is a **cognitive bias** in which people with low ability at a task **overestimate their ability**
+    - the cognitive bias of illusory superiority and comes from the inability of people to recognize their lack of ability [Psychology]() [Self Evaluation]()
+        - 4th stage of [Competence Level]().
+    - [over confidence effect](), failure to see what one lack
+    - illusion of [Knowledge]() - [Illusion of Knowledge]()
+        - not knowing the area that you get into 
+        - knowing what you don't know yet rather than knowing what you already know
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FMvqTnPcdAL.png?alt=media&token=86e0c528-86ec-4149-9e32-2a5e273d74c5)
+    - A person who hasn't seen or who never know the size of the knowledge area that they need to be master at, and with a very little idea of what it is- will always think that what they know is much (above average), just because they think what they knew (size of knowledge area) is all what it is to consider.
+    -  
+- tags: [Psychodynamics]()
+- Dunning and Kruger, both [Psychologist]() found this through an experiment conducted with students
+    - majority of the under average performing students identified themselves as above average and the above average students were afraid of scoring low marks in exams.
+    - Later the result, the under average students (who self estimated themselves as smart) score very low score.
+- [Personal Knowledge Flow]()
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FHUVAJNT7e5.jpg?alt=media&token=b0574041-7389-4e68-948e-14ff24b5dd73)

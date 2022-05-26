@@ -1,0 +1,3 @@
+- ### Realm of Facts - Realm of Values
+    - eg: [Briffault's Law]() is not fair from the point of values, but [Sexual selection]() is a fact and girl with [Alpha Seed / Beta Need]() condition is not a virtue or not fall under a good value system, yet that is a fact, induced by biological reactions and [Human Nature]()
+- [facts vs feelings]()

@@ -1,0 +1,68 @@
+- TEF or The Effortless Flow [Project]() #[outline]() #:inactive
+    - Effortless = [Wu Wei]() (mostly doing nothing or doing very less)
+        - Effortless working ([Efficiency]()) is greater than [* Productivity]()
+            - [Efficiency]() vs [* Productivity]()
+                - productivity - trying to do more
+                    - about how much you do or produce within a given timeframe
+                - efficiency - trying to do more with less effort 
+                    - about being productive __with less effort__ - [* The Effortless Flow]()
+                - eg: using a text expander tool to reply many email is optimising the process that is a way to improve Efficiency, whereas, typing faster for every email to complete the work in shorter time is productivity
+                - [Focus]() [Flow State of Mind]() increases [Efficiency]()
+                    - finding [Optimality]() in [Work/Process]() increases Efficiency, that in turn increases [* Productivity]()
+                    - [Optimality]() is [Moderation]() [Mental Minimalism]() [Minimalism]()
+    - Flow = Being with Nature and [* the crux]()
+    - Flow Definition
+        - [Flow State of Mind]()
+            - [Action]() and [Awareness]() Merge
+                - an optimal state of consciousness, a mental state where you feel your best and perform your best. More specifically, the term refers to those moments of rapt attention and total absorption, when you get so focused on the task at hand that everything else disappears. 
+            - You are the action. NOT you are the person doing the action [* the crux]()
+                - Your sense of self/ego vanishes. Your sense of time distorts (either, typically, speeds up; or, occasionally, slows down). And throughout, all aspects of performance, both mental and physical, go through the roof.
+        - [Flow in Life]()
+            - You and Universe Merge
+                - an optimal state of your existence, where you feel you as an action [Flow State of Mind]() blend with the flow of natural happenings as if your life and universe flows [As One](). You, a part of Universe and Universe as a part of You, where both are in harmony and both flow towards one direction [As One](). 
+                - The juncture of the purpose of your life and the need of the universe meets where the universe gives, what you asked and you be the action that the universe intended. As no action is against the universe the life flows along, and when you ask something of the universe with pure intention, the universe adapts to it. [Law of Attraction]()
+                - You are the flow in universe. NOT you are the person exist.
+                    - You change every second. Physically, (knowledge) mentally, by time, by action, by intention. So you are flowing from one stage to another, one state of yourself to another. 
+            - [The Constant Change]() is Flow, Flow of Universe.
+                - Anything that flows is alive. 
+    - [Stream of Life]()
+    - [Boon of Stillness]() 
+    - [Bane of Stagnancy]()
+    - Stillness vs. Stangnancy
+        - Living is matter and moving is living [*](((9SBMG_wcx)))
+        - Stillness is purposeful behaviour of staying quiet [Boon of Stillness]() Whereas stagnancy is a lazy act of doing something or avoiding what needs to be done  (skipping duty) . [Bane of Stagnancy]()
+    - [Sinking with Burden]() Carrying Weights 
+    - [Trapped in the Quicksand]() 
+    - [Clinging to the Roots]() Clinging to the Past, rules, beliefs, unwanted desires
+        - If you let the root, you can follow the route of life flow
+        - afraid of letting go the roots
+            - Either you will be hit by a flood, which will force you to leave it or end you.
+        - You will never make use of thread of life
+    - [The Unknown Destination of Life]()
+        - [Thread of Life]() where it is connecting to? 
+            - It is who you want to be, not where you want to be. 
+                - [Law of Attraction]()
+            - Who? The Ideal 'You'. You are your belief, you're what you believe you are. Your life is what you strongly believe/think it would be.
+            - [Thread of Life]() connects you to [The Unknown Destination of Life](), yet it will not reveal it. 
+        - [String of Thoughts]() forms your [Thread of Life]()
+            - numerous irrelevant thoughts only wasted as [Lint of Thoughts]()
+                - Don't weaken your [Thread of Life]() by allowing to form [Lint of Thoughts]()
+            - Lints don't connect you to anywhere. All the energy is wasted. Bind all your strings to form a strong thread. Few strong strings can make very strong threads.
+            - By changing your [String of Thoughts]() you change your [Thread of Life]() thus [Stream of Life]() and [The Unknown Destination of Life]()- [Law of Attraction]()
+            - Change your thoughts, and you change your destiny. - [Joseph Murphy]() #/quotes
+        - Quality of Life or Quality of Destination? Quality of Life is more important than a one moment experience in the destination.
+    - [Mirage of Destiny]() 
+        - **Life is like music**. You can't play music to arrive at someplace. The entire music shows the quality of music, not how fast you come to the end of it. Likewise, life is not about the end, it is not even a journey. It is the present moment that you feel right now. #/quotes from [Alan Watts]() [Flow in Life]()
+        - There is no destiny in truth, even if it is, the journey is not about reaching it, it is things all in the journey.
+        - The effort to know it only shows [Mirage of Destiny]()
+            - The true destination of life never known. Constantly thinking or finding your destination is a misery.
+            - **Destiny is an illusion. Success is the mirage of destiny**
+    - [The Unknown Destination of Life]() vs [Mirage of Destiny]()
+        - Consider the destiny as a moving target and disguised and distorted  behind the mirage. You may find it as a different destination when you reach there than you expected **Or you may even find that is not your destiny but a milestone and a direction/sign board**
+    - Why [Stream of Life]() favours altruistic people or people who have a win-win attitude?
+        - [Law of Attraction]() brings people who want to win. It multiplies the threads. Makes it stronger. The [Thread of Life]() gets thicker.
+    - [Balance of Life]() [ebb and flow of life]()
+        - Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. - [Yin-Yang]() [Darkness of Life]() [Balance of Life]()
+        - [Yin-Yang]()
+            - [Darkness of Life]() and [Happiness of Life]()
+- [Zones of TEF]() - a graph representation of zones

@@ -1,0 +1,2 @@
+- [Awareness]() is fundamental alertness to recognise changes in thoughts and senses. [Self Awareness]()
+- 

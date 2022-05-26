@@ -1,0 +1,2 @@
+- Narcissism is the pursuit of gratification from vanity or egotistic **admiration of one's idealised self-image and attributes**. [[Ego]] [[Persona]]
+- [[Narcissists]] 

@@ -1,0 +1,22 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FLXR5lKf0Jv.jpg?alt=media&token=1e611245-f93b-4c95-8b3f-d571c2231c88)
+- Knowing is not understanding.
+- Understanding is a surface level learning, Visualisation is a deeper understanding and comprehending completes understanding.
+    - #Understanding is DOOR. You only see a portion of the concept. [[Reflective Thought Understanding]] and [[Knowledge Visualisation]] is like you're in the ROOM, you can see or understand all around the concept in multiple perspectives. [[Comprehending]] is a process of gathering the important, valuable things and putting them into the VAULT. Correct, Clear, Concise and Coherent form of the concept.
+- real knowledge is the association. 
+    - Quotes from #my-article
+        - Approximately at the age of 12, the brain stops growing in terms of volume(size). But mentally it never stops developing and changing. Likewise, the fundamental knowledge of your mind is solid. Anything that you learn further will be added to your mind with a link to your fundamental knowledge. Over the course, you build a numerously connected knowledge. Anything you add to it is added with links to your existing knowledge sphere.
+For example, a Circle is a circle. When we accepted it, we never argued why it is called a circle. It’s fundamental knowledge. A colour red is red, we see, we accepted it as red. It is another fundamental knowledge. Now you learn what sphere is? so based on the basic principle knowledge of circle, you can learn sphere is 3d shape which looks like a circle from every direction you see it. Let’s assume we now try to learn a complicated concept, the shape of an apple. Now you add the knowledge of apple to your mind, with the help of sphere and red colour.
+The chance of forgetting or losing your learned knowledge is very high, if you don’t associate your learned knowledge to your existing knowledge. I prefer connecting with my fundamental knowledge blocks.
+- #Creativity & #Intelligence
+    - Quote from #my-article
+        - **Creativity is using knowledge with Imagination, whereas Intelligence is applying knowledge.** The intelligence of the person is measure how he uses his knowledge and when. The ability to mix and match your knowledge to solve different problems makes you intelligent. While creativity is imagination process mostly not intended to solve any problem.
+        - Creativity is a subconscious process. Intuition is also a subconscious trigger that aids conscious decision making. Both are backed by your abstract knowledge but not reliant to it directly.
+- #Experience is subjective, while wisdom is objective. #Wisdom is an abstract form of #Intelligence #[[my-words]]
+    - #Wisdom is event based and overall truth focused
+    - Multiple similar results of subjective experience form #Wisdom
+- The constant and any impactful experiences strongly imprint on your sub-conscious. May be the reason for #Intuition, #Wisdom etc
+- [[Comprehending]] as a process of learning 
+    - emphasis on using one’s own words, even when describing others’ ideas
+    - it is not for note taking, but primarily for developing ideas #innovation
+    - make connections between your notes, cite your previous notes/ideas
+    - [[+ evergreen notes should be atomic]]

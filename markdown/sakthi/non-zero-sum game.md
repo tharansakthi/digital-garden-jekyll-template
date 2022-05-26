@@ -1,0 +1,2 @@
+- In **game** theory, situation where one decision maker's gain (or loss) does not necessarily result in the other decision makers' loss (or gain). In other words, where the winnings and losses of all players do not add up to **zero** and everyone can gain: a win-win **game**.
+    - [[win-win]] [[team management]] [[how to argue or negotiate]]  [[Leadership]] 

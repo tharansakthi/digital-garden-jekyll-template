@@ -1,0 +1,3 @@
+- The costliest resource is not time or energy. It's attention. Limited resource is your **Will Power**.
+- The available capacity of will power is very limited, so to use it wisely use
+    - [[Productivity Performance Rhythm]]

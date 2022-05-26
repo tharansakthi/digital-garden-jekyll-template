@@ -1,0 +1,1 @@
+- zeal is based on determination not based on negative traits like [Ego]() (Egoism), [Arrogance]()

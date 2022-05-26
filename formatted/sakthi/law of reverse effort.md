@@ -1,0 +1,4 @@
+- your desire or wish and imagination [Auto Suggestion]() conflicts, then your subconscious will not grant your wish but reverse it
+    - I will use my willpower to overcome my failure” reinforces the thought of failure. -**this will not help you to overcome failure, instead it gives more failure**
+- **The thought “I will use my willpower to overcome my failure” reinforces the thought of failure. Mental effort often leads to self-defeat, creating the opposite of what is desired.**
+- Never try to compel the subconscious mind to accept your idea by exercising willpower. Such attempts are doomed to failure. All too often, you end up getting the opposite of what you prayed for. ([Location 1618](https://readwise.io/to_kindle?action=open&asin=B01H38S9NQ&location=1618))

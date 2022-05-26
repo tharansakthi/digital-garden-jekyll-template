@@ -1,0 +1,1 @@
+- #/anecdote Based on story: A researcher put a frog on the table and ask it to jump, it jumped. He cut one of its hand and again ask it to jump, it jumped, likewise he goes on cutting limbs one by one. When he cut all the limbs and kept the Frog on the table and asked it to jump. It did in jump. So he concluded that frogs cannot hear when after you cut all its limbs.
