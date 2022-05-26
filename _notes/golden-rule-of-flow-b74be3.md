@@ -12,7 +12,7 @@ title: Golden Rule of Flow
             - you get satisfaction out of it
     - freedom / autonomy 
     - Mastery (skills to pursue) [Challenge vs Skill balance]()
-    - 
+    - How to get into Flow State of Mind ((or) [Flow Triggers]()
 
 - [Golden Rule of Flow](/golden-rule-of-flow-b74be3){: .internal-link}
 

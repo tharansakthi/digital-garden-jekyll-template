@@ -72709,11 +72709,14 @@
   [10074 :block/page 10060 536919530]
   [10074 :block/parents 10060 536919530]
   [10074 :block/refs 10075 536919532]
-  [10074 :block/string "[[Baader-Meinhof phenomenon]]" 536919531]
+  [10074
+   :block/string
+   "learned about [[Baader-Meinhof phenomenon]] "
+   536921944]
   [10074 :block/uid "WmdKFrlRa" 536919529]
   [10074 :create/time 1641836751004 536919529]
   [10074 :create/user 1 536919529]
-  [10074 :edit/time 1641836776855 536919531]
+  [10074 :edit/time 1653557889648 536921944]
   [10074 :edit/user 1 536919529]
   [10075 :block/children 10076 536919533]
   [10075 :block/uid "0YvjHMZE8" 536919532]
@@ -76254,8 +76257,8 @@
   [10487 :version/id "0.9.5" 536921623]
   [10487
    :version/nonce
-   "uuidb1bcd8a4-535f-477b-a6f4-651ba953fb84"
-   536921930]
+   "uuid5a533286-96ab-4fc6-b1cf-90c4a4d7060b"
+   536921944]
   [10488 :block/open true 536921626]
   [10488 :block/order 0 536921626]
   [10488 :block/page 8852 536921627]
@@ -76638,11 +76641,12 @@
   [10529 :block/page 10500 536921877]
   [10529 :block/parents 10500 536921877]
   [10529 :block/parents 10513 536921877]
-  [10529 :block/string "" 536921876]
+  [10529 :block/refs 1160 536921935]
+  [10529 :block/string "((57vMGN5EB))" 536921934]
   [10529 :block/uid "WVK5bTC0Q" 536921876]
   [10529 :create/time 1653538948253 536921876]
   [10529 :create/user 1 536921876]
-  [10529 :edit/time 1653538948253 536921876]
+  [10529 :edit/time 1653557293906 536921934]
   [10529 :edit/user 1 536921876]
   [10530 :block/open true 536921880]
   [10530 :block/order 0 536921880]
@@ -76707,7 +76711,6 @@
   [10535 :node/title "May 26th, 2022" 536921914]
   [10536 :block/children 10537 536921919]
   [10536 :block/children 10538 536921923]
-  [10536 :block/children 10539 536921927]
   [10536 :block/uid "I-_a1Ot4f" 536921917]
   [10536 :create/time 1653541173755 536921917]
   [10536 :create/user 1 536921917]
@@ -76736,15 +76739,4 @@
   [10538 :create/time 1653556792869 536921923]
   [10538 :create/user 1 536921923]
   [10538 :edit/time 1653556799067 536921925]
-  [10538 :edit/user 1 536921923]
-  [10539 :block/open true 536921927]
-  [10539 :block/order 2 536921927]
-  [10539 :block/page 10536 536921928]
-  [10539 :block/parents 10536 536921928]
-  [10539 :block/refs 10536 536921930]
-  [10539 :block/string "[[Public]]" 536921929]
-  [10539 :block/uid "MMWV1enqg" 536921927]
-  [10539 :create/time 1653556806231 536921927]
-  [10539 :create/user 1 536921927]
-  [10539 :edit/time 1653556811432 536921929]
-  [10539 :edit/user 1 536921927]]}
+  [10538 :edit/user 1 536921923]]}

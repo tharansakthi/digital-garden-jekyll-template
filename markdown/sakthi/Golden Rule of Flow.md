@@ -8,4 +8,4 @@
             - you get satisfaction out of it
     - freedom / autonomy 
     - Mastery (skills to pursue) [[Challenge vs Skill balance]]
-    - 
+    - How to get into Flow State of Mind ((or) [[Flow Triggers]]

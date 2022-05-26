@@ -95313,7 +95313,7 @@
         }
       },
       {
-        "string": "[[Baader-Meinhof phenomenon]]",
+        "string": "learned about [[Baader-Meinhof phenomenon]] ",
         "create-time": 1641836751004,
         ":block/refs": [
           {
@@ -95329,7 +95329,7 @@
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
         "uid": "WmdKFrlRa",
-        "edit-time": 1641836776855,
+        "edit-time": 1653557889648,
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
@@ -98705,13 +98705,23 @@
             }
           },
           {
-            "string": "",
-            "uid": "WVK5bTC0Q",
+            "string": "((57vMGN5EB))",
             "create-time": 1653538948253,
-            "edit-time": 1653538948253,
+            ":block/refs": [
+              {
+                ":block/uid": "57vMGN5EB"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "57vMGN5EB"
+              }
+            ],
             ":create/user": {
               ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
             },
+            "uid": "WVK5bTC0Q",
+            "edit-time": 1653557293906,
             ":edit/user": {
               ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
             }
@@ -98828,28 +98838,6 @@
         },
         "uid": "XloY6BGM7",
         "edit-time": 1653556799067,
-        ":edit/user": {
-          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
-        }
-      },
-      {
-        "string": "[[Public]]",
-        "create-time": 1653556806231,
-        ":block/refs": [
-          {
-            ":block/uid": "I-_a1Ot4f"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "I-_a1Ot4f"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
-        },
-        "uid": "MMWV1enqg",
-        "edit-time": 1653556811432,
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
