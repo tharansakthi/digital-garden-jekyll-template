@@ -8,7 +8,7 @@ permalink: /
 # Welcome to my public notes!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  I share my <span style="font-weight: bold">[[Public]]</span> notes here
+  [Click Here to view my notes](/public-96f9c1){: .internal-link}
 </p>
 
 You can see my formal writings <a href="https://alvistor.com">alvistor.com</a>
