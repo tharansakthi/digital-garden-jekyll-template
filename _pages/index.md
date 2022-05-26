@@ -9,7 +9,6 @@ permalink: /
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   You can start by exploring the index of all [[Public]] notes published directly from my private knowledge repo.
-</p>
 
 ## How to read this notes?
 - Simply explore. 
@@ -29,7 +28,7 @@ permalink: /
 ## Support this project
 - It costs me energy and time to create and share these intellectual content. Consider <b>buying me some coffee</b> (link in footer) to easy my cognitive burden. 
 - Knowledge is free, yet to assmeble it is a hard work. So if you sharing my work, don't forget to share the credits. 
-
+</p>
 <style>
   .wrapper {
     max-width: 46em;
