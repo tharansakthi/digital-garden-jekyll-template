@@ -1,2 +1,0 @@
-- [[Superhuman]] Sign up
-    - onboarding at 10pm and started using the world's most fastest email app. 

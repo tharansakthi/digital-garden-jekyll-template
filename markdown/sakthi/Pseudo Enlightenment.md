@@ -1,8 +1,0 @@
-- [[Psychology]] [[Spirituality]]
-- if you have urge to tell your experience about Enlightenment or being enlightened then you are not completely enlightened. When you want to show off that you have made a progress in spirituality then it is not enlightened state. 
-    - it slightly differ from [[Shadow Behaviour]] where your actions are triggered from you shadow. here you just have a illusion of being enlightened
-    - [[messiah complex]] is a State of pseudo Enlightenment and sometimes [[Pseudo Moralistic Stance]] too where you show yourself as a pure person come in to the rescue of others or with the image of saviour
-        - you treat others as inferior because deep down you feel inferior as a reflection of your [[Shadow Behaviour]]
-        - you are showing off your virtue [[Inferior Virtue]] to reduce the state of others 
-        - faking calmness and inner peace
-    - [[Pseudo Moralistic Stance]] a kind of [[Shadow Behaviour]] to hide your mistakes or immoral state behind your actions of finding a mistake in the outside world by taking a moral stand to judge others as wrong. 

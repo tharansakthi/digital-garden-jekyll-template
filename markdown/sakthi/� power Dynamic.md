@@ -1,2 +1,0 @@
-- #[[outline]]
-    - tags:: [[Love/Eros]] [[erotically/submissive]] [[erotically/Dominant Traits]]

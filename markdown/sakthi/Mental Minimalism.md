@@ -1,2 +1,0 @@
-- Simplicity
-- The act of physical decluttering chores helps you declutter your mind

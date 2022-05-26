@@ -1,1 +1,0 @@
-- [[+ transparency with yourself is a great path to crux]] especially with #Guru

@@ -1,1 +1,0 @@
-- Inattentive to things you can't control. BE Attentive to things only under your control or responsibility. Similar to [[Wu Wei]] [[detachment]] [[Stoicism]]

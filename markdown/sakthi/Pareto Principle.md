@@ -1,3 +1,0 @@
-- The Pareto principle states that for many outcomes roughly 80% of consequences come from 20% of the causes (the “vital few”).
-    - Other names for this principle are the **80/20 rule**, **the law of the vital few**, or the principle of factor sparsity.
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FqgNCVxY97w.png?alt=media&token=17228921-70d5-4fbd-8320-732c99fd8d58)

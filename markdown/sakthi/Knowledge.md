@@ -1,3 +1,0 @@
-- Mind - has 'good' and 'bad' [[Right and Wrong]] [[Good and Bad]]
-- Knowledge doesn't have good or bad
-    - It has **Reason and Logics** - In other words Only "Good"

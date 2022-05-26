@@ -1,4 +1,0 @@
-- you can even **increase your Efficiency** by [[Procrastination]]** on purpose**. 
-- ref eg: Sometimes, when I'm trying to write—but every word I put on paper feels like a monumental effort—I'll walk away from my desk and do something else for a while. Inevitably, as soon as I'm not trying to write, I'll think of dozens of things I should be writing about. More output, less effort.
-    - [[Procrastination]] is not considered as [[Bane of Stagnancy]]. But it might lead to it in some cases.
-        - Tip: Have a time-boxed procrastination 

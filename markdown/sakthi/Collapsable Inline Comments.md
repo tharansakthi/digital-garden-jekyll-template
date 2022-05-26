@@ -1,1 +1,0 @@
-- Carl Jung ((aka Carl Gustav Jung born Karl Gustav Jung, German: 26 July 1875 – 6 June 1961,)) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. 

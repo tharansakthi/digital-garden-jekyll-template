@@ -1,3 +1,0 @@
-- Natural Skills
-- Nurtured Skills 
-    - eg [[how to argue or negotiate]]

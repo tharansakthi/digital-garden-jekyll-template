@@ -1,1 +1,0 @@
-- the Akashic records is a compendium of all universal events, thoughts, words, emotions, and intent ever to have occurred in the past, present, or future in terms of all entities and life forms, not just human.

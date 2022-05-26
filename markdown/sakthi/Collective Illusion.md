@@ -1,1 +1,0 @@
-- most people in the group goes behind one idea that they actually don’t agree with, yet they all incorrectly think that the other person goes with idea is agreeing with it. 

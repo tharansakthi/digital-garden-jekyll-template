@@ -1,8 +1,0 @@
-- **You're good only if you are capable of doing bad** and ability to control and not doing it by virtue or zeal. [[Political Philosophy]]
-    - Wimps and meek are not good, because they are incapable of doing bad. Any given situation with the power enough to trigger their shadow, they would become worse than you ever imagined.
-- Only (mentally, virtuously)Strong people (capable of doing bad) can be good [[my Verities Scroll]] 
-- **Knowing bad and bad people's tricks are significantly important t**o defend the good or to avoid it or to destroy it
-    - **Need to be more effective as equally as nobly intentioned**
-        - Need to have equal strategy, equal or sharper weapon or capable of handling one.
-    - Refer : [[Machiavellianism]] too
-- You need to be the Mixture of [[Order and Chaos]] and you should be in the middle of it. As mentioned in [[Buddhism]], "choose the middle path or [[* Middle Way]]".

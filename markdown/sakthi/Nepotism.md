@@ -1,3 +1,0 @@
-- the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs.
-- Nepotism product - a person who got to a status through the favours of relatives or friends in higher power 
-- [[Caste Discrimination]] [[Positive Discrimination]]

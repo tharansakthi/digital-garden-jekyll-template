@@ -1,1 +1,0 @@
-- **Sexual selection** is a mode of [[natural selection]] in which members of one biological **sex** choose mates of the other **sex** to mate with (intersexual **selection**), and compete with members of the same **sex** for access to members of the opposite **sex** (intrasexual **selection**).

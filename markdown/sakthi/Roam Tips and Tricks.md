@@ -1,3 +1,0 @@
-- {{[[DONE]]}} NameSpace
-    - A feature mentioned in this tweet, called **namespaces**, seems like it might be useful here. The premise is that you place tags in the front of the page title, followed by /. e.g. [[book/Harry Potter]] vs [[character/Harry Potter]] You can then ^^hide those tags by pressing ctrl+c+l^^
-- {{[[DONE]]}} Example of how to use query in {/{query: {and: # Productivity}}}

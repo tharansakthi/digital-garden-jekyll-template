@@ -1,3 +1,0 @@
-- Recognise that everyone wants to be loved and appreciated. Everyone needs to feel important in the world. ([Location 2724](https://readwise.io/to_kindle?action=open&asin=B01H38S9NQ&location=2724))
-- [[+ people who hurt others are fearful and in pain]]
-- [[Interpersonal Psychology]]

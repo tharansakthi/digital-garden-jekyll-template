@@ -1,1 +1,0 @@
-- The conscious of being existing but at the same time not caught only by that which restricts you to think beyond yourself. That is limited. [[Open mindedness]]

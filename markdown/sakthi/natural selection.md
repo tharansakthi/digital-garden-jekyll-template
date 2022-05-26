@@ -1,3 +1,0 @@
-- Natural selection is the differential survival and reproduction of individuals due to differences in phenotype. It is a key mechanism of evolution, the change in the heritable traits characteristic of a population over generations.
-- natural selection is not intentional, but [[artificial selection]] is. 
-- theory by Charles Darwin

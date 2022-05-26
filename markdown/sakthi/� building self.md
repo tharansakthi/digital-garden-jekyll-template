@@ -1,7 +1,0 @@
-- [[+ you are your thoughts]]
-- [[+ you become what you do repeatedly (pattern)]]
-- [[+ when you can't think clearly, you follow your past pattern]]
-- [[+ when you're in fear, you're not thinking]]
-- [[+ be like a water (bend for the moment)]]  
-    - [[+ be at the moment]]
-- [[+ allow yourself to make mistakes]] [[* learning and growing]]
