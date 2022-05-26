@@ -1,7 +1,0 @@
-- [evergreen]()
-    - **[tags]():**
-    - **[relevant outline notes]():**
-    - **[relevant evergreen notes]():**
-- Do and Not Do both happens at same time. 
-- ^^[Let Go]() <- double bind -> [Action]()^^
-    - ^^**You can do nothing about it and nothing you can not do about it. (You can do anything about it). It is a double bind.**^^ [Wu Wei]() [+ double bind]()

@@ -1,2 +1,0 @@
-- Identifying, Exploring and integrating the shadow to Conscious [Self Actualisation]() is called Shadow Work
-- 

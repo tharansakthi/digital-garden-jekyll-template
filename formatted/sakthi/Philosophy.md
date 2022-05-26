@@ -1,9 +1,0 @@
-- [Stoicism]()
-- [Philosophy/Cynicism]()
-- [Taoism]()
-    - [Mental Minimalism]()
-- [Ikigai]() - Japanese Philosophy of living - purpose of life
-- [Hinduism]()
-- Others
-    - [Purpose of Life]()
-    - [Meaning of Life]()

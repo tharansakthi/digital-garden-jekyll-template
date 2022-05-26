@@ -1,5 +1,0 @@
-- Survivorship bias or survival bias is the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. This can lead to false conclusions in several different ways. It is a form of [selection bias]()
-    - Survivorship bias can lead to overly optimistic beliefs because failures are ignored. [Illusion of Knowledge]()
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FSHWKH1Zowu.jpg?alt=media&token=12080fe9-52da-4c49-88a7-93fa7e581923)
-    - Taking only the survivor's or winners point and leaving out other's opinion will lead to wrong decisions. [decision-making]()
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FJJVQlmG4-t.jpg?alt=media&token=26493689-1de2-4441-b908-2e4fbbde6579)

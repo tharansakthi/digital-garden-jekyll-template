@@ -1,1 +1,0 @@
-- Safe guard yourself first, be resilient other things deforming or changing you.

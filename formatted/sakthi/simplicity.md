@@ -1,1 +1,0 @@
-- **The simple way is the best**. ([Location 1590](https://readwise.io/to_kindle?action=open&asin=B01H38S9NQ&location=1590))

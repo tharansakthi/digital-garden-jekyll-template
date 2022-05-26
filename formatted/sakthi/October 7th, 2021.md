@@ -1,8 +1,0 @@
-- [Seth Godin]()
-    - Write Something. Then improve it. Then write something else.
-    - Repeat this process until you have a post. Then post it.
-    - Then repeat this process.
-    - There’s no such thing as [writer’s block](). There’s simply a fear of bad writing. Do enough bad writing and some good writing is bound to show up.
-    - And along the way, you will clarify your thinking and strengthen your point of view.
-        - tag: [Writing]() [Reflective Thought Understanding]() 
-    - But it begins by simply writing something.

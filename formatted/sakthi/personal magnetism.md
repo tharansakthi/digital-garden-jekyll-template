@@ -1,1 +1,0 @@
-- [Personality]() [Male personality]() [Interpersonal Psychology]()

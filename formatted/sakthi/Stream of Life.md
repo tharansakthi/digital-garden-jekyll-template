@@ -1,5 +1,0 @@
-- The way you have to go as the Universe wants you to go in this way. Swimming against this stream is a waste of energy [Return of Investment]() is very low. You have to let go. The stream will take you to the place if you hold on to your [Thread of Life]()
-    - Swimming against the Stream of Life
-        - What if my destination is on the opposite side of the stream?
-            - Flow along, so you can swim faster. A new destination may be found with better benefits
-            - The [Return of Investment]() for the energy you put on to swim against the stream might not be the same in most of the times.

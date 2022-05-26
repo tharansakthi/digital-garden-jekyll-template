@@ -1,4 +1,0 @@
-- The **personal unconscious** or simply Unconscious mind consists of the processes in the mind that occur automatically and are not available to introspection, and include thought processes, memory, affect, and motivation
-- in my opinion, **Unconscious is also interpreted as** a tiny portion of [Infinite Intelligence]() that is residing in an individual's mind that helps in forming and animating LIFE.
-    - may be **genetic memory**
-- [Collective Unconscious]()

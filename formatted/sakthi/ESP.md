@@ -1,1 +1,0 @@
-- Extra Sensory Perception is perceiving things by means other than the known senses, e.g. by [telepathy]()
