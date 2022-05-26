@@ -1,0 +1,6 @@
+- Setting a particular mood as response - for a stimuli
+    - through [Pavlovian Conditioning]()
+        - Conditioning the mind and body
+        - any environmental trigger
+    - [Flow Triggers]()
+- 

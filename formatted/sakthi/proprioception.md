@@ -1,0 +1,1 @@
+- Proprioception, otherwise known as kinesthesia, is **your body's ability to sense movement, action, and location**. It's present in every muscle movement you have. ... Proprioception allows you to walk without consciously thinking about where to place your foot next. It lets you touch your elbow with your eyes closed.

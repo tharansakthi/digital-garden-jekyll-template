@@ -1,0 +1,5 @@
+- preoccupation with one's own feelings, interests, or situation.
+    - It is against [[Individuation]] as it focuses more on inflating [[Ego]] and making one feel that he's more important and bigger than others. 
+- a kind of Narcissistic behaviour - [[Narcissism]]
+- [[Meditation]] [[detachment]] 
+- Who am I? [[* the crux]]

@@ -1,0 +1,4 @@
+- # Reflecting Yourself
+    - Self [SWOT analysis]() or first teach [Competence Level]()
+    - [Journaling]()
+    - 

@@ -1,0 +1,22 @@
+- [[/articles]]
+    - Author:: [[every.to]]
+    - Tags::
+    - Full Title:: The Theology of Productivity
+    - Category:: articles
+    - URL:: instapaper https://every.to/superorganizers/the-theology-of-productivity
+- #[[?summary]] - #inbox for #[[-summarizeit]]
+- ### #[[/highlights]] sync #Readwise [[October 13th, 2021]]
+    - Today, we find purpose and meaning in our jobs. We build our communities around loyalty to specific domains and disciplines, and to tools that help us work faster, better, harder. We put our faith in the idea that a fresh planner, a new project management methodology, or a rising SaaS contender for managing our second brain will open the door to a fulfilling future. This is not a mistake. God is gold. Prayer is productivity.
+
+The decline in religious life is accompanied by a simultaneous rise in hyper-growth models and winner-take-all capitalism. We’ve conferred the role of moral steward and meaning-maker to a set of rules and habits designed to optimize our every waking moment, our sleep, our dreams. And the messengers of this new religion? Today’s prophets are not in rags, they’re in Teslas. ([View Highlight](https://instapaper.com/read/1452002751/17713402))
+- ### #[[/highlights]] added [[October 13th, 2021]] at 11:38 PM
+    - Religion serves many purposes, but most primary may be, well, providing purpose to existence. ([View Highlight](https://instapaper.com/read/1452002751/17713665))
+    - Our need for purpose is strong: we feel defined by what we put forward in our lives and what we make, and what we hope to leave behind. And humans are nothing if not makers of meaning, attempting to clarify our stints on this Earth through answering the question of “why” so our purpose can be fulfilled. ([View Highlight](https://instapaper.com/read/1452002751/17713666))
+    - We are doing things in order to make meaning, but somehow there is never enough done, and an ever-increasing demand for ways to do even more. ([View Highlight](https://instapaper.com/read/1452002751/17713667))
+    - the fulfilment of worldly duties...under all circumstances the only way to live acceptably to God. ([View Highlight](https://instapaper.com/read/1452002751/17713734))
+        - **Note**: #-tagit do the duty crux
+    - Purpose-first productivity doesn’t force us to wait until retirement to find fulfillment. Instead, it guides us toward the here, the now, this one moment in which we can have an active relationship with presence. It is in this flexibility that we can find a spiritual approach where daily life opens doors to the experience of divine purpose, but without the religious fervor of dogmatic structures and beliefs. ([View Highlight](https://instapaper.com/read/1452002751/17713778))
+        - **Note**: #-tagit flow of life , flow of work, purpose of life , productivity
+- ### #[[/highlights]] added [[October 14th, 2021]] at 10:38 AM
+    - Being productive becomes less important than what it is we are producing, the value of what it is we are bringing into the world and, even more crucially, how we feel producing it. ([View Highlight](https://instapaper.com/read/1452002751/17718062))
+        - **Note**: #-tagit effortless flow and overall well-being

@@ -1,0 +1,8 @@
+- SMART goal setting [Goal Management]() [Project Management]()
+    - Specific, Scalable 
+    - Measurable 
+    - Attainable, Actionable or else Assignable 
+    - Relevant, Realistic
+        -  [Survivorship Bias]()
+    - Time Bound 
+- ### How to Achieve Goal 

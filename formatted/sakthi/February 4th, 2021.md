@@ -1,0 +1,1 @@
+- __read between the lines__? It turns out, the key to reading between the lines is actually to __write__ between the lines. Once you start, you'll discover a whole new reading experience, elevated from that of a one-sided lecture to a two-sided conversation. [* Note Taking Methodology]() [Interactive Reading]() [Reading]()  [-articleit]()

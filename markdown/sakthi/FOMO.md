@@ -1,0 +1,2 @@
+- fear of missing out - dictionary meaning: anxiety that an exciting or interesting event may currently be happening elsewhere, often aroused by posts seen on social media.
+- [[FOPO]]

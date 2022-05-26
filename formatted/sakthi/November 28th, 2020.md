@@ -1,0 +1,3 @@
+- Psycho-Analysis - :To-Clarify - because it can never be perfect.  #[?ideas]()
+    - a-priori algorithm to combine the study of the characteristics (like the used to combine products to upsell)
+        - eg. to tell if the person is agreeable its 60% chance he also has [microaggression]()

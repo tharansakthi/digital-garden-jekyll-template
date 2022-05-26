@@ -1,0 +1,2 @@
+- Meekness is having courage to not to use your strength against the weak. Having [patience]() and [tolerance]()
+    - out of maturity, understanding, having love for fellow men knowing even though they are not good to you, good to themselves, or good to any other

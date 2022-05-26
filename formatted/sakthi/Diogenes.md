@@ -1,0 +1,2 @@
+- [Philosopher]() #/personage
+- his Guru is dog

@@ -1,0 +1,4 @@
+- Sub Conscious is part of **Conscious** which is not under our awareness.
+    - [Unconscious]() is close to subconscious butit can't be seen with mere awareness, but only with [Meditation]().  
+- Subconscious is a bigger portion which can be explored by shifting our awareness more inside and exploring thoughts
+    - [Unconscious]() is explored by keenly evaluating our cause of thoughts and tracing back its origin. Also kind of [Shadow Work]() and [Meditation]()

@@ -1,0 +1,14 @@
+- learned during IIITDM TLC visit  (LBASC)
+    - Ideate -> Design -> Prototype-> Implement
+        - Prototype -> Proof of Concept
+    - Government only sponsor for the projects which solves following three problems enter
+        - Social/ poverty / employment problems
+        - Security / defence problems
+        - Industry/economy/need-supply (nation) problems
+    - Students can learn by doing the project. **[Project-based learning]()**
+    - **[Service learning]()** - Learning by solving social problems as projects
+    - Incubation centres are also called as
+    - **maker’s space **
+    - **idea Lab **
+    - **tinkering lab **
+    - **innovation lab**

@@ -1,0 +1,18 @@
+- [[/articles]]
+    - Author:: [[atlassian.com]]
+    - Tags::
+    - Full Title:: What Is Mindful Leadership? - Work Life by Atlassian
+    - Category:: articles
+    - URL:: instapaper https://www.atlassian.com/blog/leadership/mindful-leadership
+- ### #[[/highlights]] sync #Readwise [[October 15th, 2021]]
+    - Mindful leadership is an approach in which you consciously cultivate your **ability to be present, open-minded, and compassionate when interacting with team members – and you show the same consideration to yourself**.
+
+    - Mindful leaders don’t need to motivate through fear or manipulation because their people are self-motivated. 
+    - By cultivating self mastery, mindful leaders are able to **navigate stressful situations with calm and clarity.** [[+ when you can't think clearly, you follow your past pattern]] [[+ when you're in fear, you're not thinking]]
+    - It’s about shutting down the mind’s “busy mode” ([[+ be at the moment]]) **to notice and respond to what’s happening in the moment** instead of defaulting to reactive patterns. [[+ when you can't think clearly, you follow your past pattern]] 
+    - **The mindful leader has the most power in the room.**
+    - **The mindful leader creates high-performing, cohesive teams.**
+    - The mindful leader experiences stressful times in a more peaceful, healthy way. [[+ when you're in fear, you're not thinking]] [[Calm Energy]]
+    - Practice 1: Observe thyself. [[+ Knowing Thyself is Spirituality]]
+    - Practice 2: **Breathe, leader, breathe.** [[slow breathing benefit]]
+    - Practice 4: Bring mindfulness to a meeting.

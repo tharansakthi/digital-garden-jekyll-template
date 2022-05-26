@@ -1,0 +1,17 @@
+-  #/books by [Tim Ferriss]()
+    - **[Author]():** Timothy Ferriss
+    - **[Tags]():** [Minimalism]() [Lifestyle]()
+    - Highlights #/quotes by #[Tim Ferriss]()
+    - Summary :
+        - Money is multiplied in practical value depending on the number of **W’s** you control in your life (freedom multiplier)
+            - **What** you do
+            - **when** you do it
+            - **Where** are you do it
+            - with **Whom** you do it
+        - DEAL - Steps for [Optimality]() Working
+            - Define
+            - Eliminate
+            - Automate
+            - Liberate
+- 
+- 

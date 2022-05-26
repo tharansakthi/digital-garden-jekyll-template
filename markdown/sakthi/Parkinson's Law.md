@@ -1,0 +1,10 @@
+- ^^**Work expands to fill the time available for its completion**^^
+    - Utilizing [[Limitation of Will Power]] based on [[Parkinson's Law]]
+        - ^^**More Time = Less Effort Needed = Less Effective = Will Power wastage**^^
+            - More confusion, More complications and more repetitions
+        - ^^**Less Time = More Effort Needed = More Effective = Will Power used well**^^
+            - Less Perfection, More Progress and Doing what's necessary
+- when given a task, a human will fill whatever time was allotted for its completion
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FjHT8NSCOGF.png?alt=media&token=6f997951-d34e-4042-a840-6abbec4e42f9)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FB7tj7GlzFj.png?alt=media&token=6600c1ff-4788-416d-a6c5-07fd36a2c689)
+    - 

@@ -1,0 +1,15 @@
+- **FOLO - Fear of left out** 
+    - **FOPO - Fear of Other People's Opinion** - [FOPO]()
+    - other fears
+        - fear of unknown 
+        - fear of consequences
+- **in order to avoid being cast out, we do whatever it takes to fit in**
+    - making you to spend time with others, unwanted gatherings, reading latest news, eagerness to know about others etc.
+    - Doing what others sees as appropriate or what socially acceptable
+        - Societal Standards, Unwritten Ethics and other man-made devices or measurements.
+    - fear of Consequences
+        - losing benefits from society
+- We fake things and pretend what we're not to stay relative.
+- We have to remember we are racing with ourselves, not with others. 
+    - **This FOLO will lead us to lose our own race to no one else but ourselves. **
+- [Boon of Stillness]() makes as feel vulnerable as if we are losing the ground or wasting [Efficiency]() or the guilty of not doing anything when we are energetic. But, when it is executed in or with the right [Flow State of Mind](), it gives more strength and clarity.

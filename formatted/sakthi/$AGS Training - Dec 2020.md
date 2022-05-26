@@ -1,0 +1,337 @@
+- Meta
+    [Project]() #:archived #[^2020]() [December 28th, 2020]() to [December 29th, 2020]() #[&Adhiparasakthi Group of Schools]()
+    Requirement of Training Sessions
+        1. Emotional & Mental Health Management
+            - Stress Management
+            - Mental Stability
+            - Work - Life Balance
+        2. Teaching Methodology
+            - Effective Lesson Planning
+            - Recent Practices
+            - Strategies for Non Creamy Students (LSRW)
+            - Creative / Innovative Teaching
+        3. Subject Oriented Developement
+            - Subject Expertise / Research Scholar
+            - Workshops / Experimental Training
+        4. Communication Skill Development / Interpersonal Skill development 
+        5. Academic Skill Development
+        6. Advanced Classroom Management
+        7. Time Managment
+        8. Collaborative Working
+        9. Self Efficiency Development
+        10. Leadership Management
+        11. ~~Technical Skill Development ~~
+            - Robotics & AI
+            - Advanced Technology
+            - Virtual Technology
+        12. ~~Guidelines & Latest Trends in School Administration ~~
+        13. ~~Historical / Archeological Knowledge Development~~
+        14. ~~Outdoor Programmes~~
+        15. ~~Vocational Training Programmes~~
+        16. ~~Workshop for Eligibility Exam Training~~
+        17. ~~Waste management~~
+        18. ~~Women Empowerment~~
+- Title: 
+    Workshop on Effective Workflow & Information Management for Knowledge Workers
+        - Using Technology to radically improve personal and professional productivity effectiveness in Information Age
+- # Course
+    - # Intro & Motivation
+        - Intro
+            - reflect yourself, here is the mirror
+        - Positive Motivation
+            - Radical Improvement of Productivity
+            - Using Opportunity
+                - Right Data & Right Time With availability of Right Tools using right skills
+                - Your opportunity lies in your most boring time of your lives
+                    - Sharpen your tools & workflow system
+            - Personal Life Quality
+        - Negative Motivation
+            - [Dunning-Kruger Effect]()
+            - Coping with NEXT GEN
+                - Future Security - Left out in the transition, Risk of becoming irrelevant 
+                - NEP
+                - Technology in learning - eLearning (BYJUs, SkillShare, Khan Academy, etc)
+                    - Future Working Model - Contract Based, Freelancing Based
+        - Knowledge is power; when you are intelligent enough to implement it at right time & willing to do it.
+    - # Self Evaluation & Finding Innate Strength
+        - ### ICE Breaking & Self Evaluation Games
+            - Earn as much as you can (XY Game) - eg. of [non-zero-sum game]() [*](((e29WpOzXM)))
+                - {{[table]()}}
+                    - Combo Choice Made
+                        - Marks for X's   
+                            - Mark for Y's
+                    - 0X	4Y 
+                        - 0
+                            - 1
+                    - 1X	3Y
+                        - 3
+                            - -1
+                    - 2X	2Y
+                        - 2
+                            - -2
+                    - 3X	1Y
+                        - 1
+                            - -3
+                    - 4X	0Y
+                        - -1
+                            - 0
+            - Inner Personality
+                - Tweak your thought process, not the outer personality
+                    - Thought -> Action -> Habit -> Personality
+                    - Refine your Inner personality, outer personality will follow
+        - ^^The 4(+1) [Thinking]() Thinker type^^  [*](((nFnE8zcyY)))
+            - **Clarifier**
+                - Enjoys exploring challenges and opportunities
+                    - likes to examine details
+                    - wants a clear understanding of the issue
+                    - prefers a methodical approach to solving problems
+                - may suffer from [Analysis Paralysis]()
+            - **Ideator**
+                - Likes to look at big picture
+                - Enjoys toying with ideas and possibilities
+                    - like to stretch [imagination]()
+                    - thinking in more global and abstract terms
+                    - takes intuitive approach to [innovation]()
+                - May overlook details
+            - **Developer (thinking)**
+                - Enjoys putting together workable solutions
+                    - examine pluses and minuses of an idea
+                    - compare competing solutions
+                    - enjoy analysing potential solutions
+                    - planning steps to implement an idea
+                - May stuck in developing perfect solution
+            - **Implementer**
+                - Likes to see things happen
+                    - enjoy giving structure to idea
+                        - sees idea to become reality / fruition of ideas
+                    - focus on "workable" ideas and solutions
+                    - Just Do It - approach
+                - May leap to action too quickly
+            - [Integrators]() - ^^Best type of thinkers^^
+                - Integrators take a very **even approach to breakthrough thinking process**
+                    - There is no peak or valley (among the distribution of preference from above 4 types of thinking, i.e. if you have 30% of Ideator preference in thinking, you will also have 28 to 35% of preference in Clarifier and similar percent in Developer and implementer)
+                - ^^**energies stay steady**^^ [Slow and Steady]() [Flow State of Mind]()
+                    -  as they focus on 
+                        - facts,
+                        - identify the challenge to address, 
+                        - entertain a plethora of ideas
+                        - finally put them to practice
+                        - For this reason they are
+                            - **very flexible and easily accommodate** whatever the task requires 
+                        - very good team players, finding it easy to work with people having different profiles.
+                        - [Critical Thinking]()
+                - ^^**ALERT!** - Given that flexibility^^
+                    - Integrators must be cautious not simply to follow others' leads, particularly when others having strong preferences 
+                        - Be [Assertive]()
+                        - Must Remember to **diagnose the situation themselves** and pursue the most appropriate response. 
+    - # Information & File Management
+        - File & Document Management
+            - All about ^^spontaneity^^ of accessing Information & Ideas
+                - Collecting, Organise and Retireve
+            - File System - [PARA File System]() [* Second Brain]()
+                - Cloud Drive, Evernote
+    - # Task Management
+        - Classic To-Do List for Beginners
+            - List Managers, Physical Notebook
+        - Simple Digital Task Management (CODRA)
+            - System
+                - Collect
+                    - Offload your Brain from storing
+                        - Brain vs Mind - Mind is to think, not primarily to remember trivial things
+                        - Use it for thinking (Spontaneously)
+                - Organize
+                    - Labelling - PTPPT (Priority, Time, People, Place and Type/Things)
+                    - Helps to become Spontaneous
+                - Do
+                    - Defer, Deter, 
+                    - Delegate, 
+                        - Discourse (Give) & Dissertate (Get - Follow Up & Integrate)
+                    - Do Yourself
+                - Review & Reflect 
+                    - Closing Day
+                    - Weekly Review
+                        - re organise
+            - Time Boxing - Flexible System
+                - Progressive Review System
+                    - This Week, Next Week, This Month, Next Month, This Quarter
+    - # Productivity Progress: Objectives & Focus of the Day
+        - Setting Priorities to the Task
+            - [Pareto Principle]() - 80/20 Rule (quality vs perfection)
+                - P1 - Objectives
+                    - [Limitation of Will Power]()
+                    - So 2 task or xyz 1 hour task, Eat the Frog, as first task in the morning
+                - P2 - Focus 
+                - P3 - Collaboration
+                    - [Parkinson's Law]()
+                - P4 - Normal Works & Routines
+                    - [Productivity Performance Rhythm]()
+        - Execution
+            - Eat the Frog, as first task in the morning
+                - the vital & hard few tasks
+                - P1 & P2 for 4 Hours
+        - Routines & Area of Focus
+            - Area of Focus -> Moves you forward
+            - Routines -> Sustains you at same level
+        - Analyse & Improvise (no need to explain)
+    - # Day 2, Knowledge & Notes Management
+        - [Personal Knowledge Flow]()
+        - Knowledge vs Information Collection/Association vs Reference
+        - Collect - Summarise - Organise - Remix - Retrieve - Innovate
+        - [Progressive Summarisation]()
+            - Remembering and Retrieving
+                - Future stupid self
+            - Forest vs Mountain
+            - Notion, RoamResearch
+        - **Evernote Note Capture**
+        - **Roam Knowledge Building**
+        - EXTRAs
+            - Importance of Typewriting skill
+                - Flow - the time of Thoughts to words keep your mind flow
+                    - Shortcuts
+                    - Quick catching and retrieving
+                - Where to learn
+                    - BBC Typing School
+    - # Day 2, Focus Management - not Time Management
+        - Costliest resource
+            - Attention -> Focus -> Willpower
+        - Time Blocking
+            - Why?
+                - [Parkinson's Law]()
+                - [Limitation of Will Power]()
+                    - Will power to focus and Will power to resist distraction
+                - You can't manage time, you can only manage your attention or focus
+            - Day Theming / Time Theming
+                - Rhythm
+                    - [Ultradian rhythm]() - repeats multiple times in a day
+                    - [Circadian rhythm]() - 1 day or 24 hour cycle
+                    - [Infradian rhythm]() - Cycles through multiple days. 
+                    - Pomodoro - Focus Intervals 
+                - Zone Setting
+                    - [4 states of thinking]()
+                    - zone triggers
+                        - mental triggers (controllable)
+                            - music, silence, objects position(wrist watch in certain position )
+                        - physical triggers (fixed)
+                            - location, time, light settings
+        - Mental Minimalism
+            - Distraction as habit and second nature
+                - Apps that controls you 
+                    - calls, emails
+                - Apps you can control
+                    - tasks, notes
+    - [Goal Management]()
+        - [Project Management]()
+            - Outcome Based Goal & Personal Project Management - MOK
+                - Why - Motivation
+                - What - Objectives
+                - How - Key Results
+                    - Execution
+                        - Why(priority), Who(people), When (time), Where(place), What(thing)
+    - # Stress Management - Work Life Balance
+        - Expectation meets -> Requirement/Wish
+            - Inability
+            - Incapacity
+            - Out of Control -> 
+                - lack of discipline
+                - Over estimation & Over confidence
+            - Master of Distraction or Master of Concentration
+                - We're Creature of Habits
+                    - What you practice is what you become
+            - Avoiding good stress. Stress is Good, if it’s beneficial
+                - Eustress vs Distress
+            - Peer pressure, [FOPO](), [FOLO]()
+        - Efficiency vs Productivity
+            - Flow
+                - **Spontaneity & Clarity, Motivation & Rewards**
+                    - What common things **gives you stress**
+                        - Remembering the tasks (fear of forgetting)
+                        - Backlogs, Fear of list growing
+                        - Not knowing 'What to do next?' - 
+                            - Cloudy mind
+                            - Feeling of lost
+                        - Fear of not accomplishing (Even though you have done many works) - Not tracking
+                        - Setting overwhelming tasks for the day
+                        - Habit of worrying (because of stress)- Pattern formation
+                        - Not focus on important things in life (procrastination, entertainment)
+                        - Jobs given to only who works or highly productive people (work overload)
+                        - Fulfilling other's expectation
+                        - Having goals and no motivation (Desire vs Deserve)
+                        - Lack of Satisfaction feeling in work done (Work vs Outcome)
+                        - Impassion work
+                        - less habituated with abilities to focus (used to distractive attention)
+                        - Guilt of wasted time
+                            - Distraction gives temporary escape
+                            - Distraction gives instant gratification
+                            - Distraction gives illusion of relief
+                        - Resisting the innate nature and reactions 
+                            - Couldn't voice your opinion
+                            - Couldn't bargain
+                        - Improper management of data and knowledge
+                            - losing important data
+                            - couldn't retrieve critical data instantly at critical time
+                            - inability show your work or share
+                        - Do not think about Dinosaurs (Negative thinking)
+                        - Not taking Eustress
+                            - Attention and Direction is Eustress
+                            - Thinking and overcoming conflicts
+                            - Improvising your system
+                            - Planning and Analysing
+                        - Struggling to start
+            - Stability
+                - Prepare (System, Tools & Motivation)
+                - Time Block
+            - Momentum
+                - [2 Minute rule]()
+                - 3 Laws of Productivity (from Newton)
+            - Balance in Progress 
+                - Liberate after intense productive day
+                    - Definition,
+                        - Write
+                    - Elimination
+                        - Practice, Habitual 
+                    - Automate
+                        - Improvise, Focus on Efficiency
+            - Fitting in
+                - Workflow Management
+                    - Set your own
+                        - There's no "Perfect System" & "One Formula for Everything"
+                        - Keep your system flexible
+                        - Adapt & Improvise according to situation
+                    - Integrating your personal system with your Organisation system
+                        - Time Block less, Time Box more
+                        - Condition your Team - 
+                            - Preserve your Self, Set Psychological Borders
+                                - Set "Do Not Disturb" indicators
+                                    - Both in devices & in physical space
+                                - SOPs 
+                                - Bargaining & Arguing
+                                    - If you can't say 'NO', you can't argue
+                                    - If you can't say 'Go to Hell', you can't bargain
+                                    - Evolve & Enrich Yourself to Bargain & Argue
+            - [* The Effortless Flow]() Graph
+            - The best productivity outcome is you , you are the product of the process and system
+    - # Teaching and Learning
+        - What is Knowledge & Where it comes from
+        - Learning
+            - Augmented Learning
+                - Common Frame of Reference - Examples
+                - Brain stops binding new things at age of 12
+                - Brain Rewiring
+        - Teaching
+            - Learn yourself
+                - if you can't explain simple, you didn't learn well
+                - Simple, but not simpler
+            - Evaluate your ward's current status
+                - Stand in the shoes of the learner
+                    - connect personally
+                    - Direct their thoughts and Control their mind
+                        - Archetypical Teaching
+                        - Trigger Keywords & Visual Trigger
+                    - Emphasise 
+                        - Tone Modification
+                            - Trigger Keywords
+        - Remembering
+            - [Spaced Repetition System]()
+            - Trigger Keywords & Visual Trigger
+    - [4 states of thinking]()
+    - So 2 task or xyz 1 hour task, Eat the Frog, as first task in the morning

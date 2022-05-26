@@ -1,0 +1,35 @@
+- [Thinking]() [wholes and parts]()
+- [my-article]() Building blocks of true knowledge: Atomic Understanding
+    - https://alvistor.com/atomic-understanding/
+    - break it down to its atomicity - Atomic = forming a single irreducible unit or component in a larger system.
+        - until it reaches first principle
+            - radius is a radius, you can’t deduce it further 
+        - understand it by asking too many why's
+            - we accept our primary understanding as it is without asking questions.
+            - strong with your fundamental knowledge, in other words, make sure your [atomic block]() in your [atomic note]() is reliable and true
+                - each block is your note for future use and reference
+                    - [Tagging Notes for Future: 5Ws tagging system]()
+    - reconstruct it (comprehend it) with your own words
+        - this is your summary notes as [atomic note]() (not to be confused with evergreen notes)
+            - that has a link with your different [atomic block]()s notes (not to be confused with permanent notes)
+    - Deconstruct -> Understand -> Reconstruct
+    - eg. Gravity
+        - Newton. Apple falls, why did it fall?, some thing attracted it, what is it, it is force. Where that force is from, may be earth. so earth attracts other objects towards itself. This force is gravity.
+        - so for gravity, you need an atomic or unit understanding of pull or attraction between objects (mass attracts each other), that is force, finally objects. Reconstructing would be like force act on objects, the earth is also an object, an apple is also an object, they attract each other, as the earth is bigger in mass, thus apple moves towards earth, instead of the other way.
+        - So my note structure will be - **this is eg of atomic blocks**
+            - **Earth's Gravity** __(this my atomic block's note title - Gravity Block)__
+                - **mass or objects attract each other** - (__Mass-and-Attraction Block__)
+                    - **this attraction acts as a pulling "Force"**  __(this final indent is my 'atomic block' - Force Block__)
+            - (my comprehension will be - this is eg of atomic note)
+                - **earth as an object attract any other object near it with a force because mass attract each other. This force is called gravity.**
+- Intelligence in [Personal Knowledge Flow]() Begining of original thinking: First principle thinking 
+    - reasoning from first principle - to understand
+    - Innovating
+        - ground-up thinking, building the concept using your [atomic block]() of 'understood knowledge pieces' or [atomic note]() to form a feasible solution
+        - integrating mix and matching your Concepts without changing first principles, but changing its order, combination, etc. 
+        - [systems thinking]() - thinking for the whole, and then solving each elemental problems in the system having interoperable issues in account
+        - ability to reassemble your [atomic block]() to find the different solution is the power of this system. 
+        - It's all about your thinking process, this notes system only aids it.
+    - eg. all river flow towards ocean - this is analogy
+        - we accept analogy without asking questions 
+        - if you break it down, river is water, water flows towards lower ground, that is because of the gravity, gravity is a pulling force towards earth's centre. We've reached the first principle. That is water moves towards the centre of the earth, so it move in line tracing the trench towards the pit (in this case, Ocean). May be this is how they built the dam, hydro electricity generating stations etc. 

@@ -1,0 +1,6 @@
+- about being productive __with less effort__ - [* The Effortless Flow]()
+- finding [Optimality]() in [Work/Process]() increases Efficiency, that in turn increases [* Productivity]()
+- [How to become more efficient?]()
+- Related
+    - [Effectivity]() - Efficiency to achieve Goal
+    - [Optimality]() - High [Effectivity]() that leads to High [Efficiency]() at the expense of lowest energy, resource and time possible

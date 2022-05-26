@@ -1,0 +1,2 @@
+- ^^all inbox notes, bits of meaningful pieces of information, wild & rough ideas, cues & questions come under transient notes.^^
+    -  most of it will become [evergreen notes]() soon or later, some will be deleted or archived.

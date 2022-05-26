@@ -1,0 +1,24 @@
+- [soft skills]() [Interpersonal Psychology]()
+- Importance of speaking up and speaking TRUTH
+    - You can have whatever you want, but you have to ask for it. - [Jordan Peterson]() #/quotes
+- Why Bargain or Argue
+    - If you can't bargain, you are a slave - [Jordan Peterson]() #/quotes
+        - If you can't say NO, you can't bargain.
+        - [my-words]() Don't say "Yes" if you can't say "NO" to the same offer.
+            - If you can't say "no" to a gift or offer, if you believe you don't deserve it or have the ability to live without it, do not accept it. Because when you say "yes" to it, you are the object which is sold, in other words you become the slave of that exchange (either to the seller or to the gift)
+            - [how to argue or negotiate]()
+    - The goal of an argument is to change the person's perspective so that giving a chance to change themselves. 
+        - We can't change them unless they are willing to.
+- How to converse or Argue
+    - Verbal Language is designed to hide feelings.Vibes are important.
+    - What a conversation is
+        - The conversation is not about telling something that is relevant to what the other telling. It's about understanding the mind and feeling of the other person.
+        - Conversation is exchange of ideas. Not to produce fake points to win the other person.
+    - Always try NOT to win the argument. Try to express your mind clear and to make them understand what you feel.
+        - Winning the argument and destroying the person won't get you anywhere. That's a temporary victory.
+        - Don't worry about the outcome of the argument. Instead, worry about the person's (and my) wellness and progress towards clarity and peace.
+        - Listen instead of hearing, express instead of impressing
+        - When an opponent tells a point, truthfully, honestly think what is just said and why it is said like that. 
+    - Use very minimal, necessary force to beat them, don't destroy them. A force more than needed is counter active. 
+- **You have to handle conflict only by this skill**
+    - you can't keep losing by trying to be nice guy [Right vs Nice Guy]()

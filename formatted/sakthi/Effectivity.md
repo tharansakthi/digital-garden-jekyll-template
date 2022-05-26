@@ -1,0 +1,2 @@
+- or **effectiveness** is the capacity or potential for achieving results. (from input force/work, how much input is impacted and influenced the desired output)
+    - while **effectivity** is (uncountable) the ability or power to be effective.

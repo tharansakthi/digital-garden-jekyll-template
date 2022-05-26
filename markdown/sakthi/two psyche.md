@@ -1,0 +1,8 @@
+- [[Inner Conflicts]]
+- two psyche
+    - sane thought and insane thoughts 
+    - conscience and brute
+    - thoughts towards a direction and random 
+    - soul and mind 
+    - [[Conscious]] and [[Infinite Intelligence]]
+        - mingling them is a higher process of [[Individuation]] to make a [[Whole Self]] out of a man. 

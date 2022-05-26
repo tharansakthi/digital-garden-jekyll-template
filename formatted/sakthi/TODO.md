@@ -1,0 +1,2 @@
+- [ ] Thinks to remember as [systems thinking]() thinker. 
+    - [From Systems Thinking to Systems Doing - [[uxdesign.cc]() [/articles]()]] 

@@ -1,0 +1,6 @@
+- ஊழ்வினை or கர்மவினை 
+- The [[Purpose of Life]] is finding the largest burden that you can bear and bearing it. - [[Jordan Peterson]] #/quotes
+    - Choose your damn sacrifice. 
+        - You have to endure (not necessarily suffer) your karma (ஊழ்வினை)
+            - Volunteer to endure and let go [[* the crux]]
+- the [[Purpose of Life]], as far as I can tell... is to find a mode of being that's so meaningful that the fact that life is suffering is no longer relevant - [[Jordan Peterson]] [[Geethasaaram]] [[/quotes]] [[Stoicism]] [[Meaning of Life]]

@@ -1,0 +1,11 @@
+- # Health Rhythm
+    - An activity or action that is repeated or occurring in an ordered fashion of interval or cycle.
+    - Rhythmic - [[Habituation]] turns to positive [[Compulsive Behaviour]] or positive [[Pavlovian Conditioning]] through [[Positive Reinforcement]]
+    - Body Activity Rhythm
+        - [[Circadian rhythm]] - 1 day or 24 hour cycle
+            - [[Chronotype]], [[[[Sleep]]-Wake]]
+                - A [[Chronotype]] is the behavioural manifestation of underlying circadian rhythms of myriad ^^(high alertness ([[Efficiency]] or [[* Productivity]]) cycle and [[[[Sleep]]-Wake]] pattern) ^^physical processes.
+        - [[Ultradian rhythm]] - repeats multiple times in a day
+        - [[Infradian rhythm]] - Cycles through multiple days. 
+            - [[Effects of moon]]
+            - [[Sleep]]

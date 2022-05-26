@@ -1,0 +1,1 @@
+- In a well-conducted man-of-war,** everything is in its place, and there is a place for everything.** - [[Organizing]] [[Art of War]]
