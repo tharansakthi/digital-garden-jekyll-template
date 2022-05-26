@@ -1,0 +1,5 @@
+- Panphobia aka [Panophobia]() is having a vague fear of an inexplicable threat that comes from an unknown source (or evil) - Probably relevant to [Shadow]() [Inferiority Complex]() [phobia]()
+    - It's an irrational fear that doesn't have a logical trigger. 
+    - Usually the fear doesn't make sense
+- Fyodor Dostoevsky - Crime and Punishment #[/books]() (Recommended by #['Sudharshan]()) #[?recommendation]()
+- 5AM Club

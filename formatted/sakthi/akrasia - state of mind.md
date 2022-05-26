@@ -1,0 +1,22 @@
+- state of mind which lacks Will power to act on something you decided. [Limitation of Will Power]() [decision-making]() 
+    - Definition : state of mind in which someone act against their better judgement through weakness of will. 
+    - akrasia - greek term
+    - Impairment in [decision-making]()
+- [brain war]() where akrasia happens
+    - The war between
+        - **Your prefrontal cortex.** This governs executive function: your goals, values, and ability to make complex strategic choices. [Brain Wiring]()
+        - **Your limbic system. **This is your primordial pleasure center, or "[lizard brain]()": it's short-termist, and always prioritizes your physical and mental comfort. [Procrastination]()
+- 2 Types of Procrastination
+    - Passive Procrastination - If your primary impulse is to withdraw from the task, you are passively procrastinating.
+        - triggers
+            - feeling of discomfort - anticipation of difficulty of a task in hand
+            - Your limbic system takes over = [lizard brain]() kicks in
+                - repeating this will reinforces the loop (pattern) [Brain Wiring](). Strengthens the lizard brain
+                    - Solution: [+ strengthening will power muscle with self-discipline]()
+            - reward doesn't feel enough - until [panic monster]() appears 
+        - Often ends with guilt - anxiety 
+    - Active Procrastination - You feel energetic, but brain is not in focus on the task in hand
+        - May be you work well in pressure (with [panic monster]()) or the task may not be challenging enough 
+        - **Strategic Procrastination** or [Strategic Procrastination]()
+            - Strategic procrastination is deliberately not doing what you’re supposed to do for a short period so that your subconscious mind could generate new ground for massive action.
+            - This allows you to have a divergent thinking before proceeding to the task execution

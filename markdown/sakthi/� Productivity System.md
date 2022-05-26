@@ -1,0 +1,3 @@
+- [[productivity-technique/eat the frog]]
+- [[Eisenhower matrix]]
+- [[systems thinking]] 

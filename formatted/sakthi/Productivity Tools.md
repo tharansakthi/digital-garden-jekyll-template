@@ -1,0 +1,19 @@
+- Productivity Tools List
+    - Power tools
+        - [Todoist]() for [Task Management]()
+        - [* Second Brain]() Tools
+            - [Evernote]() for [Notes Management]() [Personal Knowledge Management]()
+            - [Notion]() for  [Project Management]() [Wiki]()
+            - [RoamResearch]() for [Personal Knowledge Management](), [Research Tools]()
+            - [Day One Journal App]() for [Journaling]()
+    - General
+        - [Calendar]() for [Time Management]()
+            - Fantastical
+        - [Superhuman]() for [Mail]() [Task Management]() [Communication Management]()
+        - [Chats]() for [Communication Management]()
+            - Telegram
+    - Learning & Research
+        - [Zotero]() for [Research Tools]() [Reference Management]()
+        - [Manuscripts-io]() for [Document Editing Tools]()
+        - Whimsical - [Mindmap]()
+- 

@@ -1,0 +1,1 @@
+- If your actions inspire others to dream ([[Goal/Dreams]]) more, learn more, do more and become more, you are a leader. ([[Leadership]]) - John Quincy Adams #/quotes #Influence

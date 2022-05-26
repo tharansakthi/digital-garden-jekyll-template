@@ -1,0 +1,6 @@
+- Five fundamental, eternal and real differences are described in Dvaitam school
+    - Between the individual souls (or jīvātman) and God (paramathma or Vishnu). 
+    - Between matter (inanimate, insentient) and God. 
+    - Between individual souls (jīvātman). 
+    - Between matter and jīvātman. 
+    - Between various types of matter. 

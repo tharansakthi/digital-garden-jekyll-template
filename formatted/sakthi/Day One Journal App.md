@@ -1,0 +1,4 @@
+- Description
+    - This app is basically [Journaling]() app
+- Usage of Day one app
+- 

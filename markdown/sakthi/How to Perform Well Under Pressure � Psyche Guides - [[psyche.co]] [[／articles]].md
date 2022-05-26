@@ -1,0 +1,39 @@
+- [[/articles]] 
+    - Author:: [[psyche.co]]
+    - Tags::
+    - Full Title:: How to Perform Well Under Pressure | Psyche Guides
+    - Category:: articles
+    - URL:: instapaper https://psyche.co/guides/how-to-perform-well-under-pressure-by-cultivating-flexibility
+- #[[?summary]] 
+    - mental toughness (bad) vs [[mental flexibility]] (good)
+        - Principle of [[Acceptance]], be flexible and ready to accept whatever is thrown at you. Get out of rigid self and ready to become anything at the present moment. 
+        - [[+ be like the bird (don't question, do/be in the flow)]] [[+ be like a water (bend for the moment)]]
+        - [[* Middle Way]] don't be too flexible. 
+- ### #[[/highlights]] sync #Readwise [[November 30th, 2021]]
+    - mental toughness can trigger unhelpful and unhealthy coping mechanisms, such as self-imposed rigid rules, perfectionistic traits [[+ never aim for perfection]], a lack of self-compassion, and goals being attacked as threats rather than embraced like challenges. 
+        - [[Self Compassion]]
+    - In a fearful state, you don’t think and respond creatively, you just follow patterns you have used before, usually following rigid rules, which means you cannot adapt well to new information or changes in your environment.
+        - [[+ when you can't think clearly, you follow your past pattern]]
+        - **Note**: In pressure and urgent times, your habits kick it like an autopilot, like a safety switch (like an involuntary mechanism). That's why it is important to do something repeatedly in your leisure which you want to do in critical times. [[+ you become what you do repeatedly (pattern)]]
+    - [[mental flexibility]], also known as ‘psychological flexibility’ (drawing partly on the principles of acceptance and commitment therapy or ACT, an approach in psychotherapy that has grown out of cognitive and behavioural therapy and blends it with insights from Buddhism and other perspectives).
+    - Mental flexibility is vital for coping well with pressure because, if you want to perform brilliantly, you need the skills to handle whatever is thrown at you, especially the unexpected.
+    - ‘the ability to contact the present moment more fully … and to change or persist when doing so serves valued ends’
+- ### #[[/highlights]] added [[November 30th, 2021]] at 6:39 PM
+    - With values, you always have a direction, and every time you need to make a decision under pressure, you have a barometer against which to measure. A flexible, values-driven approach helps you perform well because you’ll be mentally nimble and you’re always working to meet your own metrics in life, not those driven by others, by fears or by expectations.
+        - **Note**: #-tagit value-driven
+    - Here are five steps to take to build this approach to performing well under pressure:
+    - Separate yourself from your thoughts
+    - you need to notice the unhelpful thoughts that are rattling around your head – not to dwell on them, but to become more aware of them.
+    - try ‘distanced self-talk’. For example, in your tennis match, instead of thinking ‘I’m always weak with my first serve,’ add some distance, such as ‘I am thinking that my first serve is weak.’ A step even further away from negativity would see you get to ‘I am noticing that I am thinking that my first serve is weak’
+        - **Note**: #-tagit distanced self-talk 
+This tactics helps to not emotionalize the thoughts so that it will not happen as I think negatively. 
+Aware of negative thoughts but not letting it to win. This is more like #-tagit meditation. Watching thoughts.
+    - Practise labelling your feelings more accurately
+    - Instead of catastrophising about these feelings or trying to suppress them outright, a more mentally flexible approach is to increase your emotional vocabulary so that you can describe your feelings with more accuracy and nuance (psychologists call this ‘affect labelling’).
+    - use more precise words that better describe your actual feelings ... this will help you to choose a more helpful coping mechanism for that feeling.
+    - Replace forms of self-talk that increase the pressure
+    - One word that particularly raises a red flag is ‘should’ ... This word is loaded with expectations and pressure, and it prevents you from being open to all the options in front of you.
+    - By using a broader range of emotional language and avoiding pressurised self-talk, you too can start to replace words such as ‘should’, ‘must’ and ‘have’ with more open, alternative words such as ‘notice’, ‘awareness’ and ‘opportunity’.
+    - Break some of your own rules
+    - deliberately challenging your usual way of doing things
+    - The activity should not be anything dramatic or harmful, but something that makes you just a little uncomfortable. Breaking your own rules in this way will teach your brain that you are able to escape routine and that you can be agile. You will learn that, even when you don’t follow your usual routines, all is usually OK in your world.

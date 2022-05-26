@@ -1,0 +1,6 @@
+- Friedrich Nietzsche
+    - #/personage [[Philosopher]] [[Psychologist]]
+- Most moral [[Inferior Virtue]] is a form or cowardice, NOT morality itself is cowardice
+    - People disguise the Cowardice as morality
+    - [[Beta Male]]
+    - their harmlessness is the result of their fear to act or inability to be harmful (to do the right) [[Right vs Nice Guy]]

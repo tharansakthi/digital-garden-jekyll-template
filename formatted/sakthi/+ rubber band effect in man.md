@@ -1,0 +1,1 @@
+- man’s rubber band [couple's intimacy cycle]()

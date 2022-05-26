@@ -1,0 +1,2 @@
+- எதிலும் எதுவும் இல்லை - Nothing in anything
+    - [* the crux]() [my Verities Scroll]()

@@ -1,0 +1,4 @@
+- To live a good life: We have the potential for it. If we learn to be indifferent to what makes no difference - [[Marcus Aurelius]] #/quotes [[Stoicism]]
+- [[Sage-ஞானி]]
+- [[Grey Rock method]]
+- [[Equanimity]] by being [[dispassionate]] to everything 

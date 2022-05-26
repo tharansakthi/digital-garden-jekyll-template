@@ -1,0 +1,14 @@
+- ^^Fudoshin^^ - "immovable mind" "immovable heart" "unmoving heart" 
+    - ^^Mushin^^ - without mind or "no-mindness"
+    - **Definition**: Mind not fixed or occupied 
+        - [[mindfulness]] [[peace of mind]] [[inner peace]] [[Open mindedness]]
+- Reference 
+    - [Mushin (mental state) - Wikipedia](https://en.m.wikipedia.org/wiki/Mushin_(mental_state)?cmdid=L5XIMBLZUZQ9V2)
+        - The term is shortened from mushin no shin (無心の心), a Zen expression meaning the mind without mind and is also referred to as the state of "no-mindness". That is, a mind not fixed or occupied by thought or emotion and thus open to everything.
+        - a Zen expression meaning the mind without mind and is also referred to as the state of "no-mindness".
+        - Mushin is achieved when a person's mind is free from thoughts of anger, fear, or ego during combat or everyday life. There is an absence of discursive thought and judgment, so the person is totally free to act and react towards an opponent without hesitation and without disturbance from such thoughts. At this point, a person relies not on what they think should be the next move, but what is their trained natural reaction (or instinct) or what is felt intuitively. It is not a state of relaxed, near-sleepfulness, however. The mind could be said to be working at a very high speed, but with no intention, plan or direction.
+        - ^^The mind must always be in the state of 'flowing,' for when it stops anywhere that means the flow is interrupted and it is this interruption that is injurious to the well-being of the mind. In the case of the swordsman, it means death.; When the swordsman stands against his opponent, he is not to think of the opponent, nor of himself, nor of his enemy's sword movements. He just stands there with his sword which, forgetful of all technique, is ready only to follow the dictates of the subconscious. The man has effaced himself as the wielder of the sword. When he strikes, it is not the man but the sword in the hand of the man's subconscious that strikes.
+        - ^^Mushin in Japanese and Wuxin in Chinese (無心 "no mind") is a mental state. Zen and Daoist meditators attempt to reach this state, as well as artists and trained martial artists.[1][2][3][4][5] They also practice this mental state during everyday activities.
+    - [Fudōshin - Wikipedia](https://en.m.wikipedia.org/wiki/Fud%C5%8Dshin?cmdid=M1D39O56BVT2LU)
+        - ^^Fudōshin (Japanese: 不動心) is a state of equanimity or imperturbability (literally and metaphorically, "immovable mind",[1] "immovable heart"[2] or "unmoving heart"). It is a philosophical or mental dimension to Japanese martial arts which contributes to the effectiveness of the advanced practitioner.
+    - 

@@ -1,0 +1,5 @@
+- strongly prejudiced against women. 
+    - opposite: - [[misandry]] is the hatred of, contempt for, or prejudice against men or boys in general.
+- [[Feminism]] 
+- [[patriarchy]]
+    - opposite is [[matriarchy]]

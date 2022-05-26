@@ -1,0 +1,3 @@
+- #/quotes [[James Clear]]
+    - ^^The world rewards you for value provided, not time spent.^^ [[Self Evaluation]] [[productivity metrics]] 
+    - The important thing is not to keep winning, but to keep reaching. [[Goal Management]]

@@ -1,0 +1,1 @@
+- an inclination to believe that people are motivated purely by self-interest, i.e. **general distrust in other's motives. characterized by scepticism.**

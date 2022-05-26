@@ -1,0 +1,10 @@
+- [[/articles]]
+    - Author:: [[forge.medium.com]]
+    - Tags::
+    - Full Title:: I Just Don’t Want to Be Busy Anymore
+    - Category:: articles
+    - URL:: instapaper https://forge.medium.com/i-just-dont-want-to-be-busy-anymore-ac4dd37c8119
+- #[[?summary]] - #inbox for #[[-summarizeit]]
+- ### #[[/highlights]] sync #Readwise [[October 7th, 2021]]
+    - burnout ... emotional exhaustion, depersonalization, and a feeling of low personal accomplishment. ... it’s often misdiagnosed as depression
+    - We collectively create the culture we live in. What this tells me is, we can be the change we want to see in the world. ([View Highlight](https://instapaper.com/read/1449055506/17659329))

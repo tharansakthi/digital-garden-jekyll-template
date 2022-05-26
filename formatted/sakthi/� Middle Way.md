@@ -1,0 +1,1 @@
+- [Moderation]() in [Stoicism]() (according to [Epicurus]()) is the **middle way** in [Taoism]()

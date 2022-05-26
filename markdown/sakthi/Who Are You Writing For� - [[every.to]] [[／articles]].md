@@ -1,0 +1,11 @@
+- [[/articles]]
+    - Author:: [[every.to]]
+    - Tags::
+    - Full Title:: Who Are You Writing For?
+    - Category:: articles
+    - URL:: instapaper https://every.to/the-long-conversation/who-are-you-writing-for
+- ### #[[/highlights]] sync #Readwise [[October 31st, 2021]]
+    - ...write it to someone, like me. Write it as a letter aimed at one person. This removes the vague terror of addressing the large and faceless audience and it also, you will find, will give a sense of freedom and a lack of self-consciousness.
+        - **Note**: [[writer’s block]]
+    - Learning about your readers means learning how to help them, not just how to gain their “loyalty.”
+    - the more you understand the needs of the readers you care about, the better you’ll be able to write an essay that will answer their questions, address their pain points, or bring them joy; your reader will affect the kinds of questions you ask, and inform the structure and form of your essay.

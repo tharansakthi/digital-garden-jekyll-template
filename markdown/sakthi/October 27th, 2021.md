@@ -1,0 +1,2 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FuHYYy-GKw4.png?alt=media&token=dff99b83-96f6-47e2-ba4c-6d6c4f47085d)
+    - [[Critical Thinking]] Classroom

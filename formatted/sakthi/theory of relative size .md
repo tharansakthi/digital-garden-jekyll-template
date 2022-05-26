@@ -1,0 +1,3 @@
+- We ( our eyes or brain )judge size by comparing things. 
+    - In the below picture both inner dark circles is of same size but out eyes perceive the left as small because we compare it with outer. 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FAF6scf_WiC.jpeg?alt=media&token=ce4d4ac7-ac45-4cb5-9707-ec58410ce7fb)

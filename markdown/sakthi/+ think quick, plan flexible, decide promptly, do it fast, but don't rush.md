@@ -1,0 +1,3 @@
+- [[prompt decision]] [[decision-making]]
+    - Keep your eyes and ears wide open-and your mouth closed, if you wish to acquire the habit of [[prompt decision]]. [[+ talk less than necessary]] [[decision-making]]
+    - You will get it only if you really, badly want it. Most people want it, but there's no required amount of desire or [[prompt decision]]s. They wish, they day dream, but no desire to get it. That is, they don't prepare themselves to become deserving.

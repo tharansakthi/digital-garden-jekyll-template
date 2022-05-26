@@ -1,0 +1,140 @@
+- #[/books]()
+    - **[Author]():** Robin Sharma
+    - **[Tags]():**
+    - **[Full Title]():** The 5 AM Club
+    - **[Category]():** books
+    - ![](https://images-na.ssl-images-amazon.com/images/I/41QKRLgR0uL._SL200_.jpg)
+- #[?summary]()
+    - Wake up early to set your day straight. Controlling & owning your morning will lead to control the day, eventually the life.
+    - Work hard, rest lot. Don't worry about people's opinion. 
+    - Rules
+        - Addiction to distraction is end of creative production, spend your morning (including early morning to noon) in creative and focused works
+        - never say excuse, do what you have to do, every day in smaller increments 
+            - never behave like a victim, be like a victor
+        -  continue doing to be in the top 5% where 95% of mediocre people unwilling to do. 
+            - labelled a "freak" is the price of greatness
+        - consistence make things as habit until it becomes automatic. 
+        - persistence and perseverance. continue doing when you feel like quitting.
+    - Morning Routine
+        - What? 
+            - 3 requirements for Flow
+                - Stillness
+                - Solitude
+                    - Brain waves changes from Beta > Alpha > Theta
+                - Silence
+            - 4 sets (4 Interior Empires)
+                - Mindset (psychology)
+                - heartset (emotionality)
+                - soulset (spirituality)
+                - healthset (physicality)
+        - Why?
+            - Entry into [Flow State of Mind]()
+                - Prefrontal Cortex quiets
+                - access to genius level insights [Creative Imagination](), advanced [Creativity]()
+                - High performance
+            - Your happiness is the most important thing
+        - How?
+            - 90/90/1 Rule
+            - 20/20/20 Rule
+                - Move (sweat, hydrate)
+                - Reflect (journal, meditate)
+                - Grow (learn, review goals, teach)
+            - 160 minutes daily for 10 years  
+                - spend (2 hours, 40 mins) daily in chosen field for 10 years to become genius
+            - Day stacking - 1% improvement every day (HABITS) [Habituation]()
+                - Treat a day as a miniature of your life
+                - Insignificant improvements may lead to staggering results overtime
+            - Personal Discipline, strengthening **Will Power Muscle** [Limitation of Will Power]()
+            - Habit Instillation 66 Days
+                - 22 days - destruction of old habits
+                - 22 days - installation
+                - 22 days - integration
+            - 60/10 sprint (pomodoro)
+                - Tight focus (60) / Relax, meditate, visualize (10)
+            - 2 WW - Second wind workout (evening workout)
+            - 2 MP - Two 90 min massage session / week
+            - The Dream Team Technique
+                - Build / have a team (nutritionist, trainer, counseller)
+                - Delegate works that you are not good at and don't love to do or not important to you in first degree
+            - Weekly planning - [Time Boxing]()
+            - The 60 minutes student
+                - spend 1 hour every day to learn, review your journal, organize knowledge
+            - Take deep rest - Where you build, renew. (Work-rest ration)
+- #[/highlights]() first sync by [Readwise]() [January 13th, 2021]()
+    - “Do not live as if you have ten thousand years left. Your fate hangs over you. While you are still living, while you still exist on this Earth, strive to become a genuinely great person.” — [Marcus Aurelius](), Roman emperor ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=190))
+        - **Tags**: #[blue]()
+    - ‘one who sweats more in training bleeds less in war.’ And I liked his line ‘high victory is made in those early morning hours when no one’s watching and while everyone else is sleeping.’ ([Location 357](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=357))
+        - **Tags**: #[pink]()
+    - **“We only hear what we’re ready to hear,”** ([Location 360](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=360))
+        - **Tags**: #[pink]()
+    - **“All learning meets us exactly where we’re at. And as we grow greater, we understand better.”** ([Location 361](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=361))
+        - **Tags**: #[pink]()
+    - Take excellent care of the front end of your day, and the rest of your day will pretty much take care of itself. Own your morning. Elevate your life. ([Location 370](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=370))
+        - **Tags**: #[pink]()
+    - **“All change is hard at first, messy in the middle and gorgeous at the end.” **([Location 501](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=501))
+        - **Tags**: #[pink]()
+    - The Top 5% are a lot less concerned with fame, cash and approval and a lot more invested in punching above their weight class within their craft, playing above their pay grade around their talents and creating the kind of productivity that inspires—and serves—millions. That’s often why they make millions. So never mail it in. Always bring it on. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=528))
+        - **Tags**: #[pink]()
+    - This is the true joy in life, the being used for a purpose recognized by yourself as a mighty one; the being a force of nature instead of a feverish little clod of ailments and grievances complaining that the world will not devote itself to making you happy. I am of the opinion that my life belongs to the whole community, and as long as I live it is my privilege to do for it whatever I can. I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake. Life is no ‘brief candle’ for me. It is a sort of splendid torch which I have got hold of for the moment, and I want to make it burn as brightly as possible before handing it on to future generations. ([Location 574](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=574))
+        - **Tags**: #[pink]()
+    - “Victims love entertainment. Victors adore education.” ([Location 605](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=605))
+        - **Tags**: #[pink]()
+    - Tolstoy once noted that “only people who are capable of loving strongly can suffer great sorrow,” while the Sufi poet Rumi wrote, “You have to keep breaking your heart until it opens.” ([Location 623](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=623))
+        - **Tags**: #[pink]()
+    - ‘Everybody can be great because anybody can serve. You don’t have to have a college degree to serve. You don’t have to make your subject and verb agree to serve. You don’t have to know about Plato and Aristotle to serve. You don’t have to know Einstein’s Theory of Relativity to serve. You don’t have to know the Second Theory of Thermodynamics and Physics to serve. You only need a heart full of grace. A soul generated by love.’” ([Location 721](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=721))
+        - **Tags**: #[pink]()
+    - “One of the big lessons I’ve learned over the years is that giving to other people is a gift you give to yourself. Raise the joy of others and you’ll get even more joy. Increase the state of your fellow human beings and, naturally, your own state of being ascends. Success is cool. But significance is rad. Generosity—not scarcity—is the trait of all of the great men and women who have upgraded our world. And we need leaders, pure leaders and not narcissists obsessed with their own self-interests, as never before.” ([Location 725](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=725))
+        - **Tags**: #[blue]()
+    - “A child has no trouble believing the unbelievable, nor does the genius or the madman. It’s only you and I, with our big brains and our tiny hearts, who doubt and overthink and hesitate.” —Steven Pressfield ([Location 933](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=933))
+    - ‘Give up the drop, become the ocean.’” ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1002))
+        - **Tags**: #[pink]()
+    - ^^**inspiration gets fed by isolation**^^  ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1043))
+        - [Spirituality/solitary]() பசித்திரு, தனித்திரு, விழித்திரு - [Vivekananda]()
+    - **The more powerful a person truly is, the less they need to promote it. And the stronger a leader is, the less they need to announce it.”** ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1161))
+        - **Tags**: #[pink]()
+    - space shuttle Challenger disaster, which broke so many hearts, was caused by the failure of a single O-ring seal that some experts valued at seventy cents. **A horrific ending of lives was caused by a flaw around what appeared to be an insignificant detail**.” ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1347))
+    - Alexander the Great once said: ‘I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion.’” ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1571))
+    - “Stop managing your time and start managing your focus,” ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1718))
+        - **Tags**: #[pink]()
+    - being busy doesn’t mean you’re being productive. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1720))
+    - **“‘Comparison is the thief of joy,’”** ([Location 1771](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1771))
+    - ^^**your escalation requires your isolation.**^^ ([Location 1822](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1822))
+        - [Spirituality/solitary]() பசித்திரு, தனித்திரு, விழித்திரு - [Vivekananda]()
+        - **Tags**: #[pink]()
+    - performer must invest at least two hours and forty-four minutes of daily improvement on their chosen skill for ten years, as preeminent psychologist Anders Ericsson of Florida State University has taught us through his groundbreaking research. ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1908))
+    - This is the minimum viable amount of practice required for the first signs of genius to appear within any domain. ([Location 1909](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1909))
+    - ‘Stop insisting on clearing your head … Clear your heart instead.’” ([Location 1988](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=1988))
+        - **Tags**: #[pink]()
+    - 1% delivers at least a 30%—yes, 30%—elevation only a month from starting. Stay with the program and, in just one year, the pursuit you’ve been focusing on has elevated 365%, at least. ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2093))
+    - ^^“Small daily, seemingly insignificant improvements, when done consistently ([consistency]()) over time, yield staggering results,”^^ [Habituation]() ([Location 2096](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2096))
+        - **Tags**: #[favorite]()
+    - “The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.” — Helen Keller #/quotes ([Location 2132](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2132))
+    - “Albert Einstein wrote ‘Great spirits have always encountered violent opposition from mediocre minds. The mediocre mind is incapable of understanding the man who refuses to bow blindly to conventional prejudices and chooses instead to express his opinions courageously and honestly.’” ([Location 2299](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2299))
+    - Victory demands consistency and persistency. ([Location 2336](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2336))
+    - The way you practice in private is precisely the way you’ll perform once you’re in public. ([Location 2337](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2337))
+    - That’s why Steve Jobs made sure the workplace at NeXT was minimalist and painted all-white when he was there. Mess lowers your self-control as well as steals your cognitive bandwidth.” ([Location 2606](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2606))
+    - ^^**“Nothing’s as valuable as my happiness. Nothing’s as priceless as my peace of mind,”**^^ ([Location 2758](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2758))
+    - **The teacher learns the most.** ([Location 2800](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=2800)) [Teaching]() 
+    - For the next ninety days, schedule yourself to invest the first ninety minutes of your workday on the one activity that, when completed at world-class, will cause you to own your field. This ninety-minute period must be completely free of any noise and interruptions. Place your devices in a bag marked, “for my 90/90/1 period.” And then leave that bag in another room. Installing clear boundary fences that block access to temptations is a potent tactic to decrease them. ([Location 3630](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3630))
+    - After you’ve run the 90/90/1 segment of your workday, use a timer and work at your best for sixty minutes straight while sitting or standing quietly, in your Tight Bubble of Total Focus. Train yourself not to move. Just concentrate. And create the highest results you can possibly make. After your sixty-minute productivity sprint is done, refuel for ten minutes. Ideas for this recovery cycle include going for a quick walk in fresh air, reading a book that will advance your leadership or personal mastery, meditating, visualizing or listening to energizing music with headphones on like many championship athletes do before they step onto the court, so that their brain’s attention shifts from the ruminating and worrying behaviors of the left hemisphere into the creativity and flow of the right section. After ten wonderful minutes of regeneration, go back and perform your next sixty-minute work segment, ([Location 3641](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3641))
+    - During the second pocket of your Victory Hour, list the five tiny targets you wish to accomplish over the day ahead for you to feel it was one well-spent. This, like so much of what you’ve learned, is also a practice: the more you do it, the easier this habit gets—and the stronger your execution ability around it grows. So, stay with the process. After just thirty days, you’ll have accomplished 150 valuable victories. ([Location 3654](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3654))
+    - To execute The 2WW practice, schedule a second workout at the end of your workday to give you a second wind for a great evening. You’ll beat the exhaustion most people feel after work, re-energize your willpower batteries so you improve your evening choices and even find your cravings for sugar in the nighttime are significantly lower. One of the finest activities you could possibly do at this time is a one-hour nature walk. ([Location 3670](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3670))
+    - the value of alternating time in the world pursuing success at the highest level with time in the wilderness recovering—a symmetry needed to ensure a strong harmony between winning at work and richness in life. ([Location 3782](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3782))
+    - secret behind their undefeatability was their work-rest ratios.” ([Location 3807](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3807))
+    - **“Your growth happens when you’re resting,”** ([Location 3809](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3809))
+        - **Note**: After working until you tired
+    - you absolutely need to alternate High Excellence Cycles, those periods of intense and fantastic output, with times of meaningful recovery, Deep Refueling Cycles. ([Location 3837](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3837))
+    - ^^**The time you least feel like doing something is the best time to do it.**^^ ** And part of the reason for this, as you also now know, is because when you enlarge your willpower muscle in one important area, your self-discipline in every other area rises with you.**** ([Location 3857](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3857)) 
+        - [+ strengthening will power muscle with self-discipline]()
+    - I rest to allow all my training to take effect,’” ([Location 3863](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=3863))
+    - “It is impossible to live without failing at something unless you live so cautiously that you might as well not have lived at all—in which case, you fail by default,” said J.K. Rowling. #/quotes [failure]() #[ebb and flow of life]() ([Location 4070](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=4070))
+    - ^^**Heaven on Earth Is a State, Not a Place.**^^ ([Location 4203](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=4203))
+        - **Tags**: #[blue]()
+    - “[Nelson Mandela]() wrote, ‘As I walked out the door toward the gate that would lead to my freedom, I knew if I didn’t leave my bitterness and hatred behind, I’d still be in prison.’” ([Location 4364](https://readwise.io/to_kindle?action=open&asin=B07L872Z1B&location=4364)) [forgiveness]()  #/quotes
+- ### New #[/highlights]() added [March 26th, 2021]() at 2:59 AM
+    - labeled a freak is the price of greatness.
+    - To Create Magic in the World, Own the Magic within Yourself.
+    - Proper Use of Your Primal Power Creates Your Personal Utopia.
+    - Money Is the Fruit of Generosity, Not Scarcity.
+    - Optimal Health Maximizes Your Power to Produce Magic.
+    - Deep Love Yields Unconquerable Joy.

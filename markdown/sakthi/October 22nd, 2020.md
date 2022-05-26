@@ -1,0 +1,1 @@
+- [[my-words]] If you want to know yourself, Know others. If you want to know others, know yourself. [[Psychology]] [[Self Awareness]] [[Leadership]]  [[Psychology/Dreams]]

@@ -1,0 +1,4 @@
+- Who talked about this
+    - [[Albert Einstein]]
+    - [[Carl Jung]]
+        - **No language exists that cannot be misused. Every interpretation is hypothetical, for it is a mere attempt to read an unfamiliar text** -  [[Understanding]] [[frog research]] [[Language]] [[Illusion of Knowledge]] [[Dunning-Kruger Effect]]

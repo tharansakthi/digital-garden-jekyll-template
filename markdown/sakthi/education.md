@@ -1,0 +1,3 @@
+- standardised system will produce standardised outputs / outcomes
+- [[Collective Illusion]]
+- 

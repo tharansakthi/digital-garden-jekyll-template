@@ -1,0 +1,20 @@
+- Machiavellianism like, but this is about personality from political point of view
+    - commonly it is seen as **negative** trait like [Narcissism]() - exploiting others in name of doing good or showing sympathy. 
+- [Political Philosophy]() [Philosophy]() of Niccolò Machiavelli 
+    - [Philosopher]() #/personage
+    - #/books - The PRINCE
+        - The book is a guide about what good people learn from tyrants
+        - Quotes the **Impotence of Pure** to change or keep the order
+- Important take from Machiavelli approach to handle power or a realm
+    - In order to win the bad, you have to know what bad is, even may act bad for the good intention.
+    - Wicked tend to win, because they have huge advantage over 'good' and they are willing to act bad to further in the game. They don't tied by **PRINCIPLES** or **Virtues**
+        - They use lie, violence, twist fact, threat and other vile acts
+            - Opinion : remember bad people may lose or die at end, but good too and the bad (effects) stay here in the world. and it techs the future that bad is a easy way. Can't blame the ignorant people who believed the 'bad people' and supported them against good. They are also victim.
+        - Good may try to put up a fair fight, but it is not expected from the bad. So if the good fights believing the bad guys will play by the game rule, then... it doesn't work in history.
+- Advice for [Right vs Nice Guy]() nice people who don't get very far
+    - **Be nice, but don't overly devoted to acting nicely. In Certain amount of times, being nice is Counterproductive **
+        - [Being Good and Dangerous]()
+    - **Good people Learn from Bad people**
+- [Nietzsche]() shared some ideas with Machiavelli
+- Source 
+    - Videos : https://www.youtube.com/watch?v=GTQlnmWCPgA

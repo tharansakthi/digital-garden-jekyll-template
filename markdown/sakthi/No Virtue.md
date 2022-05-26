@@ -1,0 +1,2 @@
+- **"Highest virtue is not virtuous and that is why it is virtuous,” **[[Lao Tzu]] #/quotes [[Superior Virtue]]
+    - Once you can attain the [[oneness]] with [[Tao]], you are virtuous without being virtuous.  There is no intention, there is no desire.  Everything comes along naturally with spontaneity [[Flow in Life]].  This is something you cannot achieve simply by following any form of codes of conduct. [[No Virtue]] [[No Technique]]

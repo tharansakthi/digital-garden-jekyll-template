@@ -1,0 +1,1 @@
+- [Action]() cures fear - [overcome fear](). All it takes a 20 seconds of courage to start something. [2 Minute rule]()

@@ -1,0 +1,3 @@
+- caste based reservation system is an example
+- against the natural evolution, intentionally helping with discrimination for the growth and development of one particular species to exist or evlove. 
+- wrong form of [Feminism]() might be one. 

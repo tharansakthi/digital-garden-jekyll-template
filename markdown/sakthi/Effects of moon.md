@@ -1,0 +1,3 @@
+- [[Haemoglobin]] is a protein found RBC carries [[Oxygen]] to cells in body
+    - **Iron** is an essential element for blood production. About 70% of your body's **iron** is found in the red blood cells of your blood called **hemoglobin** and in muscle cells called myoglobin.
+    - During [[Full mood day]] if you meditate with an erect posture [[badhmasana]] the moon's gravity pull the iron towards brain which helps in increase its potential and increased secretion of good hormones. [[Health]] [[Meditation]]

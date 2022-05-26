@@ -1,0 +1,11 @@
+- Instead of analysing and researching, enjoy the results and outcomes
+    - [[* the crux]] [[Wu Wei]]
+    - Reference Source
+        - #/anecdote from Messiah (Netflix series)
+            - Al-Masih : **There was a frost (dew) on the ground this morning. I watched a bird drinking the melting frost. A person might have wondered where the frost came from in the middle of summer, but the bird drank what it could, and left.**
+            - Felix : The people, your followers, I don't know if you've seen, but there are so many now. They keep asking to see you, to know what's next.
+            - Al-Masih : Who can know what's next?
+            - Felix : I... I thought you might.
+            - Al-Masih : No, I don't. You brought me here, Felix. What told you to do that?
+            - Felix : I don't know. I just did it.
+            - Al-Masih : Just like the bird. **Be like the bird**, Felix.

@@ -1,0 +1,6 @@
+- [Self Actualisation]() [Shadow Work]() [Meditation]() 
+- [Individuation]() is the process of forming 'one' SELF by merging the Conscious and undifferentiated Unconscious (Collective and Personal) 
+- Individuation is in essence a natural process, which can't be forced. [Flow State of Mind]()
+    - There is no one size fits all. It takes different time and different state for different people
+    - Individuation is an exceedingly difficult task: it always involves a conflict of duties, whose __solution requires us to understand that__ **our "counter-will" is also an aspect of God's will.** - [Carl Jung]() #[Complete Surrender]()  #[* the crux]() [Tao]() #[Geethasaaram]()
+- [Maaya]() = [Illusion of Knowledge]() [Unconscious]() [Collective Unconscious]()

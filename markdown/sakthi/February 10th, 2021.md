@@ -1,0 +1,13 @@
+- [[Law of Attraction]]
+    - ^^[[emotions]] = Energy in motion^^
+        - Give energy to your affirmation by having and feeling emotion
+    - ^^Attraction = Action (until it gets traction)^^
+        - you need to act with confidence and take the chances without hesitation 
+    - [[Trust]] - faith is the strongest emotion and gives confidence to act. 
+    - how to identify the law of attraction working, just before the result. **don’t go to negative vibrations just before it happens** [[Nova Effect]]
+        - loss of something 
+            - universe will empty your cup (yourself as a container) to fill new content.
+        - odd requests 
+            - some unique things will happen or call you to do different odd things. this is how universe will make connections with things you never connected. so take the chances and odd choices presented 
+        - challenges
+            - universe will give only the things you can handle. so it will test you by giving challenges 

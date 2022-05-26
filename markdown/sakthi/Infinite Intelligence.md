@@ -1,0 +1,2 @@
+- Universal Intelligence or [[God]] or [[Tao]] or [[Universal Consciousness]]
+    - All knowledge ever known and all force that ever existed

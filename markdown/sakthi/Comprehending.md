@@ -1,0 +1,3 @@
+- [[fact vs concept]]
+    - Understanding a name of a bone is a fact. Understanding what it does is a concept
+    - comprehending a Concept will stay for lifetime. Facts are just information. Memorising is not [[Learning]]

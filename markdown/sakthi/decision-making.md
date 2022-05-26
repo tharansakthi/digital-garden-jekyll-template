@@ -1,0 +1,3 @@
+- “The First principle is that you must not fool yourself, and you are the easiest person to fool.- Richard Feynman #/quotes [[two psyche]] [[decision-making]]
+- [[decision-making framework]] or Strategic Decision Making 
+    - SDR - Single Decisive Reason - one single reason to make decision

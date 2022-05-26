@@ -1,0 +1,10 @@
+- Common Performance Rhythm
+    - [Ultradian rhythm]() - Multiple cycle per day
+        - 90 min work - 20 min rest
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FD0tucO3TcP.png?alt=media&token=cfe9eee6-f156-498b-9bb3-a9ff30e966cc)
+    - [Pomodoro]() with [Time Boxing]() & [Time Blocking]()
+        - 25 min work - 5 min rest (1 cycle = 4 sets + 1 long break)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FriozbjAdWW.jpg?alt=media&token=60e8b9d5-9b0a-4f59-ac7c-7175cf211795)
+    - Harnessing the [Circadian rhythm]()
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2FoGq_52mTLC.png?alt=media&token=0652a45f-a145-4d7d-91df-ed815a024771)
+- Rhythm between "momentum of activity" and "rest or unfocused activity"

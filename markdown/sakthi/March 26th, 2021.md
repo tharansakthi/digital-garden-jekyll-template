@@ -1,0 +1,9 @@
+- #inbox
+    - [[+ growth happens at rest, inaction, doing nothing]] 
+        - “psychological detachment from work.” True [[psychological detachment]] occurs when you completely refrain from work-related activities __and thoughts __during non-work time.  
+        - ^^**The moment I stop trying to be genuine, I felt I am completely genuine.**^^ [[my-words]] [[+ transparency with yourself is a great path to crux]] [[Wu Wei]]
+            - Why are you desire to get rid of desire ? That is a desire. [[Buddhism]] [[Let Go]]
+- #/quotes
+    - Do less, better. Because most of what we do or say is not essential. - [[Marcus Aurelius]]
+        - [[+ do less (do only most significant things)]] [[+ talk less than necessary]]
+    - There’s no unique message, there is only unique messengers. [[Writing]] [[Creativity]] 

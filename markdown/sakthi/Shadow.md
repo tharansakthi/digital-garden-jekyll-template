@@ -1,0 +1,3 @@
+- those aspects of the **personality that we choose to reject and repress**. For one reason or another, we all have parts of ourselves that we don’t like—or that we think society won’t like—so we push those parts down into our unconscious psyches. It is this __collection of repressed aspects of our identity referred to as our__ **shadow**
+    - First coined by Swiss Psychiatrist [[Carl Jung]]
+- The dark side is also equally valuable and significant like Light Side [[Shadow Work]] [[Individuation]]
