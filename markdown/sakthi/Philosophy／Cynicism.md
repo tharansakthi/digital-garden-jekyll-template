@@ -1,6 +1,0 @@
-- **Cynics**, the [[Purpose of Life]] is to live in virtue, in agreement with nature.
-    - humans have complicated every simple gift of the Gods - [[Diogenes]] #Taoism
-        - returning to the natural world, embracing nature and natural way, like dog does. 
-- 
-- # Cynic Philosophers
-    - [[Diogenes]]

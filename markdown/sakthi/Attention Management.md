@@ -1,5 +1,0 @@
-- Attention is a [[Focus]]ed [[Awareness]]
-    - I DON'T want to call as "Distraction Management"
-        - When modern digital connectivity and internet (apps and online services) gives us access to others, it also gives others access to us.
-    - [[Procrastination]] is not a problem of Attention Management, but Distraction is.
-- We tend to see others often due to [[FOLO]]

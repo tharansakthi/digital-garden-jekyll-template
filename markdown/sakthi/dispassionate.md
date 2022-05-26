@@ -1,1 +1,0 @@
-- [[Indifference]] [[immovable mind]] [[Equanimity]]

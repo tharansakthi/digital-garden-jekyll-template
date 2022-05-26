@@ -1,2 +1,0 @@
-- [[Roam Tips and Tricks]]
-    - {{[[TODO]]}} Ctrl + Shift + 9 - for advance block ref search

@@ -1,8 +1,0 @@
-- [[Time Boxing]]
-    - Grouping tasks based on different context and setting time to do it in specified time
-- [[Time Blocking]]
-    - Why time block
-        - [[Pareto Principle]]
-        - [[Parkinson's Law]]
-        - [[Distraction]] & [[Focus]]
-            - [[Ultradian rhythm]]

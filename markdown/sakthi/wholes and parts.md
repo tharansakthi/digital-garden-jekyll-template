@@ -1,4 +1,0 @@
-- **Devil is in the details**
-- When seen as a whole it should be seen from the point of Values. When seen as a part it should be seen from the point of facts [[facts vs values]]
-- Everything is deceiving, truth needs proper thinking and analysis. and it should be apart from feelings [[facts vs feelings]]
-    - [[Thinking]] is difficult, that's why most people judge. [[my Verities Scroll]]

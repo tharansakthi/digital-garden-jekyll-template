@@ -1,3 +1,0 @@
-- #[[outline]]
-    - tags::
-- Outline notes should be like an index, a list of all evergreen notes under a section of knowledge work as a hierarchy. It will tell the relation between evergreen notes and how it forms a whole concept from parts. Mostly to give you a crux, ^^**eagle eye view**^^ for your evergreen notes under one topic.

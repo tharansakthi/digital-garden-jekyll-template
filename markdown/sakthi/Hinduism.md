@@ -1,3 +1,0 @@
-- [[microcosm]] -  a miniature system that resembles or represents the universe
-    - a small entity that characterise the bigger entity
-    - அண்டத்தில் உள்ளதை பிண்டத்தில் வைத்தவா

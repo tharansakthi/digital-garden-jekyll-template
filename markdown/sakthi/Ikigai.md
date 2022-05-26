@@ -1,7 +1,0 @@
-- [[Philosophy]] [[Meaning of Life]]. **Finding** [[Purpose of Life]]
-- [[Flow in Life]] + **Ikigai**
-    - What you are **Good at**
-    - What you **Love**
-    - What that World **Needs**
-    - What you can be **Paid for**
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsakthi%2F4gkNUre0uu.jpg?alt=media&token=3e05d2ed-2953-434c-a15b-70be57c033bb)

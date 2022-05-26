@@ -1,6 +1,0 @@
-- has a purpose in, and not apart from, itself or in end. 
-    - just doing to finish it, but not for the sake of any benefit out of it. [[* the crux]]
-        - creative work or work that brings [[Flow State of Mind]]
-    - autotelic personality 
-        - who tend to do things for the sake of doing them, rather than for the end results.
-    - **Note**:   [[FOPO]]  ^^Be Happy with your own action^^ [[+ do the work with joy and for the sake of doing]] 

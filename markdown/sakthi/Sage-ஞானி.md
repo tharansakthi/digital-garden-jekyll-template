@@ -1,4 +1,0 @@
-- ஞானி
-    - Because he pursues [[Soul]]
-        - He doesn't worry about [[Self Respect]]
-        - He doesn't care about the world and its opinions and [[Materialistic]] successes

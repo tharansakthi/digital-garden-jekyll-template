@@ -1,2 +1,0 @@
-- is a term used for brief and commonplace daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group, particularly culturally marginalized groups.
-- A very small, tiny exhibit of any form of [[aggression]] by a person or group intentionally or unintentionally against someone or some group in a social environment

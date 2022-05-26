@@ -1,7 +1,0 @@
-- [[Gender Dynamics]]
-- (most) Women are attracted to dominant and aggressive male - evident [[Jordan Peterson]]
-    - A genuine female will go for [[Alpha male]] who is usually characterised as **less** [[agreeable]] , aggressive [[aggression]] (but not all the time), dominant, assertive, commanding
-        - [[Right vs Nice Guy]] 
-    - Some [[dominant female]] settle with [[Beta Male]] because they don't want to handle [[Alpha male]] but need to exercise and vent out their dominant side on them
-        - Which usually fall to the category of [[Feminism]]
-    - Some female settle with [[Alpha Seed / Beta Need]]

@@ -1,4 +1,0 @@
-- #evergreen
-    - tags::
-    - relevant outline notes:: [[* the crux]]
-    - relevant evergreen notes::

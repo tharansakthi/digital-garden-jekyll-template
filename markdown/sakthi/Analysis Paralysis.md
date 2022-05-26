@@ -1,1 +1,0 @@
-- **Analysis paralysis** (or **paralysis by analysis**) describes an individual or group process when [[overanalyzing]] or [[overthinking]] a situation can cause forward motion or [[decision-making]] to become "paralyzed",

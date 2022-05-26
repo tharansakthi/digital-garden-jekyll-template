@@ -1,1 +1,0 @@
-- [[* Middle Way]] [[Yin-Yang]] [[wholes and parts]]

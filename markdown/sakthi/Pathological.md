@@ -1,1 +1,0 @@
-- You describe a person or their **behaviour** as **pathological** when they behave in an extreme and unacceptable way, and have very powerful feelings which they cannot control [[Compulsive Behaviour]]

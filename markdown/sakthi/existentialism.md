@@ -1,2 +1,0 @@
-- ^^focusing on [[Psychology]] of one’s own thoughts and inquiring every feelings^^, [[Self Awareness]] [[+ Knowing Thyself is Spirituality]], ^^questioning own existence^^
-- [[Philosophy]] aligns with [[Stoicism]], against [[Taoism]] where it focuses on going along and losing self awareness not on focusing self 
