@@ -5,14 +5,13 @@ id: home
 permalink: /
 ---
 
-# Welcome to Dr. SS' Notes
+# Welcome to Dr. S.S.' Notes
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   You can start by exploring from the index of all [[Public]] notes published directly from my private knowledge collection.
 </p>
 
-## How to read this notes?
-- Simply explore. 
+## about these notes?
 - If the notes seem incomplete, short and unconventional, then please understand, these notes were taken by me for my own purpose. It's more like a reference and repo in no particular format. 
 - You can see more formal version of my writings at <a href="https://alvistor.com">alvistor.com</a>.
 
