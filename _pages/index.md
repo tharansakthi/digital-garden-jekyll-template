@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome to DrSS' Notes
+# Welcome to Dr. SS' Notes
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   You can start by exploring from the index of all [[Public]] notes published directly from my private knowledge collection.
