@@ -98750,32 +98750,10 @@
     },
     "children": [
       {
-        "string": "[[Public]]",
-        "create-time": 1653594800337,
-        ":block/refs": [
-          {
-            ":block/uid": "I-_a1Ot4f"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "I-_a1Ot4f"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
-        },
-        "uid": "6B-ZLW-Rc",
-        "edit-time": 1653594805898,
-        ":edit/user": {
-          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
-        }
-      },
-      {
         "string": "most people in the group goes behind one idea that they actually don’t agree with, yet they all incorrectly think that the other person goes with idea is agreeing with it. ",
-        "uid": "cgiwSH3WO",
-        "create-time": 1653539026996,
-        "edit-time": 1653539092036,
+        "uid": "6B-ZLW-Rc",
+        "create-time": 1653594800337,
+        "edit-time": 1653620959361,
         ":create/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
@@ -98812,9 +98790,9 @@
     "children": [
       {
         "string": "",
-        "uid": "hv8RYNG_o",
-        "create-time": 1653556784511,
-        "edit-time": 1653583856696,
+        "uid": "BVAfzrumF",
+        "create-time": 1653621855835,
+        "edit-time": 1653621855835,
         ":create/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
@@ -98823,23 +98801,35 @@
         }
       },
       {
-        "string": "[[Flow State of Mind]]",
-        "create-time": 1653581425040,
+        "string": "",
+        "uid": "vq2ZCNKiZ",
+        "create-time": 1653621855980,
+        "edit-time": 1653621855980,
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      },
+      {
+        "string": "[[Collective Illusion]]",
+        "create-time": 1653556784511,
         ":block/refs": [
           {
-            ":block/uid": "wl5dQjTdo"
+            ":block/uid": "LdHdZLPGP"
           }
         ],
         "refs": [
           {
-            "uid": "wl5dQjTdo"
+            "uid": "LdHdZLPGP"
           }
         ],
         ":create/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
-        "uid": "LYdQcZsJF",
-        "edit-time": 1653581433323,
+        "uid": "hv8RYNG_o",
+        "edit-time": 1653621849498,
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
@@ -98867,23 +98857,35 @@
         }
       },
       {
-        "string": "[[Public]]",
+        "string": "[[index]]",
         "create-time": 1653593146161,
         ":block/refs": [
           {
-            ":block/uid": "I-_a1Ot4f"
+            ":block/uid": "QIHWTNIBc"
           }
         ],
         "refs": [
           {
-            "uid": "I-_a1Ot4f"
+            "uid": "QIHWTNIBc"
           }
         ],
         ":create/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         },
         "uid": "nxYaHOjmN",
-        "edit-time": 1653593150809,
+        "edit-time": 1653621584765,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      },
+      {
+        "string": "",
+        "uid": "Wcdv6_JWK",
+        "create-time": 1653621217328,
+        "edit-time": 1653621243029,
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
         ":edit/user": {
           ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
         }
@@ -98904,6 +98906,58 @@
     ":log/id": 1653593097701,
     "uid": "05-27-2022",
     "edit-time": 1653593097703,
+    ":edit/user": {
+      ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+    }
+  },
+  {
+    "create-time": 1653621554987,
+    "title": "index",
+    ":create/user": {
+      ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+    },
+    "children": [
+      {
+        "string": "Public Notes Index ",
+        "uid": "x5bzEMZCc",
+        "create-time": 1653621557663,
+        "edit-time": 1653621568261,
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      },
+      {
+        "string": "Archives ",
+        "create-time": 1653621610438,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        "uid": "lCK0nzu9T",
+        "edit-time": 1653621616402,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      },
+      {
+        "string": "2022",
+        "create-time": 1653621617040,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        },
+        "uid": "1tz9AO1yn",
+        "edit-time": 1653621645115,
+        ":edit/user": {
+          ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
+        }
+      }
+    ],
+    "uid": "QIHWTNIBc",
+    "edit-time": 1653621554987,
     ":edit/user": {
       ":user/uid": "MTay0rrOEqgIPYVaQvzXsrXrD9h2"
     }

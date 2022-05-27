@@ -1,4 +1,6 @@
 - 
-- [Flow State of Mind]()
+- 
+- [Collective Illusion]()
 - [Baader-Meinhof phenomenon]()
-- [Public]()
+- [index]()
+- 
