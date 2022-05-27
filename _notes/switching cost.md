@@ -1,0 +1,10 @@
+- # app switching cost 
+    - the amount of energy, time (to evaluate, to get acquainted ), money to spend to change to another method or productivity strategy or to a new app or tool.
+- # mental / task switching cost
+    - **loss of**
+        - will-power to concentrate, loss of interest on the work [[procrastination in disguise]]
+        - getting back to the flow after a break or when switching between tasks.
+    - **ironically it is beneficial**
+        - switching between projects gives a fresh view and a new angle to see it (after spending some period of time in another project, instead of getting burned within a single project)
+            - gives paradigm shift to your approach for a same problem
+        - switching between different areas of life also gives the same effect.

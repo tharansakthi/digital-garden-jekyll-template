@@ -1,0 +1,5 @@
+- record of your thoughts arranged in chronological order 
+    - mostly not intended to read later, but to read your mind now. 
+    - mostly for private use
+        - transparency leads to good and clear heart 
+            - at least transparent to yourself in journaling 
