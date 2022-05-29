@@ -1,11 +1,14 @@
 - Gets you Quick Feedback (from peers)
-- Makes you write originals clearly
-    - You check for truth before publishing each statement
+    - thinking with others 
+- Makes you understand clearly, verify facts before publishing
+    - compelling reason to understand better with In-Depth fact referencing 
 - The better way to test your ideas
     - How well it is received?
     - How badly it is needed for the world? [[ikigai]]
     - How good it is?
         - Leave it for a span of time, then check back to find it yourself
+    - Does it have another paradigm to see? 
+    - Collaborative surveying with your readers 
 - Not every idea needs a full-page full-fledged writing
     - Share quickly (publish timing)
     - Share concise (reading time)

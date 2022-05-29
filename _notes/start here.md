@@ -1,9 +1,3 @@
-- I'm Sakthitharan. This site is where I share my notes publicly.  
-- **What?**
-    - Learning and Sharing my notes/knowledge with the world
-- **How?**
-    - While I share things formally at [alvistor.com](https://alvistor.com). Yet, I needed a quick and informal method to share my knowledge. 
-        - So Sharing my interim Bi-directionally linked notes -> Check connected notes and connections in the graph view.
 - **Why** this site?
     - Writing is the best, easiest way to attain mental clarity.
         - [[write - for better understanding and decision clarity]]
@@ -20,8 +14,8 @@
     - Graph view below every note is an extra perk to connections between notes and you can find related notes with it. 
 - ### Start reading 
     - Check [[index]] for topics / table of contents. 
-        - to browse from latest, Check [[Archive Notes]]
-    - or you can start from middle of best notes [[Best Notes]]
+        - to browse from latest, Check [[Archive of Snippets]]
+    - or you can start from middle of best notes [[Best Notes Collection]]
     - You can also start by browsing below graph
 - ### want to keep in touch and get updates?
     - go to [alvistor.com](https://alvistor.com) and subscribe to the newsletter. 
