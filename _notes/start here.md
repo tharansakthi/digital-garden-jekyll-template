@@ -14,7 +14,7 @@
     - Graph view below every note is an extra perk to connections between notes and you can find related notes with it. 
 - ### Start reading 
     - Check [[index]] for topics / table of contents. 
-        - to browse from latest, Check [[Archive of Snippets]]
+        - to browse from latest, Check [[Archives]]
     - or you can start from middle of best notes [[Best Notes Collection]]
     - You can also start by browsing below graph
 - ### want to keep in touch and get updates?

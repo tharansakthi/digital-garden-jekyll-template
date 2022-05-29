@@ -1,12 +1,11 @@
 - **If you're new here then** [[start here]]
-- I post updates as [[snippets]] here. These notes time sensitive and relevant to present trends. Every snippet is less than a blog post and more than a tweet. 
 - ### Recently Added Notes
     - [[Baader-Meinhoff phenomenon - frequency illusion]]
     - [[how to take notes quick, clear and for future]] 
     - [[atomic understanding]]
     - mental and task [[switching cost]]
     - [[write - for better understanding and decision clarity]]
-    - **for more, visit**  [[Archive of Snippets]]
+    - **for more, visit**  [[Archives]]
 - ### Outline Topics
     - [[Personal Knowledge Management]]
         - [[note-taking]]
