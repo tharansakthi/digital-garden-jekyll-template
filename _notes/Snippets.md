@@ -1,0 +1,1 @@
+- Here within this site; Snippet is a short story / update more than a tweet and less like a blog post.

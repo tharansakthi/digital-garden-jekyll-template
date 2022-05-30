@@ -1,1 +1,1 @@
-- [[how to take notes quick, clear and for future]]
+- [[how to take notes quick, clear, and for future]]

@@ -1,21 +1,23 @@
-- **Why** this site?
-    - Writing is the best, easiest way to attain mental clarity.
-        - [[write - for better understanding and decision clarity]]
-    - To learn quick and to learn the fact -> Teacher Learns the most
-    - Learning Public / [[Why Write Public]]
-        - no [[FOPO]] (and [[FOMO]])
+- ### about these notes
+    - If the notes seem incomplete, short, and unconventional, then please understand, that these are just informal notes. It's more like a reference and repo in no particular format.
+    - You can see the more formal version of my writings at [alvistor.com](https://alvistor.com).
+- ### How to get new updates on these notes?
+    - Well, it's hard to pull the updated content as these notes are non-linear in nature.
+You can subscribe to my [email updates](https://www.getrevue.co/profile/alvistor) where I will include the major changes made to these notes, briefly.
+- ### What else?
+    - Well, make use of it. Feel free to use the content for your creations.
+    - Contribute your share of knowledge, or ask me anything. Write me -> s@alvistor.com
+    - Share. If you are using the contents of this project, don't forget to share the credits.
+    - Support this project. It costs me energy and time to create and share intellectual content. Consider buying me some coffee (link in footer) to ease my cognitive burden.
+Knowledge is free, yet to assemble it is a hard job. 
+- ### Why publish half-baked notes?
+    - Writing is the best, easiest way to attain mental clarity. [[write - for better understanding and decision clarity]]
+    - To learn quickly and to record the facts straight -> Teacher Learns the most
+    - Learning Public. [[Why Write Public]] and to write without [[FOPO]] (and [[FOMO]])
     - To get opinions and help from peers (and make some friends)
-        - and for some coffee too -> [paypal.me/alvistor](paypal.me/alvistor) or [ko-fi/tharan](https://ko-fi.com/tharan)
+        - and appreciates some coffee too -> [paypal.me/alvistor](paypal.me/alvistor) or [Buy Me a Coffee](alvistor.com/go/tips). Don't forget to mail me if you donate me something.
 - **Caution & Disclaimer:** The contents are my opinion, my understanding at the time of taking notes, and out of my personal experience. __Do not treat them as a fact. __
 - ### How to read this site
-    - Hover over the links using mouse to have preview of what's inside that note.
-        - It may not work in mobile / touch screen devices
-    - Check the "notes mentioned this note" to visit other notes that referred the current note you're viewing
-    - Graph view below every note is an extra perk to connections between notes and you can find related notes with it. 
-- ### Start reading 
-    - Check [[index]] for topics / table of contents. 
-        - to browse from latest, Check [[Archives]]
-    - or you can start from middle of best notes [[Best Notes Collection]]
+    - Updates are posted as [[Snippets]], just make sure you have seen the recent snippets on the [[index]] page and [[Archives]]
+    - Check [[index]] for recently added notes links and a list of topics.
     - You can also start by browsing below graph
-- ### want to keep in touch and get updates?
-    - go to [alvistor.com](https://alvistor.com) and subscribe to the newsletter. 

@@ -1,0 +1,5 @@
+- reading your own writing tells you many news things about you. 
+- venting space to let go of your mental clarity. to dump your mind noises. then to think “what’s next” 
+    - makes you to ask the right question
+    - reduces anger and negative feelings
+        - if not, write until it goes away

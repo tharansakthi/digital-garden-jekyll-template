@@ -1,11 +1,11 @@
 - **If you're new here then** [[start here]]
-- ### Recently Added Notes
-    - [[Baader-Meinhoff phenomenon - frequency illusion]]
-    - [[how to take notes quick, clear and for future]] 
-    - [[atomic understanding]]
-    - mental and task [[switching cost]]
+- ### Recently Added
+    - How to write a note or journal? You have to [[write for your future stupid self]] and why?
+    - [[how to take notes quick, clear, and for future]]? 
+    - task [[switching cost]] and how it affects mental energy and productivity?
     - [[write - for better understanding and decision clarity]]
-    - **for more, visit**  [[Archives]]
+    - [[Baader-Meinhoff phenomenon - frequency illusion]]
+    - **For more; check** [[Archives]]
 - ### Outline Topics
     - [[Personal Knowledge Management]]
         - [[note-taking]]

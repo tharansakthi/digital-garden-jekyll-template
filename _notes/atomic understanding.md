@@ -3,4 +3,4 @@
     - learn them individually, understand them fundamentally
         - Deconstruct -> Understand -> Reconstruct
     - write them as a note [[atomic block]]
-    - and then make connection between them [[how to take notes quick, clear and for future]]
+    - and then make connection between them [[how to take notes quick, clear, and for future]]
