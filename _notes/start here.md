@@ -4,6 +4,7 @@
 - ### How to get new updates on these notes?
     - Well, it's hard to pull the updated content as these notes are non-linear in nature.
 You can subscribe to my [email updates](https://www.getrevue.co/profile/alvistor) where I will include the major changes made to these notes, briefly.
+    - Check [[Archives]] for chronologically added content. Snippets connect notes. 
 - ### What else?
     - Well, make use of it. Feel free to use the content for your creations.
     - Contribute your share of knowledge, or ask me anything. Write me -> s@alvistor.com

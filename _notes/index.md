@@ -1,14 +1,7 @@
 - **If you're new here then** [[start here]]
-- ### Recently Added
+- ## Recently Added Snippets
+    - Spend an hour creating and fiddling with your own thoughts or reviewing your own notes/ journal. No influence from the outer world and no consumption from outer sources like books, media, and social media. [[+ best productivity time is morning hours]]. Solitude is an important step to achieving [[flow state]]. **You don't need to share your creations. But Create.**
     - How to write a note or journal? You have to [[write for your future stupid self]] and why?
-    - [[how to take notes quick, clear, and for future]]? 
-    - task [[switching cost]] and how it affects mental energy and productivity?
-    - [[write - for better understanding and decision clarity]]
-    - [[Baader-Meinhoff phenomenon - frequency illusion]]
-    - **For more; check** [[Archives]]
-- ### Outline Topics
-    - [[Personal Knowledge Management]]
-        - [[note-taking]]
-    - [[Personal Productivity]] 
-        - [[Productivity Strategies & Myths]]
-        - [[Productivity Apps]]
+    - Note-taking is not a writing process, it is a cognitive process along with an understanding/writing/remembering system. So, [[how to take notes quick, clear, and for future]]? 
+- ### Browse [[Archives]]
+- Browse by [[Outline Topics]]

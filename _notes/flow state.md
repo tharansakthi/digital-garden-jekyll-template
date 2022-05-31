@@ -1,0 +1,3 @@
+- # flow state of mind / flow state in productivity
+- an optimal state of consciousness, a mental state where you feel your best and perform your best. More specifically, the term refers to those moments of rapt attention and total absorption, when you get so focused on the task at hand that everything else disappears. 
+- Your sense of self/ego vanishes. Your sense of time distorts (either, typically, speeds up; or, occasionally, slows down). And throughout, all aspects of performance, both mental and physical, go through the roof.
