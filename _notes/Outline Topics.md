@@ -1,7 +1,7 @@
 - [[*Personal Knowledge Management]]
     - [[*note-taking]]
 - [[*Personal Productivity]] 
-    - [[*Productivity Strategies]]
-        - 
+    - [[*Productivity Strategy]]
     - [[productivity myths]]
     - [[Productivity Apps]]
+    - [[Productivity Guide]]

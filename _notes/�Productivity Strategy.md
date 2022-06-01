@@ -1,0 +1,3 @@
+- [[task switching cost]]
+- [[procrastination in disguise]]
+- [[eat the frog]]
