@@ -1,4 +1,5 @@
 - ### about these notes
+    - [[wholebeing]]
     - If the notes seem incomplete, short, and unconventional, then please understand, that these are just informal notes. It's more like a reference and repo in no particular format.
     - You can see the more formal version of my writings at [alvistor.com](https://alvistor.com).
 - ### How to get new updates on these notes?
