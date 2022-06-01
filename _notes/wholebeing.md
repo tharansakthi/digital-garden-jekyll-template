@@ -1,2 +1,3 @@
 - well-being in all aspects of life.
-    - [[SPIRE Model]] & also includes 
+    - [[SPIRE Model]] & 
+    - also on [[Financial Wellbeing]], [[Personal Productivity]]
