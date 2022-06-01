@@ -1,0 +1,4 @@
+- the harder you try, the harder you fail or fall
+    - true for some cases
+    - persistent won't always win. sometimes you have to adapt or let go
+- [[growth happens while you rest; after deliberate work]]

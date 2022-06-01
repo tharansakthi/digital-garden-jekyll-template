@@ -1,0 +1,2 @@
+- true for physical workouts
+- also true for brain. Your cognitive bandwidth expands after heavy focused work followed by rest  
