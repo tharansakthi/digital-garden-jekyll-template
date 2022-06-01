@@ -1,0 +1,3 @@
+- both early morning and starting hours your work. 
+- [[eat the frog]] strategy works best for most people
+- if you make it a habit and if you can get in to [[flow state]] every day for at least an hour you can achieve great goals and beyond 
