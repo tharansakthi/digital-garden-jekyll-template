@@ -1,6 +1,6 @@
 - **If you're new here then** [[start here]]
 - ## Recently Added Snippets
-- [[law of reverse effect]] contradictory to theory of hardwork. 
+- [[law of reverse effect]] the harder you try, the harder you fall. 
     - [[June 1st, 2022]]
 - Spend an hour creating and fiddling with your own thoughts or reviewing your own notes/ journal. No influence from the outer world and no consumption from outer sources like books, media, and social media. [[best time for focused productivity is during morning hours - use it for creative works and goals]]. Solitude is an important step to achieving [[flow state]]. **You don't need to share your creations. But Create.**
     - [[May 31st, 2022]]
