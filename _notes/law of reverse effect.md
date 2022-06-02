@@ -2,3 +2,6 @@
     - true for some cases
     - persistent won't always win. sometimes you have to adapt or let go
 - [[growth happens while you rest; after deliberate work]]
+- While [[law of attraction]] attracts what you frequently imagine or desire strongly,. law of reverse effect makes it go away or brings exactly the opposite of what you wanted, just because you did it in wrong way or you're afraid at the corner of your mind that you may not get it. Less [[faith]] or [[confidence]]
+    - ex: "I want money". By saying this again and again you're making an impression in your [[subconscious mind]] that you don't have it or you're not having it. 
+- Check #Book The Power of Sub Conscious Mind
