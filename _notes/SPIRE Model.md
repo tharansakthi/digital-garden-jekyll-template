@@ -1,6 +1,0 @@
-- SPIRE stands for 
-    - Spiritual (Mindfulness, Mental Well Being)
-    - Physical 
-    - Intellectual
-    - Relational / Relationship
-    - Emotional
