@@ -1,3 +1,4 @@
+- the total expense of energy, focus and other resources (both physical and emotional) when you (frequently) switch between tasks of different nature that goes waste or not contributing to the productivity (completion of task) #excerpt
 - # app switching cost 
     - the amount of energy, time (to evaluate, to get acquainted ), money to spend to change to another method or productivity strategy or to a new app or tool.
 - # mental / task switching cost

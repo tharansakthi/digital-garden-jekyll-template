@@ -1,9 +1,10 @@
 - well-being in all aspects of life.
     - [[SPIRE Model]] SPIRE stands for 
-        - Spiritual (Mindfulness, Mental Well Being)
-        - Physical 
-        - Intellectual
-        - Relational / Relationship
-        - Emotional
-    - and on [[Financial Wellbeing]], [[Personal Productivity]], [[Personal Knowledge Management]]
-        - check [[Outline Topics]]
+        - ### **S**piritual ([[mindfulness]])
+        - ### **P**hysical 
+        - ### **I**ntellectual
+            - [[Personal Knowledge Management]]
+        - ### **R**elational / Relationship
+        - ### **E**motional
+            - Mental Well-being
+        - and also on [[Financial Wellbeing]], [[Personal Productivity]]

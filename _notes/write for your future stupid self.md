@@ -1,3 +1,4 @@
+- How to write a note or journal? You have to [[write for your future stupid self]] and why? #excerpt
 - when you read your note it in future
     - remember that you don't remember everything, esp. the context of the note.
     - consider your future mind as a fresh mind that has not exposure to the work (that you made notes on)

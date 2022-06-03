@@ -1,12 +1,5 @@
-- **If you're new here then** [[start here]]
-- ## Recently Added Snippets
-- avoiding distraction ([[distraction management]])aids [[focus]], and it is the first step. Not the entire process of [[focus]]ed work. 
-    - [[June 2nd, 2022]]
-- [[law of reverse effect]] the harder you try, the harder you fall. 
-    - [[June 1st, 2022]]
-- Spend an hour creating and fiddling with your own thoughts or reviewing your own notes/ journal. No influence from the outer world and no consumption from outer sources like books, media, and social media. [[best time for focused productivity is during morning hours - use it for creative works and goals]]. Solitude is an important step to achieving [[flow state]]. **You don't need to share your creations. But Create.**
-    - [[May 31st, 2022]]
-- How to write a note or journal? You have to [[write for your future stupid self]] and why?
-- Note-taking is not a writing process, it is a cognitive process along with an understanding/writing/remembering system. So, [[how to take notes quick, clear, and for future]]? 
-- ### Browse [[Archives]]
-- Browse by [[Outline Topics]]
+- Welcome to The Wholebeing notes - **If you're new here then** [[start here]]
+- ## Recently Added - [[excerpt-recent]]
+- ### Browse [[excerpt]] archive
+- ### [[snippet]]s collection 
+- ### Browse by [[Outline Topics]]

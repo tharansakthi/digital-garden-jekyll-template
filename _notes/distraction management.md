@@ -1,0 +1,1 @@
+- avoiding distraction ([[distraction management]])aids [[focus]], and it is the first step. Not the entire process of [[focus]]ed work. #excerpt-recent

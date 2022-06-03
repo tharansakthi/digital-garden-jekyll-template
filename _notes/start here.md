@@ -1,11 +1,12 @@
 - ### about these notes
     - [[wholebeing]]
-    - If the notes seem incomplete, short, and unconventional, then please understand, that these are just informal notes. It's more like a reference and repo in no particular format.
+    - If the notes seem incomplete, short, and unconventional, then please understand, that these are just informal notes. It's more like a reference and repo in no particular format. 
+    - This is my second layer of notes, I tried to make it a complete sentence and clear as much as possible for the reader's benefit. 
     - You can see the more formal version of my writings at [alvistor.com](https://alvistor.com).
 - ### How to get new updates on these notes?
     - Well, it's hard to pull the updated content as these notes are non-linear in nature.
 You can subscribe to my [email updates](https://www.getrevue.co/profile/alvistor) where I will include the major changes made to these notes, briefly.
-    - Check [[Archives]] for chronologically added content. Snippets connect notes. 
+    - Check [[excerpt]] for chronologically added content. Snippets connect notes. 
 - ### What else?
     - Well, make use of it. Feel free to use the content for your creations.
     - Contribute your share of knowledge, or ask me anything. Write me -> s@alvistor.com
@@ -20,6 +21,8 @@ Knowledge is free, yet to assemble it is a hard job.
         - and appreciates some coffee too -> [paypal.me/alvistor](paypal.me/alvistor) or [Buy Me a Coffee](alvistor.com/go/tips). Don't forget to mail me if you donate me something.
 - **Caution & Disclaimer:** The contents are my opinion, my understanding at the time of taking notes, and out of my personal experience. __Do not treat them as a fact. __
 - ### How to read this site
-    - Updates are posted as [[Snippets]], just make sure you have seen the recent snippets on the [[index]] page and [[Archives]]
-    - Check [[index]] for recently added notes links and a list of topics.
-    - You can also start by browsing below graph
+    - Updates are linked to [[excerpt]] and sorted by old to new edit
+    - Latest addition is linked to ([[excerpt-recent]]); for loyal visitors to see the update or changes only in the notes
+    - Some random thoughts/finding is added to Random [[snippet]] as a take-away point. aka best points
+    - [[index]] is the **root** of the notes with [[Outline Topics]] page
+    - You can also browse by the "Graph". Hope you know how to use RoamResearch

@@ -5,8 +5,10 @@
     - ground-up thinking, building the concept using your [[atomic block]] of 'understood knowledge pieces' or [[atomic note]] to form a feasible solution
     - integrating mix and matching your Concepts without changing first principles, but changing its order, combination, connection etc. 
     - [[systems thinking]] - thinking for the whole, and then solving each elemental problems in the system having interoperable issues in account
-    - ability to reassemble your [[atomic block]] to find the different solution is the power of this system. 
+    - ability to reassemble your [[atomic block]] to find the different novel solution
     - It's all about your thinking process, this notes system only aids it.
 - eg. all river flow towards ocean - this is analogy
     - we accept analogy without asking questions 
     - if you break it down, river is water, water flows towards lower ground, that is because of the gravity, gravity is a pulling force towards earth's centre. We've reached the first principle. That is water moves towards the centre of the earth, so it move in line tracing the trench towards the pit (in this case, Ocean). May be this is how they built the dam, hydro electricity generating stations etc. 
+- analogies never replace [[understanding]]
+- [[understanding]] how something works entirely is different from [[atomic understanding]] of how each part works separately and how they integrate and work together to form a system is different. #excerpt
