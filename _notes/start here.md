@@ -1,28 +1,29 @@
 - ### about these notes
-    - [[wholebeing]]
+    - I wanted to know understand and research on [[wholebeing]] or over all well-being. Thus, this knowledge garden is collection of stuff relevant to it. 
     - If the notes seem incomplete, short, and unconventional, then please understand, that these are just informal notes. It's more like a reference and repo in no particular format. 
-    - This is my second layer of notes, I tried to make it a complete sentence and clear as much as possible for the reader's benefit. 
+    - This is my second layer of notes, I tried to make it simple, precise, complete and clear as much as possible for the reader's benefit. 
     - You can see the more formal version of my writings at [alvistor.com](https://alvistor.com).
 - ### How to get new updates on these notes?
     - Well, it's hard to pull the updated content as these notes are non-linear in nature.
 You can subscribe to my [email updates](https://www.getrevue.co/profile/alvistor) where I will include the major changes made to these notes, briefly.
-    - Check [[excerpt]] for chronologically added content. Snippets connect notes. 
+    - Check [[excerpt]] of notes added here to see what it is about.
+    - Check [[snippet]]s page for chronologically added updates, more like a newsletter updates covers wide topics. 
 - ### What else?
-    - Well, make use of it. Feel free to use the content for your creations.
-    - Contribute your share of knowledge, or ask me anything. Write me -> s@alvistor.com
+    - Ask me anything. Write to me -> s@alvistor.com
     - Share. If you are using the contents of this project, don't forget to share the credits.
-    - Support this project. It costs me energy and time to create and share intellectual content. Consider buying me some coffee (link in footer) to ease my cognitive burden.
+    - Support this project. It costs me energy and time to create and share intellectual content. Consider buying me some coffee to ease my cognitive burden.
 Knowledge is free, yet to assemble it is a hard job. 
-- ### Why publish half-baked notes?
+- ### Why publish like this? 
     - Writing is the best, easiest way to attain mental clarity. [[write - for better understanding and decision clarity]]
-    - To learn quickly and to record the facts straight -> Teacher Learns the most
-    - Learning Public. [[Why Write Public]] and to write without [[FOPO]] (and [[FOMO]])
-    - To get opinions and help from peers (and make some friends)
-        - and appreciates some coffee too -> [paypal.me/alvistor](paypal.me/alvistor) or [Buy Me a Coffee](alvistor.com/go/tips). Don't forget to mail me if you donate me something.
+    - To learn quickly and to record the facts straight for reference -> Teacher Learns the most
+    - To share quick. 
+    - Learning Publicly. [[Why Write Public]] and to write without [[FOPO]] (and [[FOMO]])
+    - To get opinions and help from peers and to help others. 
+    - and appreciates some coffee too -> [paypal.me/alvistor](paypal.me/alvistor) or [Buy Me a Coffee](alvistor.com/go/tips). Don't forget to mail me if you donate me something.
 - **Caution & Disclaimer:** The contents are my opinion, my understanding at the time of taking notes, and out of my personal experience. __Do not treat them as a fact. __
 - ### How to read this site
-    - Updates are linked to [[excerpt]] and sorted by old to new edit
-    - Latest addition is linked to ([[excerpt-recent]]); for loyal visitors to see the update or changes only in the notes
-    - Weekly Updates -  [[snippet]] as a take-away point.
+    - You can see the list of Notes with [[excerpt]] for you to choose a starting point. 
+    - Latest addition is linked to ([[excerpt-recent]]); for repeated visitors.
+    - Weekly Updates -  [[snippet]] as a collection of take-away for the week or period. 
     - [[index]] is the **root** of the notes with [[Outline Topics]] page
-    - You can also browse by the "Graph". Hope you know how to use RoamResearch
+    - You can also browse by the note connections in the "Graph".
