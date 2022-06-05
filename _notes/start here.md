@@ -23,6 +23,6 @@ Knowledge is free, yet to assemble it is a hard job.
 - ### How to read this site
     - Updates are linked to [[excerpt]] and sorted by old to new edit
     - Latest addition is linked to ([[excerpt-recent]]); for loyal visitors to see the update or changes only in the notes
-    - Some random thoughts/finding is added to Random [[snippet]] as a take-away point. aka best points
+    - Weekly Updates -  [[snippet]] as a take-away point.
     - [[index]] is the **root** of the notes with [[Outline Topics]] page
     - You can also browse by the "Graph". Hope you know how to use RoamResearch
