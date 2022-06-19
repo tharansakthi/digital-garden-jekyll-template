@@ -1,4 +1,4 @@
 - both early morning and starting hours your work. 
 - [[eat the frog]] strategy works best for most people
 - if you make it a habit and if you can get into [[flow state]] every day for at least an hour you can achieve great goals and beyond 
-- **Spend an hour creating and fiddling with your own thought**s or reviewing your own notes/ journal. No influence from the outer world and no consumption from outer sources like books, media, and social media. [[best time for focused productivity is during morning hours - use it for creative works and goals]]. Solitude is an important step to achieving [[flow state]]. **You don't need to share your creations. But Create.** #excerpt 
+- **Spend an hour creating and fiddling with your own thought**s or reviewing your own notes/ journal. No influence from the outer world and no consumption from outer sources like books, media, and social media. [[best time for focused productivity is during morning hours - use it for creative works and goals]]. Solitude is an important step to achieving [[flow state]]. **You don't need to share your creations. But Create.** #excerpt [[excerpt]]
