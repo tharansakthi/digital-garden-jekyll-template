@@ -7,7 +7,7 @@
     - Well, it's hard to pull the updated content as these notes are non-linear in nature.
 You can subscribe to my [email updates](https://www.getrevue.co/profile/alvistor) where I will include the major changes made to these notes, briefly.
     - Check [[excerpt]] of notes added here to see what it is about.
-    - Check [[snippet]]s page for chronologically added updates, more like a newsletter updates covers wide topics. 
+    - Check [[snippetters]]s page for chronologically added updates, more like a newsletter updates covers wide topics. 
 - ### What else?
     - Ask me anything. Write to me -> s@alvistor.com
     - Share. If you are using the contents of this project, don't forget to share the credits.
@@ -24,6 +24,6 @@ Knowledge is free, yet to assemble it is a hard job.
 - ### How to read this site
     - You can see the list of Notes with [[excerpt]] for you to choose a starting point. 
     - Latest addition is linked to ([[excerpt-recent]]); for repeated visitors.
-    - Weekly Updates -  [[snippet]] as a collection of take-away for the week or period. 
+    - Weekly Updates -  [[snippetters]] as a collection of take-away for the week or period between the [[snippetters]] issue/release. 
     - [[index]] is the **root** of the notes with [[Outline Topics]] page
     - You can also browse by the note connections in the "Graph".

@@ -1,1 +1,1 @@
-- Note-taking is not a writing process, it is a cognitive process along with an understanding/writing/remembering system. So, [[how to take notes quick, clear, and for future]]? #excerpt
+- Note-taking is not a writing process, it is a cognitive process along with an understanding/writing/remembering system. So, [[how to take notes quick, clear, and for future]]? #excerpt [[excerpt]]

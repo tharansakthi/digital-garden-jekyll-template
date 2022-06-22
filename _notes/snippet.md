@@ -1,3 +1,0 @@
-- Snippets: Within this site; Snippet is a short story/update more than a tweet and less like a blog post, more like a newsletter in theme.
-    - Snippets are the most important takeaways or news. Added later or a long time after a note is created. ^^An easy way to follow the incremental updates of notes here.^^
-- Slightly differs from the notes I publish here. Snippets consist of links to a few relevant notes and are **time-sensitive**.
