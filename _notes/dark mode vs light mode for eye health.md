@@ -1,0 +1,11 @@
+- For Better Eye Sight, Which is better?
+    - ^^Summary: even though the light mode performance is high, it is suitable for the short term, but there may be long-term costs.^^ #excerpt
+    - #[[Digital Wellbeing]] #[[Physical Wellbeing]]
+    - Source::  [Based on Research Review ](https://www.nngroup.com/articles/dark-mode/)
+        - Positive contrast polarity (light mode) refers to dark-font text on light background.
+        - Negative contrast polarity (dark mode) denotes the combination of light (e.g., white) text on dark (e.g., black) background.
+        - results showed that light mode won across all dimensions: irrespective of age, the positive contrast polarity was better for both **visual-acuity tasks and for proofreading tasks.** However, the difference between light mode and dark mode in the visual-acuity task was smaller for older adults than for younger adults — meaning that, **although light mode was better for older adults, too, they did not benefit from it as much as younger adults, at least in the visual-acuity task.**
+        - during daytime, there was no significant effect of contrast polarity, but during nighttime, light mode led to better performance than dark mode
+        - Long Term Effects
+            - sustained exposure to light mode may be associated with myopia or nearsightedness
+            - the dark mode also causes some issue in eye sight. - reduced acuity 

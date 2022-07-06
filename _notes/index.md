@@ -1,5 +1,5 @@
 - Welcome to The Wholebeing notes - **If you're new here then** [[start here]]
 - ## Recently Added - [[excerpt-recent]]
 - ### [[excerpt]]s from notes
-- ### [[snippetters]] - thoughts, updates, letters
+- ### [[Snippetter]] - thoughts, updates, letters
 - ### Browse by [[Outline Topics]]

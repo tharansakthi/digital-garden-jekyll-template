@@ -1,0 +1,6 @@
+- ### [[Snippetter]] - Light Mode vs Dark Mode for Eye Health
+    - ^^Summary: even though the light mode performance is high, it is suitable for the short term, but there may be long-term costs.^^ #excerpt
+        - Ref: [[dark mode vs light mode for eye health]]
+    - dark mode can save some battery juice in your devices (if the screen is OLED or similar or higher technology)
+    - 
+- ### 
